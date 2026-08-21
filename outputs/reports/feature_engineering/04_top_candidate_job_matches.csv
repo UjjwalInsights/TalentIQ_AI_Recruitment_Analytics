@@ -1,0 +1,21 @@
+candidate_id,candidate_name,job_id,job_code,job_title,experience_years,experience_required,must_have_match_rate,nice_to_have_match_rate,overall_skill_match_rate,experience_match_score,location_match_score,structured_match_score,match_category
+498,Neha Johnson,370,JOB-2026-00370,Java Developer,9,6,100.0,100.0,100.0,100.0,100,100.0,Excellent
+6566,Jessica Williams,819,JOB-2026-00819,Data Scientist,11,3,100.0,66.67,91.67,100.0,100,94.17,Excellent
+1619,John Williams,541,JOB-2026-00541,Senior Java Developer,13,6,100.0,50.0,87.5,100.0,100,91.25,Excellent
+5178,Stephanie Reddy,712,JOB-2026-00712,AI Engineer,6,5,100.0,50.0,87.5,100.0,100,91.25,Excellent
+9093,Richard Smith,701,JOB-2026-00701,Data Analyst,4,3,100.0,100.0,100.0,100.0,0,90.0,Excellent
+3314,Steven Harris,819,JOB-2026-00819,Data Scientist,8,3,100.0,100.0,100.0,100.0,0,90.0,Excellent
+7709,Arjun Anderson,937,JOB-2026-00937,Data Scientist,13,8,100.0,40.0,85.0,100.0,100,89.5,Strong
+3872,Mark Clark,364,JOB-2026-00364,Data Analyst,10,6,100.0,33.33,83.33,100.0,100,88.33,Strong
+6993,Emily Nair,491,JOB-2026-00491,DevOps Engineer,11,3,100.0,33.33,83.33,100.0,100,88.33,Strong
+8672,Donald Wright,438,JOB-2026-00438,Data Analyst,10,2,100.0,33.33,83.33,100.0,100,88.33,Strong
+4296,Steven Reddy,104,JOB-2026-00104,Java Developer,12,2,100.0,33.33,83.33,100.0,100,88.33,Strong
+3304,Michelle Anderson,819,JOB-2026-00819,Data Scientist,4,3,100.0,33.33,83.33,100.0,100,88.33,Strong
+9446,Kevin Johnson,77,JOB-2026-00077,Senior Java Developer,12,8,100.0,33.33,83.33,100.0,100,88.33,Strong
+281,John Gupta,952,JOB-2026-00952,ML Engineer,10,5,100.0,33.33,83.33,100.0,100,88.33,Strong
+3873,Paul Anderson,735,JOB-2026-00735,DevOps Engineer,7,6,100.0,33.33,83.33,100.0,100,88.33,Strong
+5976,Sneha Young,364,JOB-2026-00364,Data Analyst,13,6,100.0,33.33,83.33,100.0,100,88.33,Strong
+5818,David Singh,410,JOB-2026-00410,Data Scientist,15,8,100.0,25.0,81.25,100.0,100,86.88,Strong
+2630,Laura Mehta,622,JOB-2026-00622,Data Analyst,4,4,100.0,25.0,81.25,100.0,100,86.88,Strong
+564,Charles Clark,622,JOB-2026-00622,Data Analyst,14,4,100.0,25.0,81.25,100.0,100,86.88,Strong
+3627,David Sharma,410,JOB-2026-00410,Data Scientist,11,8,100.0,25.0,81.25,100.0,100,86.88,Strong

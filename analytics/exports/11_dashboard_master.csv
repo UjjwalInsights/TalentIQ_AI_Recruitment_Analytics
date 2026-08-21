@@ -1,0 +1,1001 @@
+"job_id","job_code","job_title","job_status","department_id","end_client_id","vendor_id","location_id","assigned_recruiter_id","experience_required","employment_type","work_mode","bill_rate","bill_rate_type","min_salary","max_salary","opened_date","closed_date","job_age_days","total_applications","screening_count","submitted_to_client_count","interview_count","total_offers","total_hires","total_placements","placement_rate"
+882,JOB-2026-00882,Full Stack Developer,Open,7,21,16,10,4,3,Contract-to-Hire,Onsite,62.92,Hourly,34506.00,89694.00,2025-12-02,,254,53,11,1,5,3,2,3,5.66
+555,JOB-2026-00555,Senior Java Developer,Open,2,7,16,1,3,5,Contract,Hybrid,57.02,Hourly,59515.00,93525.00,2025-04-19,,481,52,11,2,4,3,1,3,5.77
+811,JOB-2026-00811,Data Scientist,Closed,2,21,12,6,4,5,Contract-to-Hire,Hybrid,111.77,Hourly,56380.00,114858.00,2026-05-29,2026-08-14,77,49,7,6,7,3,2,3,6.12
+755,JOB-2026-00755,AI Engineer,Open,7,3,17,4,1,6,Contract-to-Hire,Onsite,53.54,Hourly,78174.00,129421.00,2026-07-31,,13,46,9,6,4,3,2,3,6.52
+772,JOB-2026-00772,Senior Data Analyst,Closed,7,10,12,6,4,5,Full-time,Onsite,99.75,Hourly,70540.00,100207.00,2025-10-01,2025-11-20,50,43,9,5,3,3,2,3,6.98
+835,JOB-2026-00835,Senior Java Developer,Closed,7,5,12,21,1,8,Full-time,Hybrid,104.81,Hourly,86552.00,129796.00,2026-01-05,2026-04-13,98,43,7,5,5,4,3,3,6.98
+671,JOB-2026-00671,AI Engineer,Closed,7,4,15,4,2,6,Full-time,Remote,62.24,Hourly,87888.00,128961.00,2025-08-27,2025-11-27,92,42,6,9,3,3,1,3,7.14
+575,JOB-2026-00575,Java Developer,Open,2,8,14,12,1,2,Contract,Remote,115.13,Hourly,25900.00,48898.00,2025-11-30,,256,42,9,3,4,3,1,3,7.14
+509,JOB-2026-00509,Data Scientist,Open,6,6,13,4,4,3,Contract,Onsite,56.20,Hourly,31437.00,70968.00,2026-02-04,,190,56,9,11,6,2,2,2,3.57
+962,JOB-2026-00962,Senior Data Analyst,Open,6,6,17,2,1,7,Full-time,Onsite,62.19,Hourly,95067.00,140421.00,2025-11-17,,269,55,9,3,6,3,7,2,3.64
+727,JOB-2026-00727,Java Developer,Open,6,8,11,8,1,6,Full-time,Hybrid,66.06,Hourly,62196.00,121555.00,2025-08-29,,349,54,7,13,6,3,2,2,3.70
+248,JOB-2026-00248,Java Developer,Open,7,6,16,5,4,6,Contract-to-Hire,Remote,111.36,Hourly,85710.00,111951.00,2026-03-20,,146,54,6,9,9,2,4,2,3.70
+763,JOB-2026-00763,AI Engineer,Filled,7,21,17,11,4,5,Full-time,Onsite,101.76,Hourly,57300.00,94531.00,2026-08-01,2026-10-30,90,53,6,8,6,3,0,2,3.77
+503,JOB-2026-00503,Business Analyst,Filled,6,1,11,3,3,5,Full-time,Onsite,73.41,Hourly,51990.00,91989.00,2025-10-18,2026-01-03,77,53,9,6,5,3,6,2,3.77
+762,JOB-2026-00762,AI Engineer,Closed,7,6,15,9,4,5,Contract,Hybrid,83.28,Hourly,50575.00,83199.00,2025-10-09,2025-12-02,54,52,10,4,3,4,2,2,3.85
+606,JOB-2026-00606,Senior Data Analyst,Filled,7,2,14,5,1,7,Contract-to-Hire,Remote,60.01,Hourly,98210.00,131156.00,2025-03-28,2025-06-03,67,52,11,4,4,2,3,2,3.85
+551,JOB-2026-00551,Senior Data Analyst,Filled,6,3,17,20,1,4,Contract,Onsite,54.18,Hourly,57968.00,93846.00,2026-03-25,2026-04-29,35,50,14,9,2,2,2,2,4.00
+622,JOB-2026-00622,Data Analyst,Closed,7,23,15,13,1,4,Full-time,Hybrid,60.59,Hourly,47184.00,85513.00,2025-06-30,2025-10-22,114,49,9,3,7,4,1,2,4.08
+864,JOB-2026-00864,Data Scientist,Filled,7,4,16,21,3,3,Full-time,Hybrid,105.69,Hourly,42471.00,93648.00,2026-07-03,2026-10-03,92,49,10,7,4,2,4,2,4.08
+567,JOB-2026-00567,Business Analyst,Filled,6,7,16,17,1,6,Contract-to-Hire,Onsite,110.08,Hourly,67932.00,88740.00,2025-04-30,2025-07-03,64,49,11,5,7,2,4,2,4.08
+173,JOB-2026-00173,Senior Data Analyst,Open,7,22,12,14,4,5,Full-time,Hybrid,51.03,Hourly,62825.00,90549.00,2025-09-02,,345,49,7,11,5,2,0,2,4.08
+508,JOB-2026-00508,ML Engineer,Open,2,5,17,5,1,4,Contract,Onsite,116.17,Hourly,43756.00,70265.00,2026-07-09,,35,47,5,6,7,2,4,2,4.26
+357,JOB-2026-00357,Business Analyst,Closed,2,2,16,20,2,3,Full-time,Onsite,73.12,Hourly,37137.00,69821.00,2025-01-02,2025-04-28,116,47,6,1,8,3,4,2,4.26
+982,JOB-2026-00982,Full Stack Developer,Filled,2,9,11,13,2,6,Contract-to-Hire,Remote,92.85,Hourly,81300.00,134983.00,2025-02-07,2025-05-05,87,47,7,6,2,3,2,2,4.26
+206,JOB-2026-00206,DevOps Engineer,Open,2,1,13,1,2,6,Contract,Hybrid,44.69,Hourly,76908.00,133978.00,2026-05-30,,75,46,9,2,7,3,2,2,4.35
+924,JOB-2026-00924,Senior Data Analyst,Open,7,21,16,2,1,5,Full-time,Hybrid,107.43,Hourly,68370.00,98794.00,2025-04-29,,471,46,7,4,5,2,2,2,4.35
+284,JOB-2026-00284,AI Engineer,Open,7,10,15,18,1,7,Full-time,Remote,100.19,Hourly,98917.00,146428.00,2025-06-03,,436,46,10,3,5,3,2,2,4.35
+181,JOB-2026-00181,Full Stack Developer,Filled,2,6,17,18,1,5,Contract,Remote,57.43,Hourly,73835.00,93997.00,2025-04-06,2025-07-19,104,46,12,5,7,2,3,2,4.35
+148,JOB-2026-00148,Java Developer,Open,6,6,15,15,4,4,Contract,Remote,104.23,Hourly,52472.00,103028.00,2026-07-01,,43,46,11,4,8,2,1,2,4.35
+851,JOB-2026-00851,Business Analyst,Filled,6,3,11,9,3,5,Contract-to-Hire,Onsite,70.52,Hourly,59510.00,108232.00,2025-11-02,2026-01-14,73,46,16,7,7,4,0,2,4.35
+715,JOB-2026-00715,DevOps Engineer,Closed,6,7,11,8,2,4,Contract,Remote,87.09,Hourly,43784.00,92485.00,2025-05-01,2025-06-28,58,44,11,3,5,3,1,2,4.55
+954,JOB-2026-00954,DevOps Engineer,Filled,6,4,17,14,3,3,Contract,Remote,100.19,Hourly,43911.00,74706.00,2025-09-10,2025-11-10,61,44,4,6,6,3,1,2,4.55
+894,JOB-2026-00894,AI Engineer,Closed,6,1,16,3,1,8,Contract-to-Hire,Remote,41.72,Hourly,88552.00,140447.00,2025-11-20,2026-02-23,95,44,9,9,5,2,1,2,4.55
+803,JOB-2026-00803,Java Developer,Filled,2,8,13,6,2,2,Full-time,Remote,114.97,Hourly,29852.00,75367.00,2026-07-20,2026-08-24,35,44,9,4,8,2,1,2,4.55
+242,JOB-2026-00242,DevOps Engineer,Closed,6,22,14,8,3,4,Full-time,Onsite,41.02,Hourly,51728.00,98581.00,2025-10-30,2025-12-10,41,44,9,6,3,2,3,2,4.55
+410,JOB-2026-00410,Data Scientist,Filled,7,21,11,11,4,8,Contract,Remote,42.62,Hourly,106560.00,138680.00,2026-01-15,2026-01-30,15,43,11,3,3,2,2,2,4.65
+58,JOB-2026-00058,Java Developer,Open,7,22,14,13,4,3,Contract,Onsite,103.39,Hourly,35868.00,93341.00,2026-01-28,,197,43,6,6,6,2,2,2,4.65
+307,JOB-2026-00307,Senior Data Analyst,Filled,7,2,13,3,2,7,Contract-to-Hire,Hybrid,114.53,Hourly,101444.00,124971.00,2025-01-27,2025-02-21,25,43,7,5,6,2,0,2,4.65
+138,JOB-2026-00138,Full Stack Developer,Filled,7,5,17,7,1,7,Contract,Remote,45.84,Hourly,73304.00,129925.00,2026-04-19,2026-06-23,65,40,9,3,4,2,3,2,5.00
+724,JOB-2026-00724,Senior Data Analyst,Closed,2,1,14,12,1,6,Contract,Onsite,91.02,Hourly,87936.00,128972.00,2025-09-28,2025-12-08,71,39,11,2,8,2,2,2,5.13
+364,JOB-2026-00364,Data Analyst,Closed,2,22,13,19,1,6,Full-time,Onsite,91.11,Hourly,64278.00,106120.00,2026-04-24,2026-08-01,99,39,3,4,9,3,3,2,5.13
+785,JOB-2026-00785,Data Scientist,Open,6,7,16,14,2,6,Contract,Hybrid,62.80,Hourly,69234.00,92133.00,2025-08-05,,373,37,7,6,7,2,0,2,5.41
+198,JOB-2026-00198,AI Engineer,Filled,2,1,12,12,4,7,Full-time,Onsite,117.96,Hourly,83657.00,131170.00,2026-05-19,2026-06-14,26,36,5,3,6,3,3,2,5.56
+360,JOB-2026-00360,Senior Java Developer,Filled,7,9,11,19,2,10,Contract-to-Hire,Remote,66.54,Hourly,104580.00,158729.00,2025-11-03,2026-01-28,86,34,10,3,5,2,1,2,5.88
+682,JOB-2026-00682,Full Stack Developer,Filled,6,4,13,13,2,5,Contract,Remote,87.52,Hourly,65145.00,91555.00,2025-02-20,2025-04-30,69,71,10,5,11,3,2,1,1.41
+7,JOB-2026-00007,Business Analyst,Open,7,1,17,5,1,5,Contract,Remote,52.80,Hourly,64825.00,99198.00,2025-05-22,,448,59,9,7,6,2,1,1,1.69
+145,JOB-2026-00145,Data Scientist,Open,7,8,11,14,4,7,Contract-to-Hire,Hybrid,82.40,Hourly,97153.00,132945.00,2025-08-19,,359,58,11,10,5,1,2,1,1.72
+795,JOB-2026-00795,Data Analyst,Filled,6,6,11,8,2,5,Contract-to-Hire,Hybrid,96.72,Hourly,55315.00,93322.00,2025-10-01,2026-01-05,96,56,11,7,4,1,2,1,1.79
+563,JOB-2026-00563,Senior Java Developer,Filled,7,10,15,18,2,6,Full-time,Hybrid,54.06,Hourly,83688.00,104986.00,2026-01-26,2026-03-20,53,56,11,12,3,1,2,1,1.79
+193,JOB-2026-00193,Senior Data Analyst,Open,2,10,16,16,1,4,Full-time,Remote,80.86,Hourly,50976.00,99112.00,2025-10-06,,311,55,5,6,7,1,4,1,1.82
+736,JOB-2026-00736,Java Developer,Filled,6,3,16,5,1,5,Contract,Hybrid,87.48,Hourly,66745.00,116220.00,2026-03-23,2026-07-09,108,53,10,5,3,1,1,1,1.89
+748,JOB-2026-00748,Data Analyst,Open,6,7,12,18,2,4,Full-time,Remote,102.36,Hourly,55908.00,90256.00,2025-12-14,,242,52,11,5,5,1,3,1,1.92
+361,JOB-2026-00361,Data Analyst,Closed,7,2,17,11,3,4,Contract-to-Hire,Remote,42.53,Hourly,52292.00,107306.00,2025-06-19,2025-09-18,91,52,12,6,6,2,3,1,1.92
+712,JOB-2026-00712,AI Engineer,Open,2,23,16,8,1,5,Contract-to-Hire,Remote,45.83,Hourly,52430.00,81558.00,2025-07-29,,380,52,17,4,1,2,3,1,1.92
+337,JOB-2026-00337,ML Engineer,Open,6,21,13,4,3,5,Full-time,Remote,63.40,Hourly,61110.00,84588.00,2026-04-22,,113,52,11,3,6,1,4,1,1.92
+990,JOB-2026-00990,AI Engineer,Filled,2,3,15,19,3,6,Contract-to-Hire,Onsite,108.26,Hourly,81138.00,116546.00,2025-10-21,2025-12-18,58,52,9,5,10,2,3,1,1.92
+614,JOB-2026-00614,Full Stack Developer,Open,2,9,17,11,2,5,Contract-to-Hire,Onsite,99.30,Hourly,63690.00,103636.00,2025-04-25,,475,51,9,9,3,1,1,1,1.96
+821,JOB-2026-00821,Business Analyst,Closed,2,6,16,11,3,5,Contract,Hybrid,64.64,Hourly,61030.00,96019.00,2025-09-27,2025-11-20,54,51,8,9,9,3,1,1,1.96
+425,JOB-2026-00425,DevOps Engineer,Closed,6,7,12,19,4,5,Full-time,Onsite,55.94,Hourly,52705.00,111415.00,2026-01-20,2026-03-10,49,51,8,7,2,1,3,1,1.96
+834,JOB-2026-00834,AI Engineer,Closed,2,2,17,16,3,3,Contract,Remote,80.70,Hourly,42018.00,101657.00,2026-01-02,2026-02-12,41,51,11,6,1,1,2,1,1.96
+393,JOB-2026-00393,Java Developer,Open,2,9,17,3,3,4,Contract-to-Hire,Remote,100.84,Hourly,49920.00,96174.00,2025-02-26,,533,51,6,8,4,2,4,1,1.96
+725,JOB-2026-00725,Business Analyst,Filled,6,5,17,5,4,6,Contract,Onsite,90.43,Hourly,75432.00,99629.00,2026-03-28,2026-05-17,50,51,8,11,6,2,3,1,1.96
+113,JOB-2026-00113,DevOps Engineer,Open,7,21,13,17,1,5,Contract-to-Hire,Remote,53.49,Hourly,53230.00,89653.00,2025-07-21,,388,51,11,4,5,1,1,1,1.96
+244,JOB-2026-00244,ML Engineer,Open,2,3,16,11,2,6,Full-time,Onsite,111.56,Hourly,75366.00,123284.00,2025-04-29,,471,51,6,8,8,1,7,1,1.96
+823,JOB-2026-00823,Senior Java Developer,Filled,6,9,14,4,3,8,Full-time,Remote,59.45,Hourly,101344.00,157917.00,2026-07-28,2026-10-30,94,51,14,4,2,1,4,1,1.96
+700,JOB-2026-00700,Data Analyst,Closed,7,4,17,20,3,6,Contract,Onsite,75.13,Hourly,81810.00,127415.00,2025-02-26,2025-04-05,38,50,10,6,5,2,3,1,2.00
+666,JOB-2026-00666,AI Engineer,Filled,2,6,11,1,2,7,Contract-to-Hire,Remote,51.09,Hourly,71694.00,126818.00,2025-01-24,2025-03-07,42,50,10,7,7,3,2,1,2.00
+311,JOB-2026-00311,DevOps Engineer,Open,6,22,16,13,4,5,Contract,Hybrid,61.04,Hourly,57720.00,104703.00,2026-07-29,,15,50,16,7,4,2,0,1,2.00
+93,JOB-2026-00093,DevOps Engineer,Open,6,4,13,7,4,3,Contract,Onsite,120.00,Hourly,40404.00,93728.00,2026-01-06,,219,50,10,12,3,1,1,1,2.00
+828,JOB-2026-00828,Senior Java Developer,Closed,6,2,16,19,1,5,Contract,Hybrid,117.94,Hourly,70650.00,112084.00,2026-07-06,2026-10-10,96,50,10,9,5,2,0,1,2.00
+930,JOB-2026-00930,Java Developer,Filled,6,8,14,8,3,3,Contract,Hybrid,89.31,Hourly,42276.00,87741.00,2025-12-02,2026-01-07,36,50,7,5,10,2,2,1,2.00
+162,JOB-2026-00162,Full Stack Developer,Filled,2,23,17,15,3,3,Contract,Hybrid,74.45,Hourly,33327.00,73293.00,2025-01-07,2025-03-11,63,50,11,4,4,1,4,1,2.00
+275,JOB-2026-00275,DevOps Engineer,Filled,6,10,15,19,4,4,Contract-to-Hire,Onsite,112.50,Hourly,48624.00,73635.00,2025-03-19,2025-07-16,119,50,12,8,5,1,2,1,2.00
+957,JOB-2026-00957,DevOps Engineer,Closed,2,10,16,16,2,7,Contract,Remote,47.28,Hourly,88753.00,128947.00,2026-04-27,2026-08-08,103,49,10,8,3,1,0,1,2.04
+379,JOB-2026-00379,DevOps Engineer,Open,7,8,16,21,1,5,Contract-to-Hire,Remote,103.85,Hourly,69040.00,122918.00,2025-03-22,,509,49,13,5,6,1,1,1,2.04
+396,JOB-2026-00396,DevOps Engineer,Open,6,21,11,20,4,4,Contract-to-Hire,Onsite,59.41,Hourly,58984.00,94252.00,2025-03-15,,516,49,14,3,2,1,2,1,2.04
+664,JOB-2026-00664,Senior Data Analyst,Filled,7,2,14,7,1,7,Contract,Onsite,73.59,Hourly,90720.00,124349.00,2026-02-05,2026-04-13,67,49,8,9,4,1,1,1,2.04
+408,JOB-2026-00408,Data Analyst,Open,2,9,14,4,4,5,Contract-to-Hire,Remote,79.62,Hourly,51810.00,74435.00,2026-04-27,,108,49,8,4,4,1,7,1,2.04
+35,JOB-2026-00035,Senior Java Developer,Filled,7,3,17,5,4,8,Contract-to-Hire,Remote,82.73,Hourly,81896.00,127380.00,2025-12-11,2026-03-28,107,49,8,5,5,2,4,1,2.04
+350,JOB-2026-00350,DevOps Engineer,Filled,6,10,17,6,2,7,Full-time,Hybrid,54.31,Hourly,79163.00,123980.00,2026-07-18,2026-09-13,57,49,13,6,8,1,2,1,2.04
+74,JOB-2026-00074,Data Analyst,Closed,7,2,14,12,4,3,Contract,Remote,87.49,Hourly,36519.00,59953.00,2025-05-10,2025-08-28,110,49,13,7,4,2,0,1,2.04
+613,JOB-2026-00613,ML Engineer,Open,2,1,16,7,3,6,Full-time,Onsite,77.76,Hourly,80544.00,116729.00,2025-11-24,,262,49,11,5,7,1,2,1,2.04
+784,JOB-2026-00784,Senior Data Analyst,Open,7,4,13,11,3,6,Contract-to-Hire,Onsite,105.86,Hourly,84000.00,142432.00,2025-01-28,,562,49,8,7,7,1,0,1,2.04
+945,JOB-2026-00945,Senior Data Analyst,Open,7,5,15,7,4,7,Contract,Remote,72.85,Hourly,91777.00,133887.00,2025-09-05,,342,49,12,5,3,2,3,1,2.04
+969,JOB-2026-00969,Data Analyst,Closed,2,8,14,14,1,5,Full-time,Hybrid,67.86,Hourly,73415.00,116036.00,2026-01-04,2026-04-21,107,49,8,9,7,2,3,1,2.04
+931,JOB-2026-00931,Data Analyst,Closed,7,2,11,7,3,4,Contract-to-Hire,Hybrid,55.26,Hourly,40000.00,79886.00,2026-04-01,2026-05-06,35,49,9,3,2,1,1,1,2.04
+196,JOB-2026-00196,Senior Java Developer,Closed,2,6,12,19,3,5,Full-time,Hybrid,99.17,Hourly,69050.00,107551.00,2025-11-15,2025-12-01,16,48,10,5,7,2,3,1,2.08
+787,JOB-2026-00787,Data Scientist,Closed,6,21,16,14,4,5,Contract-to-Hire,Hybrid,64.24,Hourly,55270.00,112932.00,2026-06-04,2026-08-20,77,48,8,5,4,1,2,1,2.08
+234,JOB-2026-00234,Java Developer,Closed,6,10,15,16,1,4,Full-time,Hybrid,80.04,Hourly,48536.00,106911.00,2025-10-29,2026-02-02,96,48,7,3,6,1,0,1,2.08
+778,JOB-2026-00778,Data Analyst,Closed,2,21,11,12,2,4,Contract,Onsite,53.02,Hourly,43424.00,86943.00,2025-01-09,2025-03-08,58,48,7,5,2,1,3,1,2.08
+184,JOB-2026-00184,Data Analyst,Filled,7,4,14,5,1,5,Full-time,Remote,58.10,Hourly,62510.00,97854.00,2026-03-16,2026-03-31,15,48,10,4,3,1,1,1,2.08
+695,JOB-2026-00695,Full Stack Developer,Closed,2,6,15,15,3,7,Full-time,Onsite,74.21,Hourly,80514.00,125153.00,2026-03-24,2026-07-05,103,48,12,7,3,1,0,1,2.08
+444,JOB-2026-00444,Data Scientist,Open,7,7,14,19,1,7,Full-time,Hybrid,79.24,Hourly,87374.00,118131.00,2026-05-19,,86,48,10,4,6,1,1,1,2.08
+546,JOB-2026-00546,Senior Java Developer,Filled,6,10,15,19,3,6,Contract-to-Hire,Hybrid,80.20,Hourly,66384.00,99863.00,2025-11-14,2025-12-19,35,48,7,2,7,2,1,1,2.08
+433,JOB-2026-00433,AI Engineer,Filled,2,2,11,16,1,5,Contract,Onsite,43.40,Hourly,55130.00,88882.00,2025-05-14,2025-09-06,115,48,8,6,4,1,1,1,2.08
+519,JOB-2026-00519,Business Analyst,Open,6,2,12,19,3,7,Contract-to-Hire,Onsite,110.48,Hourly,104573.00,161610.00,2025-06-29,,410,48,14,2,6,1,2,1,2.08
+912,JOB-2026-00912,ML Engineer,Open,2,9,13,7,2,6,Full-time,Hybrid,88.55,Hourly,69720.00,91140.00,2026-05-25,,80,48,11,3,9,1,3,1,2.08
+897,JOB-2026-00897,Data Scientist,Closed,7,23,11,15,3,6,Contract,Hybrid,85.75,Hourly,64770.00,87350.00,2025-05-19,2025-06-24,36,48,4,5,6,2,2,1,2.08
+281,JOB-2026-00281,AI Engineer,Closed,6,3,16,1,4,6,Contract,Remote,43.45,Hourly,76230.00,103657.00,2026-05-09,2026-08-07,90,47,14,5,2,1,0,1,2.13
+741,JOB-2026-00741,Full Stack Developer,Open,7,6,17,8,1,5,Contract-to-Hire,Remote,45.95,Hourly,53555.00,82521.00,2025-10-13,,304,47,6,4,5,1,2,1,2.13
+282,JOB-2026-00282,Data Analyst,Closed,6,10,15,10,1,6,Full-time,Hybrid,57.33,Hourly,67218.00,90882.00,2025-06-20,2025-08-25,66,47,7,9,8,2,1,1,2.13
+565,JOB-2026-00565,Full Stack Developer,Closed,7,3,12,9,4,5,Full-time,Onsite,67.89,Hourly,74095.00,98763.00,2026-02-23,2026-05-21,87,47,14,3,4,1,2,1,2.13
+910,JOB-2026-00910,AI Engineer,Closed,2,6,17,15,4,4,Contract,Remote,76.17,Hourly,59240.00,90417.00,2025-02-13,2025-04-28,74,47,12,5,1,1,1,1,2.13
+44,JOB-2026-00044,DevOps Engineer,Open,7,22,12,4,3,5,Contract,Hybrid,82.87,Hourly,64410.00,114146.00,2025-10-05,,312,47,8,7,4,3,4,1,2.13
+830,JOB-2026-00830,Senior Java Developer,Filled,6,1,12,14,3,5,Contract-to-Hire,Onsite,60.71,Hourly,66440.00,124106.00,2025-10-28,2025-11-14,17,47,3,9,7,2,5,1,2.13
+629,JOB-2026-00629,Data Scientist,Filled,6,6,11,20,1,3,Full-time,Hybrid,54.25,Hourly,35517.00,62184.00,2025-10-16,2025-11-15,30,46,9,9,5,1,3,1,2.17
+6,JOB-2026-00006,ML Engineer,Closed,6,8,12,5,3,4,Contract-to-Hire,Onsite,99.60,Hourly,46912.00,104082.00,2025-11-19,2026-02-24,97,46,9,5,6,2,1,1,2.17
+492,JOB-2026-00492,Data Scientist,Filled,2,6,13,3,2,3,Full-time,Onsite,69.79,Hourly,34959.00,83736.00,2026-03-02,2026-05-16,75,46,12,3,6,1,2,1,2.17
+731,JOB-2026-00731,Business Analyst,Closed,7,2,16,15,2,4,Full-time,Hybrid,116.61,Hourly,47996.00,89536.00,2025-09-06,2025-12-25,110,46,14,6,5,2,0,1,2.17
+309,JOB-2026-00309,Business Analyst,Filled,2,6,14,3,2,6,Contract-to-Hire,Remote,64.63,Hourly,82440.00,139401.00,2026-03-22,2026-05-15,54,46,6,5,9,1,1,1,2.17
+511,JOB-2026-00511,Business Analyst,Open,7,7,14,21,1,7,Full-time,Remote,56.28,Hourly,75817.00,111959.00,2026-07-23,,21,46,7,5,4,1,0,1,2.17
+791,JOB-2026-00791,Data Analyst,Open,2,22,12,14,4,6,Contract-to-Hire,Onsite,67.63,Hourly,79470.00,115764.00,2025-06-29,,410,46,10,8,8,1,0,1,2.17
+441,JOB-2026-00441,Senior Java Developer,Open,2,23,14,4,1,7,Contract-to-Hire,Hybrid,79.15,Hourly,97279.00,156808.00,2026-02-19,,175,46,11,3,7,3,2,1,2.17
+740,JOB-2026-00740,Data Analyst,Closed,6,9,12,10,4,5,Contract-to-Hire,Hybrid,97.30,Hourly,51055.00,95273.00,2025-07-28,2025-10-07,71,45,8,6,2,1,2,1,2.22
+976,JOB-2026-00976,DevOps Engineer,Closed,7,10,16,9,4,7,Contract-to-Hire,Remote,114.95,Hourly,93156.00,147565.00,2026-04-23,2026-07-24,92,45,8,4,7,3,6,1,2.22
+552,JOB-2026-00552,Data Analyst,Filled,7,9,12,2,4,4,Full-time,Onsite,104.92,Hourly,45028.00,93906.00,2026-01-02,2026-04-13,101,45,9,5,5,2,1,1,2.22
+703,JOB-2026-00703,Java Developer,Closed,6,4,13,17,4,3,Full-time,Onsite,53.96,Hourly,41499.00,91537.00,2025-10-11,2025-12-29,79,45,13,8,2,1,1,1,2.22
+991,JOB-2026-00991,Data Scientist,Open,6,1,11,6,4,7,Contract-to-Hire,Remote,50.68,Hourly,94570.00,146856.00,2025-04-05,,495,45,5,7,1,1,1,1,2.22
+246,JOB-2026-00246,Data Scientist,Closed,6,7,17,20,3,3,Contract-to-Hire,Remote,109.01,Hourly,40224.00,98939.00,2026-05-10,2026-08-11,93,45,9,6,1,1,2,1,2.22
+489,JOB-2026-00489,ML Engineer,Open,7,2,15,4,2,6,Full-time,Onsite,57.93,Hourly,67794.00,99244.00,2026-05-31,,74,45,8,6,3,1,0,1,2.22
+301,JOB-2026-00301,AI Engineer,Open,6,23,16,16,2,3,Contract,Hybrid,54.13,Hourly,36633.00,72086.00,2026-07-23,,21,45,8,4,8,1,1,1,2.22
+442,JOB-2026-00442,Senior Data Analyst,Open,7,5,15,3,1,7,Contract-to-Hire,Remote,100.13,Hourly,71533.00,103270.00,2026-01-27,,198,44,5,7,7,2,1,1,2.27
+66,JOB-2026-00066,Full Stack Developer,Open,7,7,12,5,2,3,Contract,Onsite,110.12,Hourly,44241.00,88152.00,2025-05-15,,455,44,3,3,4,1,2,1,2.27
+955,JOB-2026-00955,AI Engineer,Filled,7,8,15,21,4,8,Full-time,Remote,52.58,Hourly,104488.00,150097.00,2026-04-06,2026-05-07,31,44,7,4,7,1,2,1,2.27
+620,JOB-2026-00620,ML Engineer,Open,6,1,16,9,2,8,Contract-to-Hire,Onsite,61.63,Hourly,87800.00,119013.00,2025-08-18,,360,44,5,7,4,2,1,1,2.27
+898,JOB-2026-00898,Full Stack Developer,Open,6,3,15,13,3,8,Contract,Onsite,48.88,Hourly,117144.00,159677.00,2025-12-14,,242,44,12,8,6,1,0,1,2.27
+33,JOB-2026-00033,Senior Data Analyst,Open,7,3,12,5,4,6,Contract-to-Hire,Hybrid,57.12,Hourly,71520.00,109327.00,2025-12-10,,246,44,10,6,6,1,1,1,2.27
+314,JOB-2026-00314,Data Scientist,Filled,6,6,14,11,1,3,Contract,Hybrid,107.48,Hourly,42129.00,76362.00,2025-12-17,2026-03-05,78,44,7,4,5,2,4,1,2.27
+298,JOB-2026-00298,Business Analyst,Open,2,10,12,17,1,4,Contract,Hybrid,78.27,Hourly,56080.00,88064.00,2026-06-08,,66,44,6,1,8,1,1,1,2.27
+61,JOB-2026-00061,AI Engineer,Filled,6,3,16,1,3,8,Contract-to-Hire,Remote,65.95,Hourly,85920.00,134360.00,2025-04-11,2025-06-21,71,44,10,3,1,1,3,1,2.27
+824,JOB-2026-00824,Data Analyst,Closed,7,1,16,9,3,5,Contract-to-Hire,Remote,69.56,Hourly,69945.00,106318.00,2025-10-14,2025-11-10,27,43,12,5,4,1,1,1,2.33
+743,JOB-2026-00743,Data Analyst,Open,7,8,12,6,4,3,Contract-to-Hire,Onsite,79.74,Hourly,33363.00,91789.00,2026-01-21,,204,43,10,4,6,2,3,1,2.33
+921,JOB-2026-00921,Data Analyst,Open,2,22,14,21,1,2,Contract,Hybrid,91.71,Hourly,20858.00,62257.00,2026-07-20,,24,43,12,2,5,1,1,1,2.33
+640,JOB-2026-00640,AI Engineer,Filled,7,4,13,19,1,7,Full-time,Remote,43.59,Hourly,70623.00,110881.00,2025-07-12,2025-07-31,19,43,9,5,5,2,1,1,2.33
+598,JOB-2026-00598,Senior Data Analyst,Filled,2,3,13,6,4,8,Contract,Remote,104.49,Hourly,102864.00,160360.00,2025-10-16,2025-11-06,21,43,9,2,5,2,2,1,2.33
+608,JOB-2026-00608,Java Developer,Open,2,8,15,5,4,2,Contract,Remote,100.09,Hourly,22626.00,55667.00,2026-05-06,,99,43,10,5,5,1,0,1,2.33
+605,JOB-2026-00605,Senior Java Developer,Filled,2,6,11,11,4,6,Contract-to-Hire,Hybrid,68.31,Hourly,74982.00,128767.00,2025-02-06,2025-02-28,22,43,4,7,4,3,1,1,2.33
+499,JOB-2026-00499,DevOps Engineer,Open,6,23,13,4,4,8,Contract-to-Hire,Remote,96.93,Hourly,96224.00,123120.00,2025-12-02,,254,43,9,10,1,3,5,1,2.33
+218,JOB-2026-00218,Senior Data Analyst,Open,2,9,14,12,2,6,Contract,Remote,69.55,Hourly,79536.00,130399.00,2026-05-16,,89,43,5,5,4,1,3,1,2.33
+471,JOB-2026-00471,Data Scientist,Closed,2,1,14,18,3,3,Contract,Remote,76.62,Hourly,41556.00,78610.00,2025-06-17,2025-09-03,78,43,8,2,3,1,7,1,2.33
+90,JOB-2026-00090,Data Analyst,Open,7,4,16,15,4,5,Contract-to-Hire,Remote,81.82,Hourly,54235.00,96742.00,2025-03-28,,503,43,8,3,4,2,0,1,2.33
+260,JOB-2026-00260,Senior Java Developer,Filled,7,10,17,8,4,8,Full-time,Onsite,96.37,Hourly,107296.00,147786.00,2026-07-20,2026-08-29,40,42,6,8,4,1,0,1,2.38
+343,JOB-2026-00343,Senior Java Developer,Open,7,1,17,20,3,7,Full-time,Onsite,88.99,Hourly,95403.00,133346.00,2025-06-05,,434,42,11,6,4,1,1,1,2.38
+751,JOB-2026-00751,DevOps Engineer,Open,2,21,17,2,2,6,Contract,Hybrid,99.99,Hourly,83832.00,106603.00,2025-06-10,,429,42,7,4,5,1,0,1,2.38
+457,JOB-2026-00457,Senior Java Developer,Filled,7,6,15,16,4,7,Contract,Remote,59.71,Hourly,103803.00,127468.00,2026-05-18,2026-06-16,29,42,6,4,3,1,0,1,2.38
+86,JOB-2026-00086,ML Engineer,Closed,2,9,15,12,2,9,Full-time,Onsite,98.19,Hourly,115029.00,149549.00,2025-12-08,2026-01-06,29,42,5,7,4,2,5,1,2.38
+809,JOB-2026-00809,AI Engineer,Open,7,21,13,15,4,5,Contract-to-Hire,Hybrid,63.59,Hourly,73080.00,116851.00,2025-10-26,,291,42,9,6,6,1,1,1,2.38
+541,JOB-2026-00541,Senior Java Developer,Closed,6,23,14,11,4,6,Contract-to-Hire,Onsite,65.05,Hourly,71148.00,104902.00,2026-05-01,2026-07-25,85,42,6,8,5,2,2,1,2.38
+752,JOB-2026-00752,ML Engineer,Filled,7,1,11,4,2,4,Contract-to-Hire,Remote,87.06,Hourly,42504.00,67346.00,2026-06-01,2026-08-08,68,41,11,4,5,2,0,1,2.44
+737,JOB-2026-00737,Full Stack Developer,Open,2,6,11,10,4,4,Full-time,Onsite,70.73,Hourly,56668.00,115208.00,2025-10-14,,303,41,9,5,3,2,3,1,2.44
+195,JOB-2026-00195,Senior Java Developer,Open,7,2,15,4,3,6,Contract,Remote,93.87,Hourly,75816.00,112086.00,2026-03-03,,163,41,4,6,7,2,1,1,2.44
+159,JOB-2026-00159,Senior Java Developer,Closed,6,5,11,3,2,7,Contract,Onsite,74.48,Hourly,90678.00,117660.00,2025-04-04,2025-07-25,112,41,7,3,2,1,2,1,2.44
+81,JOB-2026-00081,Data Analyst,Open,7,6,13,19,3,2,Contract,Hybrid,46.80,Hourly,28690.00,62788.00,2026-01-21,,204,41,8,5,6,1,3,1,2.44
+836,JOB-2026-00836,Java Developer,Open,6,3,12,2,4,2,Full-time,Remote,87.70,Hourly,22304.00,58622.00,2025-07-01,,408,41,14,2,4,2,0,1,2.44
+871,JOB-2026-00871,Business Analyst,Filled,7,9,12,4,3,6,Contract-to-Hire,Onsite,113.01,Hourly,78420.00,102967.00,2025-06-26,2025-08-03,38,41,6,2,4,1,3,1,2.44
+638,JOB-2026-00638,ML Engineer,Closed,7,4,14,18,2,4,Full-time,Remote,107.34,Hourly,57088.00,101831.00,2025-05-09,2025-05-31,22,41,8,9,1,1,3,1,2.44
+215,JOB-2026-00215,Java Developer,Open,7,2,15,11,1,4,Contract,Onsite,118.82,Hourly,43428.00,68290.00,2025-12-17,,239,40,9,3,1,2,2,1,2.50
+584,JOB-2026-00584,Data Scientist,Closed,7,23,14,3,4,3,Contract-to-Hire,Hybrid,98.14,Hourly,43464.00,89172.00,2025-12-12,2026-02-09,59,40,7,5,6,1,0,1,2.50
+627,JOB-2026-00627,Full Stack Developer,Open,7,1,15,21,3,7,Contract,Hybrid,49.85,Hourly,95473.00,126164.00,2025-11-11,,275,40,6,3,7,1,2,1,2.50
+667,JOB-2026-00667,ML Engineer,Filled,7,22,17,14,4,7,Contract-to-Hire,Remote,115.71,Hourly,81424.00,107451.00,2025-12-23,2026-03-07,74,40,7,6,3,1,2,1,2.50
+335,JOB-2026-00335,AI Engineer,Open,2,10,12,1,3,4,Contract-to-Hire,Onsite,95.50,Hourly,52248.00,82471.00,2025-03-29,,502,40,7,3,8,3,1,1,2.50
+293,JOB-2026-00293,AI Engineer,Open,6,7,15,18,1,7,Full-time,Remote,80.25,Hourly,81151.00,130954.00,2026-02-18,,176,40,8,5,4,2,2,1,2.50
+544,JOB-2026-00544,Java Developer,Filled,6,1,17,1,4,6,Full-time,Onsite,55.92,Hourly,82188.00,122153.00,2025-04-06,2025-05-13,37,40,8,5,3,1,0,1,2.50
+808,JOB-2026-00808,Full Stack Developer,Open,2,8,16,19,3,4,Contract,Remote,87.55,Hourly,48516.00,90958.00,2025-10-30,,287,40,11,4,4,2,2,1,2.50
+224,JOB-2026-00224,Java Developer,Open,2,23,13,9,3,7,Contract,Hybrid,108.66,Hourly,83622.00,106852.00,2026-05-02,,103,40,10,6,2,2,2,1,2.50
+209,JOB-2026-00209,AI Engineer,Open,7,10,12,11,2,7,Full-time,Hybrid,54.20,Hourly,82544.00,103850.00,2026-06-24,,50,40,8,5,5,1,0,1,2.50
+317,JOB-2026-00317,AI Engineer,Filled,6,2,14,1,2,3,Full-time,Onsite,86.49,Hourly,35799.00,84252.00,2025-11-29,2026-02-26,89,39,8,6,6,1,2,1,2.56
+805,JOB-2026-00805,Data Scientist,Filled,2,9,14,3,4,4,Full-time,Remote,116.61,Hourly,55144.00,79721.00,2025-01-08,2025-03-16,67,39,2,2,2,1,1,1,2.56
+537,JOB-2026-00537,Java Developer,Closed,7,4,15,15,1,4,Contract,Onsite,89.69,Hourly,58040.00,83594.00,2025-05-18,2025-07-17,60,39,8,6,4,1,1,1,2.56
+745,JOB-2026-00745,Full Stack Developer,Closed,2,21,14,18,3,7,Contract-to-Hire,Hybrid,63.63,Hourly,80325.00,119992.00,2025-08-26,2025-12-20,116,39,4,6,8,1,0,1,2.56
+416,JOB-2026-00416,AI Engineer,Closed,7,21,16,16,3,3,Contract,Remote,93.27,Hourly,30540.00,65765.00,2026-06-17,2026-08-14,58,39,2,2,5,1,2,1,2.56
+63,JOB-2026-00063,ML Engineer,Closed,2,8,13,21,3,7,Contract-to-Hire,Hybrid,95.23,Hourly,84637.00,105252.00,2026-04-22,2026-05-16,24,39,8,7,3,1,2,1,2.56
+170,JOB-2026-00170,Data Scientist,Open,7,7,16,6,2,7,Contract,Hybrid,92.58,Hourly,79177.00,120868.00,2026-07-28,,16,39,4,6,3,2,3,1,2.56
+906,JOB-2026-00906,Full Stack Developer,Closed,6,8,12,3,1,7,Contract-to-Hire,Remote,117.94,Hourly,80668.00,131418.00,2025-10-22,2025-11-13,22,39,7,0,8,1,0,1,2.56
+384,JOB-2026-00384,Java Developer,Closed,7,8,16,13,2,2,Contract,Onsite,96.45,Hourly,24330.00,51931.00,2025-02-23,2025-04-17,53,39,12,5,3,1,1,1,2.56
+405,JOB-2026-00405,Full Stack Developer,Open,6,6,13,11,2,4,Contract-to-Hire,Hybrid,42.57,Hourly,52692.00,97168.00,2025-05-20,,450,38,5,6,5,3,2,1,2.63
+733,JOB-2026-00733,Data Scientist,Open,2,7,15,19,2,7,Full-time,Hybrid,90.61,Hourly,84924.00,123725.00,2025-12-16,,240,38,8,2,4,1,1,1,2.63
+254,JOB-2026-00254,Full Stack Developer,Closed,6,9,14,17,4,8,Full-time,Hybrid,95.35,Hourly,118616.00,171659.00,2025-05-18,2025-06-08,21,38,7,4,6,1,1,1,2.63
+757,JOB-2026-00757,Data Analyst,Open,7,21,12,15,3,4,Contract,Remote,78.64,Hourly,46852.00,103710.00,2026-05-16,,89,38,7,4,6,2,2,1,2.63
+386,JOB-2026-00386,Senior Data Analyst,Open,2,21,15,17,2,6,Contract-to-Hire,Remote,94.22,Hourly,88710.00,134344.00,2026-04-18,,117,38,5,5,4,1,1,1,2.63
+942,JOB-2026-00942,Data Analyst,Open,7,8,11,12,4,4,Full-time,Remote,72.24,Hourly,43964.00,77535.00,2025-07-10,,399,38,9,4,4,1,0,1,2.63
+878,JOB-2026-00878,DevOps Engineer,Open,6,4,11,6,4,7,Contract-to-Hire,Remote,96.99,Hourly,80220.00,133561.00,2026-01-15,,210,37,9,6,4,1,2,1,2.70
+746,JOB-2026-00746,ML Engineer,Open,7,8,13,12,1,7,Contract,Remote,71.85,Hourly,95641.00,136966.00,2025-09-11,,336,37,11,4,5,2,0,1,2.70
+558,JOB-2026-00558,Data Analyst,Closed,2,10,11,5,1,3,Contract-to-Hire,Onsite,79.90,Hourly,30519.00,58649.00,2025-11-13,2025-12-29,46,37,9,2,5,2,2,1,2.70
+798,JOB-2026-00798,Java Developer,Open,6,6,15,14,4,5,Contract-to-Hire,Remote,100.11,Hourly,69140.00,91077.00,2025-06-09,,430,37,8,7,3,2,0,1,2.70
+344,JOB-2026-00344,Full Stack Developer,Closed,6,8,14,6,2,4,Contract-to-Hire,Remote,58.10,Hourly,56460.00,116090.00,2026-04-26,2026-06-29,64,37,4,4,3,1,0,1,2.70
+103,JOB-2026-00103,Data Scientist,Filled,2,6,13,18,4,3,Full-time,Onsite,60.27,Hourly,41247.00,63670.00,2025-10-28,2025-11-17,20,37,7,5,4,1,1,1,2.70
+89,JOB-2026-00089,Data Analyst,Filled,7,7,14,15,1,2,Full-time,Remote,92.15,Hourly,26040.00,64853.00,2025-03-20,2025-06-07,79,37,10,4,1,1,1,1,2.70
+806,JOB-2026-00806,Business Analyst,Open,2,23,14,12,1,7,Contract-to-Hire,Hybrid,97.33,Hourly,100625.00,122179.00,2026-03-26,,140,37,5,3,4,1,0,1,2.70
+187,JOB-2026-00187,AI Engineer,Closed,2,6,17,8,2,3,Contract-to-Hire,Remote,91.57,Hourly,32469.00,61644.00,2025-05-07,2025-07-15,69,37,5,5,2,1,4,1,2.70
+535,JOB-2026-00535,Full Stack Developer,Filled,2,8,15,6,4,8,Contract-to-Hire,Hybrid,97.00,Hourly,84248.00,115220.00,2026-06-05,2026-08-06,62,37,4,3,5,1,1,1,2.70
+430,JOB-2026-00430,ML Engineer,Filled,2,3,15,12,3,6,Contract,Remote,72.96,Hourly,77814.00,104094.00,2026-07-02,2026-07-18,16,37,9,3,4,1,3,1,2.70
+658,JOB-2026-00658,Full Stack Developer,Closed,2,8,14,1,4,7,Full-time,Hybrid,102.58,Hourly,91847.00,119350.00,2025-07-20,2025-11-13,116,37,13,2,4,1,0,1,2.70
+482,JOB-2026-00482,Senior Java Developer,Closed,6,22,16,10,4,10,Contract-to-Hire,Remote,50.01,Hourly,149300.00,201197.00,2025-11-07,2026-02-16,101,37,3,5,6,1,2,1,2.70
+534,JOB-2026-00534,AI Engineer,Open,7,1,16,5,3,3,Full-time,Hybrid,117.47,Hourly,44433.00,76825.00,2026-07-03,,41,37,8,2,2,1,2,1,2.70
+295,JOB-2026-00295,Senior Data Analyst,Closed,2,22,17,8,3,7,Contract,Hybrid,47.44,Hourly,82635.00,117703.00,2025-11-20,2025-12-06,16,37,3,4,4,1,2,1,2.70
+9,JOB-2026-00009,ML Engineer,Filled,6,10,12,12,2,8,Contract,Remote,83.15,Hourly,91704.00,144975.00,2025-04-19,2025-07-07,79,36,5,6,4,1,3,1,2.78
+500,JOB-2026-00500,Data Scientist,Closed,7,9,15,9,4,6,Contract-to-Hire,Hybrid,79.91,Hourly,70554.00,119793.00,2025-03-21,2025-06-19,90,36,3,5,5,2,3,1,2.78
+659,JOB-2026-00659,ML Engineer,Open,6,23,13,11,3,7,Full-time,Onsite,116.73,Hourly,83846.00,104118.00,2026-03-01,,165,36,6,4,5,1,3,1,2.78
+401,JOB-2026-00401,Senior Data Analyst,Open,7,9,11,18,3,6,Full-time,Remote,57.54,Hourly,77094.00,124539.00,2025-01-05,,585,36,6,3,5,2,3,1,2.78
+747,JOB-2026-00747,Full Stack Developer,Closed,7,7,11,9,3,7,Contract,Hybrid,65.41,Hourly,93625.00,129016.00,2025-01-30,2025-05-25,115,36,11,3,4,2,0,1,2.78
+440,JOB-2026-00440,Data Scientist,Filled,2,2,12,16,4,3,Contract-to-Hire,Onsite,101.19,Hourly,38937.00,71984.00,2025-12-13,2026-02-17,66,36,7,5,2,1,0,1,2.78
+271,JOB-2026-00271,Java Developer,Open,7,5,12,6,1,3,Full-time,Onsite,103.97,Hourly,40140.00,93730.00,2025-05-26,,444,35,7,2,4,2,1,1,2.86
+129,JOB-2026-00129,AI Engineer,Filled,7,21,17,1,2,8,Contract,Hybrid,118.23,Hourly,95256.00,118696.00,2025-04-13,2025-05-10,27,35,6,5,4,2,1,1,2.86
+152,JOB-2026-00152,Business Analyst,Closed,2,9,16,18,3,5,Contract-to-Hire,Remote,41.37,Hourly,69980.00,91010.00,2025-01-07,2025-01-24,17,35,5,5,4,2,2,1,2.86
+251,JOB-2026-00251,Senior Data Analyst,Filled,2,6,17,8,1,8,Contract-to-Hire,Onsite,66.56,Hourly,99960.00,153274.00,2026-07-30,2026-09-26,58,35,10,4,3,1,3,1,2.86
+265,JOB-2026-00265,Senior Data Analyst,Filled,6,9,17,16,4,7,Contract-to-Hire,Onsite,63.71,Hourly,84707.00,140111.00,2025-10-17,2025-12-18,62,35,8,6,2,2,1,1,2.86
+439,JOB-2026-00439,Full Stack Developer,Filled,6,8,15,4,1,8,Contract,Remote,71.58,Hourly,104080.00,135830.00,2025-01-14,2025-03-20,65,35,7,6,3,2,1,1,2.86
+449,JOB-2026-00449,AI Engineer,Open,7,10,14,20,2,6,Contract,Hybrid,116.64,Hourly,63702.00,118818.00,2025-08-08,,370,35,5,6,1,1,4,1,2.86
+804,JOB-2026-00804,Data Analyst,Filled,7,23,12,17,4,3,Contract-to-Hire,Onsite,48.89,Hourly,44193.00,94416.00,2026-04-16,2026-05-31,45,34,6,3,3,1,3,1,2.94
+84,JOB-2026-00084,DevOps Engineer,Open,2,22,11,1,4,8,Contract,Remote,113.69,Hourly,95080.00,147865.00,2026-07-27,,17,34,9,2,2,2,1,1,2.94
+674,JOB-2026-00674,Senior Data Analyst,Filled,7,2,15,16,3,7,Contract,Hybrid,43.77,Hourly,75453.00,122655.00,2025-11-05,2026-01-10,66,34,9,2,3,1,1,1,2.94
+728,JOB-2026-00728,Senior Java Developer,Open,2,7,16,16,3,7,Contract,Remote,89.75,Hourly,78204.00,99822.00,2025-12-01,,255,34,5,5,3,1,1,1,2.94
+943,JOB-2026-00943,AI Engineer,Closed,2,8,11,11,4,5,Contract-to-Hire,Remote,42.48,Hourly,67550.00,126195.00,2026-05-05,2026-08-14,101,34,3,5,1,1,1,1,2.94
+88,JOB-2026-00088,Business Analyst,Closed,6,5,17,19,3,7,Full-time,Hybrid,68.16,Hourly,88529.00,129247.00,2025-06-04,2025-09-07,95,34,8,5,2,1,1,1,2.94
+322,JOB-2026-00322,DevOps Engineer,Open,6,9,16,2,1,4,Contract,Remote,54.29,Hourly,49276.00,90417.00,2026-02-24,,170,33,10,2,3,2,1,1,3.03
+867,JOB-2026-00867,AI Engineer,Closed,6,10,11,19,3,7,Contract-to-Hire,Remote,101.97,Hourly,99127.00,145809.00,2025-05-28,2025-06-12,15,33,8,2,5,2,1,1,3.03
+545,JOB-2026-00545,ML Engineer,Closed,6,6,17,13,4,9,Contract,Onsite,119.17,Hourly,128655.00,153241.00,2026-04-11,2026-05-17,36,33,3,8,6,1,1,1,3.03
+559,JOB-2026-00559,AI Engineer,Open,2,23,17,17,1,8,Contract,Onsite,91.84,Hourly,119192.00,168272.00,2025-12-03,,253,32,8,2,6,1,2,1,3.13
+21,JOB-2026-00021,ML Engineer,Closed,7,1,11,5,3,8,Contract-to-Hire,Onsite,118.38,Hourly,112016.00,148473.00,2025-02-22,2025-04-13,50,32,8,4,3,1,1,1,3.13
+308,JOB-2026-00308,Data Scientist,Closed,2,8,14,18,3,4,Contract-to-Hire,Onsite,50.81,Hourly,57260.00,88440.00,2025-01-30,2025-03-27,56,31,6,2,5,2,2,1,3.23
+902,JOB-2026-00902,Senior Java Developer,Closed,7,5,13,15,1,8,Contract,Remote,46.78,Hourly,102416.00,131089.00,2025-12-21,2026-03-08,77,31,5,7,5,1,2,1,3.23
+859,JOB-2026-00859,Full Stack Developer,Closed,6,23,14,6,3,8,Contract-to-Hire,Hybrid,65.82,Hourly,92200.00,137280.00,2025-07-27,2025-09-23,58,30,9,3,1,1,2,1,3.33
+197,JOB-2026-00197,AI Engineer,Open,6,9,13,11,1,8,Contract,Onsite,100.71,Hourly,115816.00,151880.00,2025-06-04,,435,29,7,2,4,1,1,1,3.45
+702,JOB-2026-00702,Senior Java Developer,Open,7,8,11,1,4,10,Full-time,Hybrid,64.22,Hourly,108790.00,159196.00,2026-03-03,,163,29,5,6,3,1,2,1,3.45
+346,JOB-2026-00346,Business Analyst,Filled,2,1,15,15,1,7,Contract-to-Hire,Remote,106.16,Hourly,102795.00,161710.00,2026-07-04,2026-10-27,115,28,7,3,5,1,1,1,3.57
+699,JOB-2026-00699,Data Scientist,Open,6,2,11,20,2,5,Contract-to-Hire,Remote,81.59,Hourly,62730.00,83152.00,2026-05-12,,93,27,4,3,6,1,1,1,3.70
+310,JOB-2026-00310,Data Analyst,Closed,6,8,17,10,4,2,Contract,Hybrid,101.27,Hourly,28574.00,57506.00,2025-12-19,2026-04-01,103,26,3,1,4,2,1,1,3.85
+40,JOB-2026-00040,Senior Data Analyst,Closed,2,21,17,5,4,8,Full-time,Hybrid,54.09,Hourly,102360.00,123189.00,2026-03-07,2026-05-07,61,26,6,2,5,1,2,1,3.85
+767,JOB-2026-00767,Senior Java Developer,Filled,7,22,14,20,2,10,Contract,Hybrid,110.10,Hourly,128520.00,160186.00,2025-01-26,2025-03-26,59,26,6,2,5,1,1,1,3.85
+884,JOB-2026-00884,Senior Java Developer,Filled,7,9,17,7,2,9,Contract-to-Hire,Hybrid,65.43,Hourly,117342.00,166053.00,2025-05-27,2025-09-03,99,25,2,3,3,1,2,1,4.00
+672,JOB-2026-00672,Senior Data Analyst,Open,2,23,14,2,4,8,Full-time,Hybrid,73.70,Hourly,107632.00,156153.00,2025-11-22,,264,24,2,2,1,1,2,1,4.17
+881,JOB-2026-00881,Senior Java Developer,Open,6,22,14,15,1,8,Contract-to-Hire,Hybrid,93.04,Hourly,98224.00,130642.00,2026-05-15,,90,23,4,3,3,1,1,1,4.35
+285,JOB-2026-00285,DevOps Engineer,Filled,2,4,17,13,4,3,Full-time,Hybrid,87.12,Hourly,40602.00,94814.00,2026-03-07,2026-05-15,69,22,4,3,1,2,2,1,4.55
+619,JOB-2026-00619,ML Engineer,Closed,7,23,15,17,4,5,Full-time,Remote,97.65,Hourly,57535.00,77770.00,2025-06-13,2025-06-29,16,62,12,8,6,2,2,0,0.00
+860,JOB-2026-00860,DevOps Engineer,Filled,6,2,11,9,4,5,Contract-to-Hire,Hybrid,97.27,Hourly,72930.00,128205.00,2025-07-02,2025-08-11,40,62,10,6,9,2,1,0,0.00
+953,JOB-2026-00953,Full Stack Developer,Open,7,7,15,5,1,4,Full-time,Hybrid,50.16,Hourly,46180.00,97293.00,2026-05-05,,100,61,15,9,8,1,1,0,0.00
+300,JOB-2026-00300,ML Engineer,Open,2,22,17,12,3,7,Contract,Hybrid,62.37,Hourly,89670.00,133651.00,2025-07-08,,401,60,17,9,6,0,0,0,0.00
+892,JOB-2026-00892,ML Engineer,Filled,6,23,17,2,4,5,Contract-to-Hire,Onsite,57.37,Hourly,66090.00,95352.00,2026-04-27,2026-06-19,53,60,13,2,2,0,3,0,0.00
+315,JOB-2026-00315,Senior Java Developer,Filled,2,2,17,13,2,5,Contract,Onsite,59.77,Hourly,72245.00,123056.00,2025-07-05,2025-07-21,16,59,13,7,4,0,3,0,0.00
+670,JOB-2026-00670,Data Scientist,Open,6,6,13,11,2,5,Full-time,Onsite,40.77,Hourly,67585.00,99769.00,2026-01-02,,223,58,12,15,1,0,0,0,0.00
+730,JOB-2026-00730,Senior Data Analyst,Closed,6,9,16,17,1,4,Contract-to-Hire,Remote,88.57,Hourly,47356.00,104410.00,2026-05-31,2026-08-07,68,58,12,9,5,3,2,0,0.00
+280,JOB-2026-00280,Java Developer,Closed,6,2,15,7,3,5,Full-time,Remote,54.95,Hourly,69745.00,129342.00,2025-01-07,2025-02-20,44,58,7,7,6,0,4,0,0.00
+19,JOB-2026-00019,Data Analyst,Closed,2,6,11,12,2,5,Full-time,Remote,52.62,Hourly,73060.00,99612.00,2025-03-17,2025-04-17,31,58,14,7,6,0,2,0,0.00
+983,JOB-2026-00983,Data Scientist,Open,2,5,11,7,2,4,Full-time,Hybrid,85.54,Hourly,43052.00,88210.00,2025-10-10,,307,57,7,4,5,2,6,0,0.00
+29,JOB-2026-00029,DevOps Engineer,Filled,6,2,17,10,2,6,Contract-to-Hire,Remote,104.53,Hourly,68340.00,93897.00,2025-10-18,2025-12-14,57,57,8,9,11,0,1,0,0.00
+263,JOB-2026-00263,Senior Data Analyst,Filled,2,7,15,3,4,6,Full-time,Remote,57.70,Hourly,85824.00,120239.00,2025-07-08,2025-08-12,35,57,18,12,5,0,2,0,0.00
+995,JOB-2026-00995,AI Engineer,Filled,6,2,11,5,1,5,Full-time,Hybrid,119.86,Hourly,63375.00,97173.00,2025-09-04,2025-09-23,19,57,9,6,8,0,0,0,0.00
+966,JOB-2026-00966,Business Analyst,Closed,2,8,12,20,4,5,Full-time,Onsite,41.84,Hourly,68270.00,102254.00,2025-08-26,2025-11-05,71,56,13,7,6,0,0,0,0.00
+484,JOB-2026-00484,Full Stack Developer,Open,2,10,17,2,4,6,Full-time,Remote,40.63,Hourly,83172.00,104458.00,2026-04-06,,129,55,14,5,8,1,2,0,0.00
+36,JOB-2026-00036,Senior Java Developer,Open,2,8,13,13,3,6,Contract,Hybrid,100.16,Hourly,82692.00,114601.00,2025-02-21,,538,55,4,10,7,1,0,0,0.00
+316,JOB-2026-00316,AI Engineer,Filled,2,9,15,9,1,6,Contract-to-Hire,Onsite,91.08,Hourly,79122.00,119576.00,2025-11-27,2026-03-17,110,55,6,8,6,2,2,0,0.00
+398,JOB-2026-00398,Java Developer,Filled,2,3,13,4,1,2,Full-time,Hybrid,51.30,Hourly,29436.00,85211.00,2025-05-21,2025-08-19,90,55,14,9,0,0,2,0,0.00
+110,JOB-2026-00110,Data Scientist,Open,7,8,11,18,3,5,Full-time,Onsite,69.51,Hourly,70835.00,105530.00,2025-05-05,,465,55,10,7,7,0,1,0,0.00
+662,JOB-2026-00662,DevOps Engineer,Open,6,8,16,6,3,3,Contract-to-Hire,Remote,92.20,Hourly,44052.00,89113.00,2025-01-26,,564,54,6,6,2,1,2,0,0.00
+856,JOB-2026-00856,Full Stack Developer,Filled,6,21,11,19,2,6,Contract-to-Hire,Hybrid,41.93,Hourly,88176.00,142435.00,2025-02-08,2025-04-19,70,54,16,3,4,0,0,0,0.00
+391,JOB-2026-00391,Business Analyst,Filled,6,1,16,9,4,7,Full-time,Hybrid,96.00,Hourly,84364.00,133585.00,2025-01-20,2025-02-04,15,54,8,6,5,0,1,0,0.00
+623,JOB-2026-00623,Full Stack Developer,Filled,7,7,12,8,4,4,Contract-to-Hire,Remote,98.10,Hourly,50624.00,88239.00,2025-07-28,2025-11-16,111,54,9,8,3,0,2,0,0.00
+963,JOB-2026-00963,Senior Java Developer,Open,2,10,16,10,3,6,Full-time,Onsite,59.25,Hourly,61962.00,119092.00,2025-03-03,,528,53,10,6,10,0,1,0,0.00
+380,JOB-2026-00380,Data Analyst,Open,6,6,17,10,3,5,Contract-to-Hire,Remote,42.83,Hourly,68595.00,122192.00,2026-04-26,,109,53,8,3,3,0,3,0,0.00
+376,JOB-2026-00376,DevOps Engineer,Open,7,1,11,5,1,6,Contract-to-Hire,Hybrid,110.79,Hourly,77706.00,125049.00,2025-06-07,,432,53,18,10,2,0,1,0,0.00
+100,JOB-2026-00100,Business Analyst,Open,2,9,15,5,2,5,Contract-to-Hire,Remote,74.34,Hourly,52570.00,79835.00,2026-05-27,,78,53,16,5,5,0,2,0,0.00
+533,JOB-2026-00533,AI Engineer,Filled,6,2,12,7,2,5,Contract,Remote,82.60,Hourly,65250.00,96480.00,2026-06-24,2026-07-17,23,53,15,5,3,1,1,0,0.00
+896,JOB-2026-00896,Data Scientist,Open,7,9,16,9,4,4,Contract,Remote,107.84,Hourly,53604.00,81366.00,2026-06-30,,44,53,11,7,2,0,1,0,0.00
+505,JOB-2026-00505,AI Engineer,Filled,7,2,17,1,2,6,Contract,Remote,90.41,Hourly,76662.00,132116.00,2025-02-16,2025-05-24,97,53,9,4,2,2,3,0,0.00
+12,JOB-2026-00012,Senior Data Analyst,Closed,6,4,11,21,1,5,Contract-to-Hire,Onsite,58.32,Hourly,59200.00,83396.00,2025-12-13,2026-03-13,90,53,10,7,3,0,3,0,0.00
+472,JOB-2026-00472,Data Scientist,Filled,7,9,17,19,3,3,Full-time,Hybrid,86.85,Hourly,38589.00,64721.00,2025-07-28,2025-11-15,110,52,10,3,5,1,4,0,0.00
+189,JOB-2026-00189,Data Analyst,Closed,6,3,17,3,4,4,Contract,Remote,86.99,Hourly,50368.00,79017.00,2026-02-01,2026-05-14,102,52,13,6,4,1,3,0,0.00
+591,JOB-2026-00591,Data Scientist,Open,7,4,16,3,2,3,Full-time,Onsite,60.54,Hourly,43632.00,92941.00,2025-11-18,,268,52,12,9,2,0,1,0,0.00
+15,JOB-2026-00015,DevOps Engineer,Open,6,8,14,13,2,3,Full-time,Onsite,53.17,Hourly,31242.00,86669.00,2025-01-16,,574,52,14,5,4,0,4,0,0.00
+351,JOB-2026-00351,Full Stack Developer,Filled,7,1,14,16,4,5,Full-time,Onsite,104.60,Hourly,57400.00,85104.00,2025-05-15,2025-07-01,47,52,13,9,2,0,3,0,0.00
+971,JOB-2026-00971,DevOps Engineer,Open,6,3,17,9,4,3,Contract,Hybrid,58.33,Hourly,36153.00,61347.00,2026-06-22,,52,51,4,3,7,0,2,0,0.00
+844,JOB-2026-00844,Java Developer,Closed,2,21,17,17,3,4,Contract-to-Hire,Hybrid,45.05,Hourly,46104.00,82834.00,2025-12-16,2026-01-12,27,51,12,4,5,1,1,0,0.00
+253,JOB-2026-00253,Senior Java Developer,Open,2,23,12,4,3,5,Contract,Onsite,43.72,Hourly,60415.00,93254.00,2025-07-12,,397,51,10,4,6,0,4,0,0.00
+382,JOB-2026-00382,ML Engineer,Filled,2,3,15,15,2,6,Full-time,Hybrid,104.63,Hourly,66510.00,104923.00,2025-10-09,2026-01-09,92,51,11,5,5,1,2,0,0.00
+525,JOB-2026-00525,Business Analyst,Filled,7,2,13,15,1,7,Contract,Hybrid,66.26,Hourly,70602.00,120316.00,2026-01-29,2026-05-03,94,51,10,5,2,1,1,0,0.00
+208,JOB-2026-00208,Business Analyst,Closed,7,10,12,16,2,4,Contract-to-Hire,Remote,64.72,Hourly,51756.00,110524.00,2025-01-29,2025-04-26,87,51,10,3,7,1,2,0,0.00
+354,JOB-2026-00354,Data Scientist,Open,7,7,17,14,1,6,Contract,Onsite,45.19,Hourly,88452.00,132057.00,2025-02-06,,553,51,13,5,3,1,1,0,0.00
+792,JOB-2026-00792,DevOps Engineer,Open,7,10,16,13,1,7,Contract,Hybrid,118.42,Hourly,96285.00,118948.00,2025-03-20,,511,51,15,7,2,0,1,0,0.00
+82,JOB-2026-00082,Senior Data Analyst,Closed,2,23,15,12,1,6,Contract,Remote,48.87,Hourly,81774.00,129562.00,2026-05-13,2026-06-24,42,51,15,5,7,1,2,0,0.00
+939,JOB-2026-00939,Senior Java Developer,Closed,7,1,13,8,2,5,Full-time,Remote,96.78,Hourly,67160.00,94492.00,2026-05-29,2026-08-25,88,51,9,7,7,0,3,0,0.00
+634,JOB-2026-00634,Data Scientist,Open,7,4,11,4,2,5,Full-time,Hybrid,96.32,Hourly,68855.00,98301.00,2026-07-19,,25,50,7,7,5,0,1,0,0.00
+768,JOB-2026-00768,Data Analyst,Closed,6,2,13,17,3,3,Full-time,Onsite,88.54,Hourly,40863.00,84520.00,2026-06-23,2026-08-19,57,50,9,8,2,0,0,0,0.00
+287,JOB-2026-00287,AI Engineer,Closed,2,5,13,19,4,8,Full-time,Onsite,88.95,Hourly,100696.00,147490.00,2026-01-06,2026-04-05,89,50,9,4,2,0,0,0,0.00
+149,JOB-2026-00149,AI Engineer,Filled,6,5,15,10,4,5,Full-time,Remote,55.70,Hourly,62815.00,109942.00,2025-02-16,2025-03-05,17,50,13,1,3,0,0,0,0.00
+122,JOB-2026-00122,Java Developer,Open,2,1,13,4,3,6,Contract-to-Hire,Remote,86.70,Hourly,85050.00,139937.00,2026-05-17,,88,50,11,3,5,0,2,0,0.00
+375,JOB-2026-00375,Java Developer,Closed,2,6,16,13,4,2,Contract-to-Hire,Hybrid,74.82,Hourly,24622.00,46665.00,2025-08-29,2025-12-02,95,50,12,3,5,0,1,0,0.00
+711,JOB-2026-00711,Senior Data Analyst,Open,2,10,11,19,1,8,Contract-to-Hire,Remote,114.95,Hourly,117704.00,153524.00,2026-06-15,,59,50,6,9,6,0,1,0,0.00
+400,JOB-2026-00400,ML Engineer,Open,7,8,14,6,2,7,Contract-to-Hire,Onsite,95.33,Hourly,97293.00,125609.00,2025-07-31,,378,50,7,9,2,0,1,0,0.00
+656,JOB-2026-00656,Java Developer,Closed,7,9,14,10,4,2,Full-time,Hybrid,95.08,Hourly,22880.00,72949.00,2026-03-15,2026-04-19,35,50,19,6,4,1,2,0,0.00
+4,JOB-2026-00004,AI Engineer,Closed,7,3,13,7,3,5,Contract,Hybrid,61.36,Hourly,53265.00,88521.00,2025-04-14,2025-06-14,61,50,6,6,6,0,1,0,0.00
+585,JOB-2026-00585,DevOps Engineer,Filled,6,5,14,19,2,6,Full-time,Remote,75.35,Hourly,64782.00,93360.00,2025-11-28,2026-03-13,105,50,11,6,6,1,1,0,0.00
+142,JOB-2026-00142,AI Engineer,Filled,2,4,16,13,1,3,Contract-to-Hire,Hybrid,58.75,Hourly,32478.00,91402.00,2025-02-04,2025-02-25,21,49,14,2,4,1,1,0,0.00
+520,JOB-2026-00520,Data Analyst,Filled,2,1,17,14,3,6,Contract,Onsite,61.92,Hourly,72426.00,129133.00,2026-04-10,2026-07-17,98,49,15,2,5,0,3,0,0.00
+948,JOB-2026-00948,Data Scientist,Filled,6,8,12,4,4,6,Contract,Onsite,53.15,Hourly,62154.00,101964.00,2025-07-07,2025-10-04,89,49,13,1,5,1,2,0,0.00
+183,JOB-2026-00183,Full Stack Developer,Filled,7,3,17,3,3,6,Full-time,Remote,68.83,Hourly,60030.00,108066.00,2025-07-27,2025-09-18,53,49,14,6,2,0,4,0,0.00
+467,JOB-2026-00467,Business Analyst,Open,7,4,14,20,3,4,Full-time,Onsite,117.38,Hourly,42392.00,68636.00,2026-07-25,,19,49,6,5,6,1,2,0,0.00
+642,JOB-2026-00642,Data Scientist,Open,7,3,16,3,4,3,Full-time,Remote,47.46,Hourly,44430.00,89472.00,2026-05-04,,101,49,12,8,7,1,1,0,0.00
+734,JOB-2026-00734,Full Stack Developer,Filled,2,22,11,2,2,3,Contract-to-Hire,Hybrid,41.91,Hourly,34098.00,62014.00,2026-03-05,2026-05-19,75,49,7,7,5,0,3,0,0.00
+926,JOB-2026-00926,Data Analyst,Closed,6,22,11,17,3,3,Contract-to-Hire,Onsite,71.77,Hourly,44490.00,66849.00,2025-08-02,2025-09-30,59,49,9,3,5,1,1,0,0.00
+267,JOB-2026-00267,Senior Data Analyst,Open,6,3,17,18,3,5,Full-time,Onsite,86.00,Hourly,50970.00,101065.00,2025-12-06,,250,49,10,11,4,0,0,0,0.00
+958,JOB-2026-00958,Senior Data Analyst,Open,2,6,12,12,2,6,Contract-to-Hire,Remote,55.35,Hourly,73182.00,110958.00,2025-10-23,,294,49,17,7,4,1,1,0,0.00
+154,JOB-2026-00154,AI Engineer,Closed,6,1,16,6,1,5,Contract,Hybrid,79.99,Hourly,53300.00,75376.00,2025-04-06,2025-06-20,75,49,14,8,6,4,4,0,0.00
+880,JOB-2026-00880,Data Analyst,Open,7,7,16,7,3,3,Contract-to-Hire,Remote,98.93,Hourly,33480.00,92719.00,2025-09-10,,337,49,9,7,5,0,1,0,0.00
+75,JOB-2026-00075,DevOps Engineer,Closed,6,8,16,3,4,5,Contract,Hybrid,65.77,Hourly,68760.00,90801.00,2025-03-04,2025-04-01,28,49,11,7,4,0,1,0,0.00
+596,JOB-2026-00596,DevOps Engineer,Closed,7,4,11,4,3,7,Contract,Hybrid,48.80,Hourly,79401.00,126905.00,2025-06-07,2025-09-07,92,49,13,5,5,1,2,0,0.00
+782,JOB-2026-00782,Senior Data Analyst,Open,2,21,15,1,3,5,Contract-to-Hire,Onsite,52.75,Hourly,59670.00,92994.00,2026-03-24,,142,49,10,10,3,0,3,0,0.00
+925,JOB-2026-00925,Data Scientist,Filled,6,9,17,16,3,4,Contract-to-Hire,Hybrid,93.57,Hourly,56400.00,97336.00,2025-11-27,2025-12-14,17,49,7,2,3,1,3,0,0.00
+815,JOB-2026-00815,ML Engineer,Open,6,4,12,15,4,4,Contract,Remote,82.95,Hourly,46224.00,70396.00,2025-05-16,,454,49,8,5,5,0,1,0,0.00
+73,JOB-2026-00073,Data Scientist,Open,6,3,11,5,1,7,Contract-to-Hire,Onsite,68.66,Hourly,70161.00,108332.00,2025-05-29,,441,49,4,2,6,0,1,0,0.00
+550,JOB-2026-00550,Data Analyst,Filled,7,1,11,4,3,2,Contract,Remote,113.37,Hourly,27566.00,72545.00,2025-12-18,2026-02-21,65,49,9,6,5,0,2,0,0.00
+171,JOB-2026-00171,AI Engineer,Open,6,5,17,19,1,6,Contract-to-Hire,Onsite,103.96,Hourly,89106.00,137257.00,2026-02-03,,191,49,4,5,10,1,3,0,0.00
+387,JOB-2026-00387,Senior Data Analyst,Closed,6,22,13,7,3,4,Contract-to-Hire,Onsite,41.90,Hourly,53472.00,79874.00,2026-06-22,2026-08-04,43,49,9,5,4,0,2,0,0.00
+338,JOB-2026-00338,DevOps Engineer,Open,7,4,15,18,4,8,Contract-to-Hire,Remote,41.72,Hourly,86520.00,127193.00,2026-05-12,,93,49,15,6,1,1,3,0,0.00
+527,JOB-2026-00527,Data Scientist,Open,2,9,17,5,2,5,Contract,Remote,64.69,Hourly,73940.00,122503.00,2026-06-10,,64,49,6,8,8,1,1,0,0.00
+936,JOB-2026-00936,Full Stack Developer,Filled,6,3,13,14,3,6,Contract,Remote,86.42,Hourly,86766.00,117507.00,2026-01-18,2026-04-12,84,49,8,6,4,0,1,0,0.00
+807,JOB-2026-00807,Senior Java Developer,Filled,6,7,16,5,3,5,Full-time,Remote,103.64,Hourly,54240.00,83807.00,2025-09-26,2025-11-26,61,49,9,10,7,0,1,0,0.00
+800,JOB-2026-00800,AI Engineer,Open,7,21,16,17,3,6,Contract-to-Hire,Hybrid,82.60,Hourly,89454.00,127730.00,2025-11-24,,262,48,7,6,2,2,3,0,0.00
+365,JOB-2026-00365,DevOps Engineer,Open,7,1,15,7,1,5,Full-time,Onsite,68.03,Hourly,68065.00,95775.00,2025-10-07,,310,48,8,4,5,1,2,0,0.00
+524,JOB-2026-00524,Senior Data Analyst,Filled,6,2,16,18,1,5,Contract-to-Hire,Hybrid,63.59,Hourly,52535.00,101496.00,2025-02-26,2025-03-21,23,48,14,5,6,0,2,0,0.00
+493,JOB-2026-00493,AI Engineer,Closed,2,8,17,1,3,4,Contract,Onsite,51.65,Hourly,57352.00,104989.00,2025-08-22,2025-10-28,67,48,13,5,6,0,3,0,0.00
+965,JOB-2026-00965,ML Engineer,Open,2,10,12,8,2,7,Full-time,Hybrid,48.59,Hourly,77140.00,103410.00,2025-09-10,,337,48,15,4,6,0,2,0,0.00
+781,JOB-2026-00781,Data Scientist,Filled,7,7,12,1,4,4,Full-time,Hybrid,51.80,Hourly,50916.00,74441.00,2025-04-03,2025-06-15,73,48,8,9,5,0,2,0,0.00
+270,JOB-2026-00270,Data Scientist,Open,7,1,15,18,4,5,Full-time,Remote,115.76,Hourly,65280.00,86010.00,2026-07-21,,23,48,7,10,2,0,0,0,0.00
+318,JOB-2026-00318,Senior Data Analyst,Open,2,23,16,2,1,5,Contract-to-Hire,Remote,91.57,Hourly,56455.00,109217.00,2025-04-04,,496,48,5,9,5,0,1,0,0.00
+470,JOB-2026-00470,ML Engineer,Open,7,8,17,18,2,6,Full-time,Hybrid,90.93,Hourly,72960.00,126840.00,2025-11-17,,269,48,9,3,7,1,1,0,0.00
+324,JOB-2026-00324,Data Analyst,Filled,6,9,11,10,1,4,Full-time,Remote,115.57,Hourly,58284.00,105543.00,2026-01-13,2026-03-03,49,48,10,4,4,1,4,0,0.00
+861,JOB-2026-00861,Senior Data Analyst,Filled,2,9,12,1,3,6,Contract,Onsite,57.96,Hourly,88020.00,113407.00,2025-11-28,2026-01-13,46,48,13,5,9,1,1,0,0.00
+333,JOB-2026-00333,Senior Java Developer,Closed,6,10,12,8,2,10,Full-time,Remote,61.30,Hourly,110680.00,139518.00,2026-05-08,2026-08-14,98,48,14,7,4,1,2,0,0.00
+340,JOB-2026-00340,ML Engineer,Open,6,7,15,14,2,5,Full-time,Remote,85.83,Hourly,56210.00,98609.00,2026-02-07,,187,48,9,5,4,1,1,0,0.00
+249,JOB-2026-00249,DevOps Engineer,Open,7,5,11,18,2,6,Contract,Hybrid,70.29,Hourly,84366.00,115205.00,2025-03-18,,513,48,7,6,5,0,0,0,0.00
+786,JOB-2026-00786,Data Analyst,Closed,7,8,17,12,1,4,Contract-to-Hire,Hybrid,98.61,Hourly,53816.00,85580.00,2025-06-17,2025-07-15,28,48,5,8,3,2,1,0,0.00
+840,JOB-2026-00840,ML Engineer,Filled,6,8,16,5,2,5,Contract-to-Hire,Remote,81.18,Hourly,63225.00,118613.00,2026-01-10,2026-03-27,76,48,7,4,7,2,2,0,0.00
+801,JOB-2026-00801,ML Engineer,Closed,2,23,14,4,2,7,Full-time,Hybrid,86.41,Hourly,78995.00,110635.00,2026-02-14,2026-04-12,57,47,8,8,4,0,1,0,0.00
+434,JOB-2026-00434,Data Analyst,Filled,6,2,17,20,1,5,Contract,Onsite,87.01,Hourly,54870.00,91451.00,2025-02-14,2025-06-05,111,47,8,1,4,0,1,0,0.00
+964,JOB-2026-00964,Java Developer,Filled,7,23,17,7,4,3,Contract,Remote,89.30,Hourly,33726.00,55230.00,2026-07-21,2026-08-26,36,47,14,6,3,0,0,0,0.00
+297,JOB-2026-00297,AI Engineer,Filled,6,8,15,18,1,7,Full-time,Onsite,107.84,Hourly,90412.00,120635.00,2025-04-20,2025-07-28,99,47,16,3,5,0,1,0,0.00
+886,JOB-2026-00886,Full Stack Developer,Open,7,9,13,4,1,3,Contract-to-Hire,Hybrid,45.21,Hourly,36039.00,95469.00,2026-06-26,,48,47,11,8,4,0,3,0,0.00
+934,JOB-2026-00934,Data Analyst,Closed,7,21,11,10,3,5,Full-time,Onsite,78.33,Hourly,67710.00,118230.00,2026-02-27,2026-03-19,20,47,7,4,6,0,2,0,0.00
+85,JOB-2026-00085,Senior Java Developer,Filled,2,8,17,3,3,7,Full-time,Hybrid,107.56,Hourly,76601.00,123145.00,2025-01-22,2025-04-26,94,47,12,8,5,2,2,0,0.00
+353,JOB-2026-00353,Business Analyst,Closed,7,3,16,20,3,6,Full-time,Onsite,95.32,Hourly,74664.00,116363.00,2025-03-31,2025-05-07,37,47,11,6,6,0,2,0,0.00
+827,JOB-2026-00827,Business Analyst,Closed,6,8,17,17,1,7,Contract,Remote,113.04,Hourly,71323.00,100515.00,2025-05-03,2025-08-29,118,47,7,6,6,1,1,0,0.00
+305,JOB-2026-00305,Business Analyst,Open,7,6,16,9,3,6,Contract,Onsite,91.57,Hourly,79890.00,104565.00,2025-03-23,,508,47,11,7,1,0,2,0,0.00
+685,JOB-2026-00685,AI Engineer,Filled,2,1,16,14,4,4,Contract,Onsite,41.67,Hourly,50324.00,74875.00,2025-06-20,2025-07-23,33,47,11,9,4,0,2,0,0.00
+816,JOB-2026-00816,AI Engineer,Open,7,10,12,10,4,6,Full-time,Hybrid,40.77,Hourly,65718.00,114678.00,2025-03-27,,504,47,11,4,6,0,2,0,0.00
+539,JOB-2026-00539,AI Engineer,Open,2,4,16,9,3,3,Contract-to-Hire,Onsite,99.62,Hourly,32913.00,57588.00,2026-01-04,,221,47,6,5,6,1,1,0,0.00
+404,JOB-2026-00404,Java Developer,Filled,7,7,12,16,1,3,Full-time,Onsite,78.75,Hourly,32706.00,74079.00,2025-08-22,2025-10-01,40,47,12,8,2,0,2,0,0.00
+1,JOB-2026-00001,Senior Data Analyst,Open,2,22,15,19,1,4,Contract-to-Hire,Onsite,42.54,Hourly,49012.00,85061.00,2025-08-17,,361,47,7,4,8,0,4,0,0.00
+719,JOB-2026-00719,AI Engineer,Filled,2,1,12,21,4,5,Contract-to-Hire,Hybrid,116.24,Hourly,72645.00,106457.00,2025-05-06,2025-06-08,33,47,10,4,7,1,1,0,0.00
+562,JOB-2026-00562,AI Engineer,Closed,2,4,13,3,4,6,Contract,Hybrid,71.86,Hourly,68670.00,128375.00,2025-09-12,2025-12-17,96,47,5,3,7,0,4,0,0.00
+641,JOB-2026-00641,Senior Data Analyst,Open,7,23,14,5,3,6,Contract-to-Hire,Hybrid,93.97,Hourly,60414.00,103787.00,2025-10-17,,300,47,8,8,7,1,0,0,0.00
+455,JOB-2026-00455,Senior Data Analyst,Filled,6,7,17,8,2,6,Contract,Hybrid,85.68,Hourly,89568.00,129096.00,2025-03-07,2025-04-02,26,47,11,6,10,0,1,0,0.00
+625,JOB-2026-00625,Business Analyst,Closed,7,7,11,1,2,3,Full-time,Hybrid,47.98,Hourly,31704.00,61109.00,2025-03-15,2025-06-20,97,47,7,3,7,0,2,0,0.00
+744,JOB-2026-00744,DevOps Engineer,Closed,7,22,12,14,1,8,Contract,Onsite,61.05,Hourly,94032.00,114241.00,2026-03-21,2026-05-01,41,47,8,4,5,0,2,0,0.00
+923,JOB-2026-00923,AI Engineer,Open,6,2,14,18,4,3,Contract,Onsite,81.97,Hourly,38853.00,82254.00,2025-12-13,,243,47,9,4,3,1,2,0,0.00
+188,JOB-2026-00188,ML Engineer,Closed,2,7,13,8,1,9,Contract-to-Hire,Remote,70.87,Hourly,91971.00,131739.00,2025-07-30,2025-11-17,110,46,10,3,6,0,3,0,0.00
+130,JOB-2026-00130,Full Stack Developer,Open,7,23,11,18,2,6,Contract-to-Hire,Hybrid,97.85,Hourly,69798.00,108622.00,2025-11-25,,261,46,9,5,1,0,3,0,0.00
+325,JOB-2026-00325,DevOps Engineer,Closed,7,9,16,4,4,6,Full-time,Remote,86.13,Hourly,69312.00,101968.00,2026-06-23,2026-07-30,37,46,11,3,3,0,0,0,0.00
+330,JOB-2026-00330,Full Stack Developer,Open,6,22,17,3,4,4,Contract-to-Hire,Remote,113.75,Hourly,55996.00,113759.00,2025-04-08,,492,46,8,9,3,0,2,0,0.00
+120,JOB-2026-00120,Senior Data Analyst,Filled,2,3,11,12,4,7,Contract-to-Hire,Hybrid,84.63,Hourly,98910.00,148424.00,2026-07-18,2026-08-17,30,46,9,3,3,0,1,0,0.00
+788,JOB-2026-00788,Business Analyst,Filled,7,2,17,14,2,5,Contract,Remote,100.77,Hourly,70560.00,114993.00,2026-04-30,2026-06-30,61,46,8,13,5,0,2,0,0.00
+554,JOB-2026-00554,AI Engineer,Filled,2,7,15,11,1,8,Full-time,Remote,84.96,Hourly,84136.00,118591.00,2025-04-09,2025-04-29,20,46,4,3,8,2,6,0,0.00
+689,JOB-2026-00689,Senior Java Developer,Open,6,5,16,17,4,7,Contract-to-Hire,Hybrid,61.22,Hourly,81830.00,107680.00,2025-07-18,,391,46,11,6,5,0,2,0,0.00
+683,JOB-2026-00683,Data Analyst,Closed,6,2,15,9,1,3,Full-time,Onsite,110.61,Hourly,32727.00,67117.00,2025-04-28,2025-06-12,45,46,14,5,1,1,3,0,0.00
+177,JOB-2026-00177,AI Engineer,Closed,7,23,17,7,2,5,Full-time,Hybrid,87.03,Hourly,51320.00,100793.00,2025-09-27,2025-10-27,30,46,8,8,2,0,0,0,0.00
+663,JOB-2026-00663,Senior Java Developer,Open,2,10,17,4,1,7,Contract-to-Hire,Onsite,114.18,Hourly,72961.00,110981.00,2025-03-26,,505,46,9,2,6,0,2,0,0.00
+43,JOB-2026-00043,AI Engineer,Open,7,7,16,10,2,8,Full-time,Onsite,86.52,Hourly,111200.00,163366.00,2026-04-04,,131,46,5,8,7,2,1,0,0.00
+481,JOB-2026-00481,Java Developer,Open,6,21,11,18,4,3,Contract-to-Hire,Remote,40.47,Hourly,35187.00,67316.00,2025-03-22,,509,46,13,5,4,0,1,0,0.00
+491,JOB-2026-00491,DevOps Engineer,Filled,7,3,16,15,3,3,Full-time,Remote,79.87,Hourly,42465.00,69373.00,2025-06-21,2025-08-21,61,46,12,4,4,0,3,0,0.00
+25,JOB-2026-00025,AI Engineer,Filled,6,21,17,1,3,6,Contract,Hybrid,110.16,Hourly,76134.00,114392.00,2025-03-13,2025-05-18,66,46,14,4,2,2,3,0,0.00
+504,JOB-2026-00504,Java Developer,Filled,7,8,16,5,4,5,Contract-to-Hire,Onsite,66.02,Hourly,69465.00,129160.00,2025-05-16,2025-09-05,112,46,6,6,4,2,4,0,0.00
+217,JOB-2026-00217,Full Stack Developer,Open,6,21,16,7,4,4,Full-time,Hybrid,42.06,Hourly,41784.00,85431.00,2025-01-04,,586,46,8,9,4,0,0,0,0.00
+579,JOB-2026-00579,Business Analyst,Filled,6,21,16,8,4,6,Contract-to-Hire,Remote,60.73,Hourly,63174.00,105667.00,2026-01-22,2026-03-26,63,46,7,11,3,0,2,0,0.00
+576,JOB-2026-00576,Senior Data Analyst,Filled,2,23,17,5,1,7,Full-time,Remote,103.75,Hourly,86849.00,146640.00,2025-07-19,2025-10-15,88,46,6,7,5,1,1,0,0.00
+574,JOB-2026-00574,Data Analyst,Closed,2,21,16,17,4,6,Full-time,Remote,92.82,Hourly,66036.00,120811.00,2025-10-14,2026-01-16,94,46,12,7,1,0,2,0,0.00
+521,JOB-2026-00521,Data Analyst,Open,7,7,12,3,3,3,Contract,Remote,104.61,Hourly,31152.00,69366.00,2026-03-07,,159,46,12,5,2,1,2,0,0.00
+687,JOB-2026-00687,Data Scientist,Filled,2,5,16,9,4,3,Contract,Hybrid,76.70,Hourly,32457.00,72419.00,2025-12-10,2026-03-04,84,45,14,8,3,0,1,0,0.00
+59,JOB-2026-00059,Data Scientist,Closed,7,1,16,14,2,7,Full-time,Hybrid,117.60,Hourly,103838.00,145595.00,2025-04-13,2025-06-25,73,45,10,3,1,1,2,0,0.00
+429,JOB-2026-00429,Java Developer,Filled,7,9,12,4,2,5,Contract-to-Hire,Hybrid,100.21,Hourly,64580.00,87772.00,2025-10-24,2025-11-17,24,45,10,4,6,0,2,0,0.00
+580,JOB-2026-00580,Java Developer,Open,6,6,14,10,1,7,Contract,Remote,87.20,Hourly,103957.00,136288.00,2025-04-29,,471,45,12,6,2,0,1,0,0.00
+597,JOB-2026-00597,Java Developer,Open,6,4,14,4,1,4,Full-time,Hybrid,82.12,Hourly,48952.00,78541.00,2025-08-20,,358,45,6,5,2,0,3,0,0.00
+412,JOB-2026-00412,Java Developer,Open,2,6,12,21,1,3,Full-time,Remote,98.99,Hourly,43731.00,68122.00,2026-07-29,,15,45,10,4,2,1,2,0,0.00
+119,JOB-2026-00119,Full Stack Developer,Filled,6,6,17,12,4,5,Full-time,Hybrid,72.05,Hourly,71980.00,92515.00,2025-04-21,2025-08-07,108,45,11,7,1,0,1,0,0.00
+997,JOB-2026-00997,Data Analyst,Filled,6,23,16,15,3,2,Contract,Hybrid,105.26,Hourly,24130.00,69660.00,2025-07-11,2025-09-14,65,45,6,6,7,0,0,0,0.00
+146,JOB-2026-00146,Java Developer,Filled,7,1,13,20,4,7,Contract-to-Hire,Onsite,43.16,Hourly,74529.00,124006.00,2026-01-15,2026-02-23,39,45,8,6,4,1,1,0,0.00
+202,JOB-2026-00202,Senior Java Developer,Open,6,23,12,1,1,8,Contract,Onsite,106.43,Hourly,116432.00,172484.00,2025-09-13,,334,45,9,7,3,0,1,0,0.00
+989,JOB-2026-00989,Java Developer,Closed,6,6,13,10,1,2,Contract,Onsite,78.92,Hourly,27136.00,73738.00,2026-03-19,2026-04-06,18,45,12,6,4,0,3,0,0.00
+777,JOB-2026-00777,ML Engineer,Open,6,2,15,16,2,4,Contract,Onsite,77.38,Hourly,56816.00,90625.00,2025-09-22,,325,45,9,4,7,0,2,0,0.00
+729,JOB-2026-00729,Data Analyst,Filled,2,23,15,7,3,2,Contract-to-Hire,Remote,106.46,Hourly,29978.00,63837.00,2025-11-17,2026-02-05,80,45,8,5,2,1,1,0,0.00
+488,JOB-2026-00488,AI Engineer,Open,2,8,11,16,4,5,Full-time,Onsite,58.78,Hourly,53530.00,105176.00,2025-05-13,,457,45,6,6,3,0,1,0,0.00
+131,JOB-2026-00131,Data Scientist,Filled,2,5,15,11,1,3,Contract,Remote,76.35,Hourly,39756.00,92221.00,2025-07-10,2025-07-26,16,45,8,7,1,0,0,0,0.00
+140,JOB-2026-00140,DevOps Engineer,Closed,2,4,17,1,1,4,Contract,Remote,77.04,Hourly,51392.00,79166.00,2025-07-02,2025-10-18,108,45,6,7,7,0,1,0,0.00
+167,JOB-2026-00167,Java Developer,Closed,2,9,15,15,2,5,Full-time,Hybrid,71.29,Hourly,54335.00,75026.00,2025-04-11,2025-07-01,81,45,12,4,2,1,1,0,0.00
+233,JOB-2026-00233,DevOps Engineer,Open,7,23,15,11,2,4,Contract-to-Hire,Onsite,47.14,Hourly,49624.00,76020.00,2026-04-28,,107,45,9,7,4,0,0,0,0.00
+213,JOB-2026-00213,Java Developer,Open,6,22,11,9,3,3,Contract,Onsite,97.63,Hourly,32178.00,74181.00,2026-04-03,,132,45,14,6,3,0,2,0,0.00
+370,JOB-2026-00370,Java Developer,Closed,2,10,12,16,2,6,Contract,Hybrid,45.28,Hourly,63486.00,103285.00,2026-06-30,2026-08-14,45,45,8,6,3,0,1,0,0.00
+460,JOB-2026-00460,Senior Java Developer,Closed,7,22,14,6,1,5,Contract-to-Hire,Hybrid,60.88,Hourly,61220.00,86469.00,2026-05-19,2026-07-15,57,45,9,4,6,0,3,0,0.00
+456,JOB-2026-00456,DevOps Engineer,Filled,2,6,17,8,4,5,Full-time,Remote,57.44,Hourly,70330.00,96244.00,2025-09-01,2025-10-26,55,45,8,3,7,0,2,0,0.00
+160,JOB-2026-00160,DevOps Engineer,Open,6,7,17,18,1,3,Full-time,Hybrid,85.76,Hourly,44670.00,103863.00,2025-11-29,,257,45,11,3,6,0,3,0,0.00
+716,JOB-2026-00716,DevOps Engineer,Open,2,8,12,2,3,7,Full-time,Onsite,67.97,Hourly,72625.00,93601.00,2025-09-13,,334,45,8,8,3,0,0,0,0.00
+358,JOB-2026-00358,AI Engineer,Open,7,9,13,4,1,3,Contract,Onsite,66.66,Hourly,34944.00,73400.00,2025-09-18,,329,45,5,8,2,1,3,0,0.00
+655,JOB-2026-00655,Data Analyst,Filled,2,22,14,14,4,4,Contract-to-Hire,Hybrid,68.14,Hourly,51920.00,72981.00,2025-11-06,2025-12-06,30,45,9,6,5,2,2,0,0.00
+913,JOB-2026-00913,Full Stack Developer,Filled,2,5,12,17,2,8,Contract,Onsite,104.29,Hourly,83912.00,127070.00,2025-04-19,2025-07-20,92,45,7,5,4,0,0,0,0.00
+820,JOB-2026-00820,Full Stack Developer,Open,6,3,12,6,4,3,Contract-to-Hire,Remote,88.81,Hourly,37374.00,97319.00,2025-08-04,,374,45,9,7,4,0,3,0,0.00
+79,JOB-2026-00079,ML Engineer,Open,2,21,14,4,2,8,Contract-to-Hire,Remote,107.63,Hourly,100472.00,143517.00,2025-04-17,,483,45,9,5,5,0,0,0,0.00
+121,JOB-2026-00121,Data Analyst,Closed,2,9,12,20,3,2,Contract-to-Hire,Hybrid,53.00,Hourly,20636.00,49616.00,2025-12-08,2026-03-10,92,45,8,4,3,0,4,0,0.00
+137,JOB-2026-00137,Data Scientist,Open,2,10,14,17,1,4,Contract-to-Hire,Onsite,104.70,Hourly,50748.00,104849.00,2026-03-29,,137,44,11,7,3,1,2,0,0.00
+147,JOB-2026-00147,DevOps Engineer,Open,6,4,16,16,1,4,Full-time,Hybrid,95.65,Hourly,55708.00,89397.00,2025-12-07,,249,44,8,6,3,0,0,0,0.00
+161,JOB-2026-00161,ML Engineer,Open,2,5,14,12,1,6,Contract,Onsite,115.54,Hourly,84234.00,113797.00,2025-03-06,,525,44,13,7,6,0,0,0,0.00
+572,JOB-2026-00572,Data Analyst,Closed,2,23,13,16,4,6,Full-time,Remote,88.35,Hourly,62052.00,88398.00,2025-08-05,2025-10-25,81,44,11,2,3,0,3,0,0.00
+794,JOB-2026-00794,Data Analyst,Filled,2,3,13,20,1,4,Contract,Hybrid,112.78,Hourly,58784.00,109777.00,2025-08-09,2025-12-01,114,44,1,6,4,0,2,0,0.00
+718,JOB-2026-00718,DevOps Engineer,Closed,2,1,13,20,4,5,Contract-to-Hire,Hybrid,62.38,Hourly,60000.00,114527.00,2025-10-01,2025-10-29,28,44,13,1,5,1,1,0,0.00
+927,JOB-2026-00927,Business Analyst,Open,6,4,17,11,3,4,Contract,Remote,66.16,Hourly,48704.00,105159.00,2026-01-19,,206,44,11,5,2,0,2,0,0.00
+214,JOB-2026-00214,Data Scientist,Open,2,8,17,6,2,6,Contract,Remote,45.90,Hourly,84234.00,129053.00,2025-12-26,,230,44,11,4,2,0,2,0,0.00
+531,JOB-2026-00531,Data Analyst,Filled,6,6,11,7,1,6,Full-time,Hybrid,62.73,Hourly,65658.00,94990.00,2025-10-25,2026-02-14,112,44,7,3,9,1,4,0,0.00
+438,JOB-2026-00438,Data Analyst,Closed,7,5,16,8,4,2,Contract,Hybrid,72.58,Hourly,25374.00,77729.00,2025-04-29,2025-08-16,109,44,8,7,3,0,4,0,0.00
+950,JOB-2026-00950,DevOps Engineer,Filled,6,6,14,17,4,8,Contract,Onsite,112.53,Hourly,107672.00,132058.00,2025-03-08,2025-06-16,100,44,4,11,3,0,1,0,0.00
+443,JOB-2026-00443,Full Stack Developer,Open,2,23,11,4,4,7,Contract-to-Hire,Remote,76.01,Hourly,85001.00,140550.00,2025-12-18,,238,44,6,7,4,0,4,0,0.00
+753,JOB-2026-00753,Java Developer,Open,2,5,16,13,4,5,Contract,Hybrid,74.36,Hourly,70985.00,92520.00,2025-11-06,,280,44,8,6,3,1,1,0,0.00
+710,JOB-2026-00710,DevOps Engineer,Filled,2,1,12,9,3,5,Full-time,Onsite,96.26,Hourly,54130.00,81858.00,2026-05-26,2026-07-22,57,44,9,4,6,0,1,0,0.00
+125,JOB-2026-00125,Data Analyst,Closed,2,6,12,18,4,3,Contract-to-Hire,Hybrid,83.70,Hourly,42747.00,76335.00,2026-07-29,2026-09-30,63,44,6,7,4,0,2,0,0.00
+480,JOB-2026-00480,DevOps Engineer,Open,7,7,16,11,3,3,Contract,Onsite,97.93,Hourly,32799.00,83134.00,2025-07-03,,406,44,11,7,3,0,0,0,0.00
+812,JOB-2026-00812,Java Developer,Filled,2,23,11,12,2,3,Contract,Onsite,76.75,Hourly,37599.00,71127.00,2025-08-18,2025-12-04,108,44,10,8,3,0,2,0,0.00
+973,JOB-2026-00973,Data Scientist,Open,2,9,12,1,2,7,Contract-to-Hire,Hybrid,108.43,Hourly,77112.00,127424.00,2026-07-21,,23,44,12,10,4,0,1,0,0.00
+601,JOB-2026-00601,Senior Data Analyst,Open,6,4,11,19,2,6,Full-time,Remote,46.77,Hourly,79980.00,120475.00,2025-04-03,,497,44,4,8,6,0,1,0,0.00
+696,JOB-2026-00696,DevOps Engineer,Filled,7,9,13,20,2,3,Contract,Remote,111.99,Hourly,40344.00,66139.00,2025-05-24,2025-08-21,89,44,7,8,5,0,1,0,0.00
+590,JOB-2026-00590,Data Scientist,Closed,7,10,15,7,1,6,Contract-to-Hire,Remote,111.81,Hourly,60966.00,106773.00,2026-07-24,2026-10-13,81,44,12,9,3,1,2,0,0.00
+507,JOB-2026-00507,AI Engineer,Open,2,10,11,1,4,8,Contract-to-Hire,Remote,74.96,Hourly,117976.00,167089.00,2025-03-28,,503,44,10,10,4,1,1,0,0.00
+583,JOB-2026-00583,ML Engineer,Open,6,22,17,2,2,9,Contract-to-Hire,Onsite,108.54,Hourly,117765.00,141619.00,2025-12-08,,248,44,10,2,1,0,2,0,0.00
+117,JOB-2026-00117,Data Scientist,Open,7,3,17,19,3,3,Contract,Remote,65.02,Hourly,31242.00,70261.00,2026-01-29,,196,43,9,8,5,1,2,0,0.00
+688,JOB-2026-00688,Java Developer,Closed,7,1,12,8,4,6,Contract-to-Hire,Hybrid,119.53,Hourly,89280.00,141022.00,2025-04-26,2025-07-31,96,43,13,4,3,1,4,0,0.00
+57,JOB-2026-00057,Senior Data Analyst,Open,2,5,17,5,4,6,Full-time,Hybrid,83.09,Hourly,80394.00,122668.00,2026-06-04,,70,43,7,9,5,1,1,0,0.00
+266,JOB-2026-00266,DevOps Engineer,Filled,7,7,17,7,1,7,Contract-to-Hire,Remote,106.30,Hourly,70420.00,94710.00,2025-08-04,2025-11-14,102,43,8,3,3,0,0,0,0.00
+693,JOB-2026-00693,DevOps Engineer,Closed,2,5,12,16,1,4,Full-time,Remote,59.90,Hourly,42816.00,80554.00,2025-05-27,2025-06-21,25,43,11,4,3,0,1,0,0.00
+826,JOB-2026-00826,Data Scientist,Open,2,8,12,12,4,3,Full-time,Remote,55.92,Hourly,37713.00,81386.00,2026-04-02,,133,43,12,8,3,1,0,0,0.00
+714,JOB-2026-00714,Senior Java Developer,Filled,7,4,15,1,4,8,Full-time,Onsite,78.57,Hourly,99880.00,134806.00,2025-01-22,2025-05-20,118,43,13,3,5,1,2,0,0.00
+203,JOB-2026-00203,Senior Data Analyst,Open,2,21,14,3,2,8,Full-time,Onsite,49.80,Hourly,118408.00,155370.00,2025-03-18,,513,43,9,5,4,1,1,0,0.00
+211,JOB-2026-00211,Senior Java Developer,Filled,6,23,13,19,2,10,Contract-to-Hire,Remote,70.27,Hourly,139910.00,180703.00,2025-06-28,2025-09-29,93,43,11,6,4,0,0,0,0.00
+92,JOB-2026-00092,Business Analyst,Filled,7,10,16,10,1,7,Contract-to-Hire,Remote,70.13,Hourly,78106.00,121031.00,2025-11-14,2025-12-15,31,43,6,4,6,2,1,0,0.00
+369,JOB-2026-00369,Java Developer,Closed,7,3,13,20,3,5,Full-time,Hybrid,50.19,Hourly,69965.00,91948.00,2025-03-08,2025-05-21,74,43,7,9,5,0,1,0,0.00
+124,JOB-2026-00124,AI Engineer,Open,7,3,14,14,2,3,Contract,Onsite,102.00,Hourly,44070.00,71272.00,2025-07-15,,394,43,4,8,5,1,2,0,0.00
+522,JOB-2026-00522,Senior Data Analyst,Filled,7,1,14,1,4,5,Full-time,Hybrid,103.78,Hourly,58060.00,88839.00,2025-12-04,2025-12-31,27,43,10,7,1,0,2,0,0.00
+993,JOB-2026-00993,Full Stack Developer,Open,2,10,13,3,2,3,Contract-to-Hire,Remote,88.49,Hourly,36567.00,95454.00,2025-10-26,,291,43,8,4,2,0,2,0,0.00
+157,JOB-2026-00157,DevOps Engineer,Filled,6,10,17,11,4,8,Full-time,Hybrid,90.73,Hourly,102664.00,126183.00,2025-04-11,2025-06-08,58,43,9,7,0,1,0,0,0.00
+216,JOB-2026-00216,Data Scientist,Open,2,4,14,10,3,7,Contract,Onsite,59.00,Hourly,94892.00,125187.00,2025-02-24,,535,43,4,7,6,0,0,0,0.00
+355,JOB-2026-00355,ML Engineer,Open,7,1,11,16,1,6,Contract-to-Hire,Onsite,95.09,Hourly,85902.00,133018.00,2026-06-22,,52,43,10,7,1,0,2,0,0.00
+523,JOB-2026-00523,Java Developer,Filled,6,2,16,19,4,2,Contract-to-Hire,Onsite,46.84,Hourly,25464.00,79521.00,2025-08-31,2025-12-21,112,43,12,7,6,0,1,0,0.00
+845,JOB-2026-00845,Data Scientist,Filled,7,6,13,14,4,3,Contract-to-Hire,Onsite,118.74,Hourly,35580.00,85558.00,2025-04-24,2025-05-25,31,43,14,5,2,0,1,0,0.00
+18,JOB-2026-00018,Senior Data Analyst,Open,2,22,13,9,2,7,Contract,Hybrid,50.47,Hourly,103467.00,160509.00,2026-06-20,,54,43,7,9,1,0,2,0,0.00
+694,JOB-2026-00694,Senior Data Analyst,Closed,2,23,15,7,2,6,Contract-to-Hire,Onsite,50.86,Hourly,74844.00,133971.00,2025-11-15,2026-01-10,56,43,12,4,3,0,1,0,0.00
+818,JOB-2026-00818,ML Engineer,Closed,2,21,14,6,1,6,Contract-to-Hire,Hybrid,40.52,Hourly,86154.00,122473.00,2025-12-16,2026-02-08,54,43,13,1,3,0,1,0,0.00
+415,JOB-2026-00415,Data Scientist,Open,2,21,15,16,2,6,Full-time,Remote,73.61,Hourly,67392.00,100778.00,2026-06-18,,56,43,8,4,8,0,4,0,0.00
+735,JOB-2026-00735,DevOps Engineer,Closed,7,5,11,11,3,6,Contract-to-Hire,Hybrid,88.70,Hourly,80754.00,123977.00,2025-05-11,2025-08-25,106,43,2,7,4,1,3,0,0.00
+418,JOB-2026-00418,Data Scientist,Filled,6,23,12,8,2,8,Contract-to-Hire,Onsite,43.29,Hourly,115080.00,153773.00,2025-07-06,2025-10-14,100,43,8,2,5,1,0,0,0.00
+419,JOB-2026-00419,ML Engineer,Filled,6,3,13,18,4,6,Full-time,Remote,82.69,Hourly,69066.00,102511.00,2026-07-30,2026-09-27,59,43,13,5,3,2,6,0,0.00
+241,JOB-2026-00241,ML Engineer,Filled,6,2,15,10,1,7,Contract-to-Hire,Remote,102.78,Hourly,75789.00,129887.00,2025-10-04,2025-12-11,68,43,16,5,3,0,0,0,0.00
+336,JOB-2026-00336,AI Engineer,Filled,2,8,15,1,2,8,Contract-to-Hire,Remote,86.64,Hourly,115256.00,149141.00,2025-07-28,2025-10-21,85,43,5,9,9,1,0,0,0.00
+889,JOB-2026-00889,Full Stack Developer,Filled,2,5,12,1,3,7,Contract-to-Hire,Hybrid,104.44,Hourly,90650.00,125319.00,2025-05-28,2025-07-31,64,42,6,7,4,2,4,0,0.00
+996,JOB-2026-00996,Java Developer,Closed,2,21,16,7,3,7,Contract,Remote,92.49,Hourly,88347.00,146310.00,2025-09-02,2025-10-02,30,42,6,5,4,0,4,0,0.00
+628,JOB-2026-00628,DevOps Engineer,Closed,7,6,16,8,3,6,Full-time,Onsite,70.78,Hourly,66966.00,87045.00,2025-08-18,2025-09-20,33,42,9,7,0,0,1,0,0.00
+895,JOB-2026-00895,Senior Data Analyst,Filled,2,10,13,16,4,6,Contract,Onsite,96.29,Hourly,77532.00,110836.00,2025-06-04,2025-08-04,61,42,7,5,1,0,3,0,0.00
+104,JOB-2026-00104,Java Developer,Filled,2,8,14,6,3,2,Contract,Hybrid,95.37,Hourly,25438.00,63343.00,2025-05-08,2025-08-26,110,42,6,5,6,0,2,0,0.00
+111,JOB-2026-00111,Business Analyst,Closed,2,23,14,5,1,2,Contract-to-Hire,Remote,91.39,Hourly,21076.00,61345.00,2026-02-12,2026-04-20,67,42,5,3,2,0,2,0,0.00
+186,JOB-2026-00186,Data Scientist,Open,7,6,16,21,2,3,Contract-to-Hire,Remote,52.11,Hourly,43035.00,99950.00,2025-01-09,,581,42,8,4,3,0,3,0,0.00
+327,JOB-2026-00327,Java Developer,Filled,2,5,13,15,4,6,Contract,Onsite,40.02,Hourly,71826.00,128732.00,2026-07-13,2026-10-31,110,42,11,4,2,0,2,0,0.00
+538,JOB-2026-00538,Full Stack Developer,Open,2,21,11,3,3,5,Contract,Onsite,107.41,Hourly,61180.00,106239.00,2025-01-26,,564,42,7,5,6,0,2,0,0.00
+339,JOB-2026-00339,Senior Java Developer,Closed,7,4,15,2,3,10,Contract,Remote,60.61,Hourly,112860.00,134064.00,2025-12-22,2026-02-13,53,42,4,8,5,0,1,0,0.00
+987,JOB-2026-00987,DevOps Engineer,Filled,6,2,17,18,2,5,Contract,Remote,107.56,Hourly,70430.00,116953.00,2025-02-22,2025-04-10,47,42,7,3,6,1,2,0,0.00
+243,JOB-2026-00243,Full Stack Developer,Open,2,5,16,15,2,4,Contract-to-Hire,Remote,61.13,Hourly,42948.00,96483.00,2025-03-18,,513,42,7,4,1,0,1,0,0.00
+675,JOB-2026-00675,Senior Data Analyst,Open,6,6,17,8,4,6,Full-time,Onsite,47.04,Hourly,65046.00,86965.00,2025-08-18,,360,42,6,8,5,3,3,0,0.00
+905,JOB-2026-00905,Data Scientist,Open,7,22,11,11,4,3,Full-time,Remote,82.35,Hourly,32250.00,52501.00,2026-03-20,,146,42,9,7,2,0,0,0,0.00
+134,JOB-2026-00134,Java Developer,Closed,2,1,16,15,1,4,Contract-to-Hire,Hybrid,52.78,Hourly,59084.00,116628.00,2025-01-12,2025-02-26,45,42,9,6,3,0,4,0,0.00
+17,JOB-2026-00017,DevOps Engineer,Open,6,2,16,13,2,7,Full-time,Onsite,115.33,Hourly,79023.00,102750.00,2026-06-05,,69,42,9,7,6,1,2,0,0.00
+334,JOB-2026-00334,Senior Java Developer,Closed,7,23,13,12,2,8,Contract,Hybrid,105.73,Hourly,103936.00,146762.00,2025-07-15,2025-08-02,18,42,11,6,3,0,0,0,0.00
+946,JOB-2026-00946,DevOps Engineer,Filled,7,23,15,9,1,6,Contract,Hybrid,49.41,Hourly,63396.00,116299.00,2025-07-05,2025-09-07,64,42,13,4,5,0,1,0,0.00
+985,JOB-2026-00985,Data Scientist,Filled,2,10,16,16,3,8,Contract,Remote,86.16,Hourly,112336.00,139822.00,2025-03-23,2025-05-20,58,42,12,2,3,1,2,0,0.00
+235,JOB-2026-00235,Data Analyst,Filled,2,3,13,3,2,3,Contract-to-Hire,Hybrid,66.61,Hourly,33375.00,66501.00,2025-12-17,2026-02-28,73,42,9,5,3,0,0,0,0.00
+273,JOB-2026-00273,AI Engineer,Open,2,10,12,11,3,5,Contract-to-Hire,Remote,53.49,Hourly,69900.00,119433.00,2025-12-03,,253,42,6,8,3,0,2,0,0.00
+178,JOB-2026-00178,Data Scientist,Closed,7,10,15,11,2,7,Contract-to-Hire,Onsite,63.41,Hourly,77980.00,111521.00,2025-07-31,2025-09-19,50,42,10,6,5,1,0,0,0.00
+239,JOB-2026-00239,Senior Java Developer,Open,7,9,12,12,1,5,Contract-to-Hire,Onsite,92.04,Hourly,59355.00,94056.00,2025-05-15,,455,42,8,3,3,0,1,0,0.00
+789,JOB-2026-00789,Data Analyst,Filled,6,7,11,10,4,4,Contract-to-Hire,Remote,49.72,Hourly,59336.00,96233.00,2025-07-22,2025-10-03,73,42,8,1,5,0,2,0,0.00
+247,JOB-2026-00247,Data Scientist,Open,7,21,13,17,1,6,Full-time,Hybrid,86.13,Hourly,83988.00,111389.00,2026-02-26,,168,41,8,4,3,0,1,0,0.00
+272,JOB-2026-00272,DevOps Engineer,Open,2,4,16,11,4,6,Full-time,Remote,50.26,Hourly,87012.00,111805.00,2025-10-25,,292,41,13,3,5,0,2,0,0.00
+352,JOB-2026-00352,Full Stack Developer,Open,6,9,13,2,2,6,Contract-to-Hire,Remote,51.86,Hourly,80154.00,129112.00,2025-03-23,,508,41,5,8,5,2,2,0,0.00
+977,JOB-2026-00977,Data Analyst,Filled,6,7,14,12,3,3,Full-time,Hybrid,65.16,Hourly,31803.00,91111.00,2026-01-12,2026-03-20,67,41,6,5,4,0,2,0,0.00
+604,JOB-2026-00604,Full Stack Developer,Open,2,9,17,10,1,6,Contract-to-Hire,Hybrid,78.65,Hourly,68376.00,112839.00,2025-04-26,,474,41,5,8,5,0,0,0,0.00
+653,JOB-2026-00653,Java Developer,Open,7,21,14,17,3,2,Contract,Hybrid,40.29,Hourly,22464.00,72522.00,2025-06-01,,438,41,5,4,4,0,2,0,0.00
+447,JOB-2026-00447,Senior Data Analyst,Open,7,8,16,19,4,6,Contract-to-Hire,Onsite,112.11,Hourly,65622.00,107746.00,2025-06-23,,416,41,10,5,7,0,2,0,0.00
+843,JOB-2026-00843,Senior Java Developer,Open,2,10,14,7,4,7,Contract,Hybrid,89.71,Hourly,70665.00,128157.00,2026-05-08,,97,41,6,6,6,0,2,0,0.00
+60,JOB-2026-00060,ML Engineer,Closed,6,21,16,18,4,6,Contract-to-Hire,Remote,89.40,Hourly,79536.00,104799.00,2025-12-03,2026-01-27,55,41,14,5,3,0,3,0,0.00
+345,JOB-2026-00345,Senior Java Developer,Filled,2,22,13,8,4,6,Contract,Onsite,72.39,Hourly,69966.00,103372.00,2025-03-09,2025-05-25,77,41,7,5,7,3,2,0,0.00
+918,JOB-2026-00918,Java Developer,Closed,6,10,15,21,2,4,Contract,Hybrid,116.62,Hourly,55812.00,112635.00,2025-05-30,2025-07-24,55,41,9,6,3,1,5,0,0.00
+71,JOB-2026-00071,Full Stack Developer,Closed,6,6,11,9,4,6,Contract,Remote,117.46,Hourly,71604.00,115372.00,2025-04-12,2025-07-18,97,41,12,3,6,0,0,0,0.00
+435,JOB-2026-00435,Data Scientist,Filled,7,22,15,17,2,8,Full-time,Hybrid,45.47,Hourly,98176.00,156170.00,2025-12-23,2026-04-16,114,41,10,4,2,0,2,0,0.00
+959,JOB-2026-00959,AI Engineer,Closed,7,9,13,15,2,7,Contract-to-Hire,Remote,81.61,Hourly,77980.00,117314.00,2025-07-14,2025-10-06,84,41,9,9,4,0,3,0,0.00
+639,JOB-2026-00639,Senior Java Developer,Open,7,2,11,12,1,8,Contract,Remote,102.30,Hourly,90800.00,114382.00,2026-01-16,,209,41,13,3,4,0,2,0,0.00
+893,JOB-2026-00893,DevOps Engineer,Closed,2,3,13,21,2,6,Full-time,Remote,86.01,Hourly,68862.00,117893.00,2025-01-25,2025-05-05,100,41,6,3,9,2,2,0,0.00
+245,JOB-2026-00245,Java Developer,Open,7,7,16,14,4,4,Contract,Hybrid,110.89,Hourly,45992.00,73452.00,2026-02-15,,179,41,9,6,4,0,2,0,0.00
+116,JOB-2026-00116,AI Engineer,Filled,7,7,12,17,3,5,Contract,Remote,48.49,Hourly,74845.00,104260.00,2025-11-17,2026-01-15,59,41,7,7,2,1,2,0,0.00
+42,JOB-2026-00042,Data Scientist,Filled,6,5,15,17,1,6,Contract,Hybrid,46.85,Hourly,70422.00,113675.00,2025-09-22,2026-01-04,104,41,7,5,6,1,0,0,0.00
+848,JOB-2026-00848,Senior Java Developer,Open,2,22,13,3,1,7,Contract,Hybrid,96.67,Hourly,92351.00,146544.00,2026-03-08,,158,41,12,8,2,0,2,0,0.00
+176,JOB-2026-00176,ML Engineer,Open,6,2,13,18,3,5,Contract-to-Hire,Remote,100.80,Hourly,68730.00,125800.00,2026-05-23,,82,41,13,4,2,0,1,0,0.00
+669,JOB-2026-00669,Senior Java Developer,Closed,7,9,13,10,4,6,Full-time,Remote,106.13,Hourly,87876.00,131004.00,2026-01-18,2026-02-06,19,41,7,6,3,0,0,0,0.00
+549,JOB-2026-00549,DevOps Engineer,Open,2,6,11,17,1,5,Contract-to-Hire,Hybrid,72.81,Hourly,52730.00,86968.00,2026-05-21,,84,41,11,4,5,0,0,0,0.00
+451,JOB-2026-00451,Business Analyst,Filled,2,10,14,15,2,6,Contract-to-Hire,Onsite,114.97,Hourly,82272.00,138157.00,2025-07-04,2025-08-11,38,41,6,3,3,0,2,0,0.00
+205,JOB-2026-00205,Full Stack Developer,Open,7,23,15,21,2,3,Contract,Onsite,103.59,Hourly,32154.00,70489.00,2026-01-28,,197,41,6,6,2,1,1,0,0.00
+329,JOB-2026-00329,Data Analyst,Filled,7,4,13,3,3,5,Contract,Hybrid,71.98,Hourly,64565.00,94795.00,2025-05-22,2025-07-07,46,41,8,6,6,1,0,0,0.00
+164,JOB-2026-00164,Business Analyst,Open,2,22,14,15,2,3,Contract-to-Hire,Remote,106.50,Hourly,44553.00,100311.00,2025-07-04,,405,41,2,9,6,0,3,0,0.00
+841,JOB-2026-00841,Senior Data Analyst,Open,7,21,13,15,3,7,Contract,Onsite,87.26,Hourly,86184.00,113080.00,2025-09-13,,334,41,11,4,4,0,4,0,0.00
+903,JOB-2026-00903,Data Scientist,Open,6,23,12,3,1,3,Full-time,Hybrid,97.85,Hourly,35970.00,60846.00,2025-07-01,,408,41,12,6,3,0,1,0,0.00
+477,JOB-2026-00477,Full Stack Developer,Filled,6,3,14,3,4,5,Contract,Onsite,81.07,Hourly,73060.00,132403.00,2026-03-10,2026-06-11,93,41,10,4,5,0,2,0,0.00
+478,JOB-2026-00478,Data Scientist,Closed,7,8,13,5,2,6,Contract,Hybrid,112.23,Hourly,85914.00,140299.00,2025-03-27,2025-07-22,117,41,8,4,3,0,0,0,0.00
+390,JOB-2026-00390,Senior Data Analyst,Closed,7,9,17,7,4,7,Contract-to-Hire,Onsite,91.47,Hourly,81501.00,141497.00,2026-02-07,2026-03-12,33,41,9,5,4,0,3,0,0.00
+288,JOB-2026-00288,DevOps Engineer,Closed,7,10,13,5,4,7,Contract-to-Hire,Remote,49.53,Hourly,97664.00,129376.00,2026-01-15,2026-03-10,54,41,7,6,5,1,1,0,0.00
+819,JOB-2026-00819,Data Scientist,Filled,6,3,12,8,1,3,Contract,Hybrid,64.58,Hourly,40617.00,80581.00,2025-04-07,2025-06-29,83,41,12,5,1,0,1,0,0.00
+252,JOB-2026-00252,Full Stack Developer,Filled,6,5,15,4,3,3,Contract,Hybrid,111.75,Hourly,32394.00,66926.00,2025-01-03,2025-04-30,117,40,10,7,4,0,1,0,0.00
+920,JOB-2026-00920,Full Stack Developer,Closed,6,2,13,9,4,4,Contract-to-Hire,Onsite,96.50,Hourly,54636.00,99672.00,2026-07-23,2026-09-16,55,40,13,3,5,0,2,0,0.00
+569,JOB-2026-00569,Data Scientist,Closed,6,5,16,6,4,6,Contract,Remote,69.97,Hourly,60072.00,86420.00,2025-03-13,2025-06-19,98,40,9,2,3,1,2,0,0.00
+933,JOB-2026-00933,Data Analyst,Closed,7,1,16,3,4,2,Contract-to-Hire,Remote,95.34,Hourly,21410.00,56798.00,2026-04-12,2026-05-31,49,40,8,3,3,1,1,0,0.00
+238,JOB-2026-00238,ML Engineer,Filled,2,9,13,5,4,5,Contract,Hybrid,119.69,Hourly,52670.00,75666.00,2025-11-02,2026-02-01,91,40,8,7,7,1,0,0,0.00
+237,JOB-2026-00237,AI Engineer,Open,7,1,16,8,2,8,Full-time,Remote,110.16,Hourly,104448.00,125370.00,2025-11-26,,260,40,9,5,2,0,2,0,0.00
+644,JOB-2026-00644,Senior Java Developer,Filled,2,2,17,5,1,6,Contract-to-Hire,Onsite,83.77,Hourly,70260.00,130032.00,2025-03-18,2025-06-04,78,40,5,4,1,0,2,0,0.00
+956,JOB-2026-00956,Senior Java Developer,Filled,2,3,17,12,1,9,Full-time,Remote,71.46,Hourly,92277.00,139626.00,2025-03-09,2025-07-01,114,40,7,3,7,1,2,0,0.00
+328,JOB-2026-00328,Data Scientist,Open,7,22,17,18,3,5,Contract,Onsite,84.51,Hourly,50265.00,89947.00,2025-08-16,,362,40,11,5,5,0,0,0,0.00
+210,JOB-2026-00210,Data Scientist,Closed,2,7,15,11,1,7,Full-time,Hybrid,65.81,Hourly,78120.00,105389.00,2026-06-23,2026-09-30,99,40,10,3,4,0,1,0,0.00
+179,JOB-2026-00179,DevOps Engineer,Filled,6,22,17,8,2,8,Contract,Onsite,96.91,Hourly,86240.00,115125.00,2026-02-26,2026-03-29,31,40,7,8,1,0,1,0,0.00
+126,JOB-2026-00126,ML Engineer,Open,7,5,17,7,3,8,Contract-to-Hire,Hybrid,96.40,Hourly,111728.00,144328.00,2025-09-10,,337,40,10,2,1,1,1,0,0.00
+475,JOB-2026-00475,ML Engineer,Open,6,5,12,13,2,6,Contract,Remote,41.64,Hourly,62724.00,87358.00,2026-07-15,,29,40,10,5,1,0,1,0,0.00
+542,JOB-2026-00542,Full Stack Developer,Open,2,22,11,12,4,7,Full-time,Remote,58.04,Hourly,71722.00,116278.00,2025-05-23,,447,40,9,6,4,0,1,0,0.00
+833,JOB-2026-00833,Data Analyst,Closed,6,23,14,3,1,5,Contract,Hybrid,80.54,Hourly,58540.00,103470.00,2025-02-20,2025-04-02,41,40,4,8,4,0,0,0,0.00
+975,JOB-2026-00975,Data Scientist,Filled,2,7,12,10,1,8,Contract-to-Hire,Remote,82.31,Hourly,87200.00,123467.00,2025-06-15,2025-07-08,23,40,5,8,3,0,0,0,0.00
+980,JOB-2026-00980,ML Engineer,Open,6,6,12,17,3,6,Contract,Onsite,40.88,Hourly,85188.00,141338.00,2026-05-04,,101,40,9,3,5,1,0,0,0.00
+496,JOB-2026-00496,Senior Java Developer,Closed,6,22,12,7,3,6,Contract,Remote,80.93,Hourly,74820.00,100343.00,2025-02-07,2025-05-25,107,40,4,2,5,0,2,0,0.00
+306,JOB-2026-00306,Java Developer,Open,7,1,12,9,2,7,Full-time,Hybrid,96.06,Hourly,103656.00,157796.00,2026-04-07,,128,40,8,3,7,1,1,0,0.00
+143,JOB-2026-00143,DevOps Engineer,Filled,7,6,12,5,3,5,Contract-to-Hire,Remote,81.70,Hourly,59590.00,117345.00,2025-11-23,2026-03-22,119,40,6,4,7,1,1,0,0.00
+139,JOB-2026-00139,Data Analyst,Filled,2,21,16,12,4,2,Full-time,Hybrid,75.88,Hourly,27734.00,49813.00,2025-10-21,2026-02-11,113,40,10,2,4,0,3,0,0.00
+510,JOB-2026-00510,Full Stack Developer,Open,6,9,14,16,1,7,Full-time,Hybrid,72.60,Hourly,98924.00,144158.00,2025-04-28,,472,40,14,4,4,0,2,0,0.00
+765,JOB-2026-00765,Data Analyst,Open,7,9,17,8,1,3,Contract,Remote,71.46,Hourly,42573.00,91388.00,2026-03-12,,154,40,12,3,4,0,1,0,0.00
+362,JOB-2026-00362,Full Stack Developer,Closed,7,23,12,15,1,5,Full-time,Onsite,41.99,Hourly,58850.00,113262.00,2025-11-06,2025-11-25,19,40,3,8,3,1,2,0,0.00
+101,JOB-2026-00101,Senior Java Developer,Closed,2,9,15,13,1,6,Contract-to-Hire,Onsite,43.48,Hourly,64206.00,118513.00,2026-01-05,2026-04-30,115,40,9,3,3,0,0,0,0.00
+99,JOB-2026-00099,Full Stack Developer,Filled,2,22,15,4,4,7,Full-time,Hybrid,59.01,Hourly,70301.00,95493.00,2025-01-20,2025-04-15,85,40,11,2,6,1,1,0,0.00
+501,JOB-2026-00501,Full Stack Developer,Closed,2,3,16,7,1,8,Full-time,Remote,77.87,Hourly,107320.00,137992.00,2025-05-28,2025-08-09,73,39,6,6,4,0,1,0,0.00
+3,JOB-2026-00003,Java Developer,Closed,7,2,15,21,3,4,Contract,Remote,110.84,Hourly,59780.00,97115.00,2025-02-14,2025-04-18,63,39,4,6,3,0,0,0,0.00
+14,JOB-2026-00014,Data Analyst,Open,6,9,14,14,2,2,Full-time,Onsite,62.28,Hourly,20992.00,67378.00,2025-12-14,,242,39,7,5,2,0,2,0,0.00
+48,JOB-2026-00048,Full Stack Developer,Filled,6,22,11,21,2,6,Contract-to-Hire,Hybrid,61.17,Hourly,74610.00,133179.00,2026-03-16,2026-06-17,93,39,6,6,4,0,0,0,0.00
+168,JOB-2026-00168,Java Developer,Open,2,22,12,10,3,2,Full-time,Hybrid,76.43,Hourly,27908.00,54759.00,2025-10-30,,287,39,6,4,8,0,0,0,0.00
+226,JOB-2026-00226,Data Scientist,Filled,6,3,12,2,2,3,Contract-to-Hire,Onsite,42.65,Hourly,37644.00,90857.00,2026-02-18,2026-03-08,18,39,9,8,3,0,2,0,0.00
+286,JOB-2026-00286,Senior Data Analyst,Open,6,9,14,7,3,7,Full-time,Onsite,96.73,Hourly,77672.00,114352.00,2026-05-04,,101,39,8,3,3,0,3,0,0.00
+332,JOB-2026-00332,Senior Java Developer,Closed,6,7,12,11,2,8,Full-time,Onsite,78.07,Hourly,119000.00,176699.00,2026-06-01,2026-09-24,115,39,7,8,3,1,2,0,0.00
+347,JOB-2026-00347,DevOps Engineer,Filled,2,4,13,13,4,7,Contract-to-Hire,Hybrid,101.89,Hourly,92680.00,115252.00,2026-07-26,2026-08-16,21,39,8,5,1,0,1,0,0.00
+473,JOB-2026-00473,DevOps Engineer,Filled,2,1,13,13,1,7,Contract,Onsite,87.23,Hourly,80353.00,127643.00,2025-03-20,2025-05-16,57,39,6,3,6,0,0,0,0.00
+494,JOB-2026-00494,Senior Data Analyst,Closed,6,21,16,19,2,6,Full-time,Hybrid,118.22,Hourly,75468.00,121790.00,2025-06-18,2025-07-07,19,39,7,3,7,0,2,0,0.00
+599,JOB-2026-00599,Senior Java Developer,Closed,7,21,12,13,2,8,Contract-to-Hire,Onsite,98.83,Hourly,118816.00,147176.00,2025-09-23,2025-10-27,34,39,11,6,6,0,2,0,0.00
+610,JOB-2026-00610,ML Engineer,Filled,7,4,13,9,1,7,Full-time,Remote,59.79,Hourly,74732.00,122843.00,2025-09-11,2025-10-19,38,39,10,4,3,0,1,0,0.00
+720,JOB-2026-00720,Business Analyst,Closed,6,7,14,2,4,5,Contract-to-Hire,Hybrid,56.46,Hourly,62300.00,87837.00,2025-03-03,2025-03-20,17,39,4,4,6,0,4,0,0.00
+853,JOB-2026-00853,Senior Java Developer,Open,7,5,16,14,3,8,Contract-to-Hire,Remote,106.90,Hourly,83712.00,110605.00,2025-10-14,,303,39,7,3,5,1,2,0,0.00
+891,JOB-2026-00891,Data Scientist,Open,7,4,17,15,3,8,Contract-to-Hire,Onsite,109.00,Hourly,114728.00,148222.00,2025-09-09,,338,39,3,6,8,1,3,0,0.00
+968,JOB-2026-00968,Senior Java Developer,Open,2,5,12,20,4,6,Contract,Hybrid,116.85,Hourly,70710.00,111302.00,2025-12-28,,228,39,2,4,3,2,5,0,0.00
+979,JOB-2026-00979,AI Engineer,Filled,2,5,13,12,1,6,Full-time,Onsite,112.75,Hourly,66408.00,113657.00,2025-02-22,2025-03-21,27,39,10,5,5,1,0,0,0.00
+988,JOB-2026-00988,Data Scientist,Closed,6,6,13,8,1,3,Contract-to-Hire,Hybrid,89.84,Hourly,43323.00,96473.00,2026-01-07,2026-04-04,87,39,8,2,5,0,3,0,0.00
+858,JOB-2026-00858,AI Engineer,Filled,2,6,13,11,2,7,Full-time,Hybrid,48.10,Hourly,101381.00,142475.00,2026-02-15,2026-03-13,26,38,7,5,4,0,0,0,0.00
+846,JOB-2026-00846,DevOps Engineer,Open,7,1,12,17,3,4,Contract-to-Hire,Onsite,102.40,Hourly,53024.00,106506.00,2025-07-19,,390,38,11,3,2,0,2,0,0.00
+874,JOB-2026-00874,Full Stack Developer,Filled,6,22,17,17,1,4,Contract,Onsite,93.08,Hourly,53244.00,75969.00,2026-01-02,2026-04-11,99,38,13,9,0,0,1,0,0.00
+646,JOB-2026-00646,Senior Data Analyst,Closed,7,21,12,12,4,8,Contract,Hybrid,107.59,Hourly,111992.00,134586.00,2026-01-08,2026-04-12,94,38,6,1,5,1,0,0,0.00
+107,JOB-2026-00107,AI Engineer,Filled,6,8,13,15,3,8,Full-time,Remote,85.91,Hourly,104000.00,147733.00,2026-01-28,2026-05-09,101,38,4,6,3,1,2,0,0.00
+593,JOB-2026-00593,Business Analyst,Closed,6,2,16,8,1,5,Contract-to-Hire,Remote,55.05,Hourly,62815.00,117068.00,2025-12-27,2026-04-09,103,38,11,7,2,0,2,0,0.00
+458,JOB-2026-00458,Java Developer,Filled,7,22,17,9,2,4,Contract-to-Hire,Remote,70.78,Hourly,40688.00,100390.00,2025-02-05,2025-02-26,21,38,10,4,1,0,1,0,0.00
+269,JOB-2026-00269,ML Engineer,Filled,7,8,12,5,2,8,Contract,Hybrid,71.28,Hourly,85664.00,124113.00,2026-03-25,2026-04-12,18,38,5,6,5,0,0,0,0.00
+231,JOB-2026-00231,ML Engineer,Filled,7,23,17,11,4,6,Full-time,Remote,51.19,Hourly,74682.00,107026.00,2025-06-03,2025-09-29,118,38,6,4,4,0,1,0,0.00
+974,JOB-2026-00974,Data Analyst,Open,7,3,17,8,2,6,Full-time,Onsite,106.74,Hourly,84792.00,108517.00,2026-02-08,,186,38,12,6,4,1,0,0,0.00
+326,JOB-2026-00326,Senior Data Analyst,Filled,7,10,14,11,3,5,Contract,Remote,119.32,Hourly,57385.00,113427.00,2026-02-16,2026-05-10,83,38,6,4,4,0,1,0,0.00
+169,JOB-2026-00169,Full Stack Developer,Filled,6,1,17,21,3,8,Full-time,Hybrid,94.17,Hourly,109648.00,150548.00,2025-03-10,2025-04-08,29,38,8,2,4,0,2,0,0.00
+831,JOB-2026-00831,AI Engineer,Open,7,3,11,18,1,7,Full-time,Onsite,115.56,Hourly,90335.00,148139.00,2025-06-06,,433,38,7,6,3,0,2,0,0.00
+960,JOB-2026-00960,AI Engineer,Closed,2,8,16,19,3,4,Contract,Remote,82.99,Hourly,59596.00,101706.00,2025-07-07,2025-09-10,65,38,11,4,2,1,2,0,0.00
+437,JOB-2026-00437,Java Developer,Open,7,6,11,4,4,5,Contract,Onsite,50.87,Hourly,67370.00,101412.00,2026-06-11,,63,38,7,3,5,1,3,0,0.00
+406,JOB-2026-00406,Full Stack Developer,Filled,7,23,16,19,2,6,Contract,Onsite,108.40,Hourly,80556.00,111775.00,2025-12-18,2026-04-13,116,38,7,8,2,0,0,0,0.00
+967,JOB-2026-00967,Full Stack Developer,Closed,6,8,15,12,2,6,Contract,Onsite,96.28,Hourly,85752.00,128184.00,2025-11-26,2026-01-29,64,38,8,3,2,0,0,0,0.00
+174,JOB-2026-00174,Data Scientist,Open,6,8,15,12,1,7,Full-time,Onsite,78.77,Hourly,79562.00,131651.00,2025-10-23,,294,38,4,6,3,0,1,0,0.00
+721,JOB-2026-00721,Data Analyst,Filled,2,5,17,1,2,4,Contract-to-Hire,Onsite,98.06,Hourly,41024.00,96514.00,2025-12-23,2026-02-19,58,38,9,4,6,0,0,0,0.00
+200,JOB-2026-00200,AI Engineer,Closed,2,7,11,7,3,4,Full-time,Onsite,64.66,Hourly,59156.00,86297.00,2025-06-09,2025-08-03,55,38,5,6,4,0,1,0,0.00
+366,JOB-2026-00366,ML Engineer,Filled,2,8,11,1,2,8,Contract-to-Hire,Hybrid,112.26,Hourly,96040.00,127264.00,2025-03-14,2025-06-06,84,38,8,6,2,0,1,0,0.00
+463,JOB-2026-00463,Senior Java Developer,Filled,7,2,14,9,2,9,Contract-to-Hire,Remote,108.15,Hourly,106542.00,127900.00,2025-01-24,2025-03-09,44,37,7,4,2,1,2,0,0.00
+814,JOB-2026-00814,Full Stack Developer,Open,7,21,17,8,2,7,Contract-to-Hire,Hybrid,97.39,Hourly,99981.00,136232.00,2025-09-08,,339,37,4,4,4,0,2,0,0.00
+502,JOB-2026-00502,Senior Data Analyst,Open,2,9,12,12,1,8,Contract-to-Hire,Hybrid,119.28,Hourly,106776.00,134006.00,2025-05-04,,466,37,10,5,5,0,1,0,0.00
+940,JOB-2026-00940,DevOps Engineer,Filled,7,23,11,21,2,6,Contract,Remote,76.29,Hourly,85710.00,131452.00,2025-08-13,2025-11-24,103,37,9,7,5,0,0,0,0.00
+302,JOB-2026-00302,DevOps Engineer,Filled,6,7,11,2,2,7,Contract-to-Hire,Hybrid,105.11,Hourly,88102.00,139993.00,2025-11-04,2025-11-25,21,37,11,7,3,0,1,0,0.00
+223,JOB-2026-00223,Senior Data Analyst,Open,6,21,14,2,4,8,Contract,Hybrid,62.03,Hourly,86616.00,125365.00,2026-07-03,,41,37,10,4,5,0,2,0,0.00
+153,JOB-2026-00153,Data Scientist,Filled,2,6,13,3,4,3,Full-time,Onsite,116.74,Hourly,32367.00,86733.00,2025-06-02,2025-07-19,47,37,7,2,5,1,4,0,0.00
+862,JOB-2026-00862,AI Engineer,Closed,6,7,15,14,2,4,Contract-to-Hire,Onsite,107.83,Hourly,40404.00,79854.00,2025-09-07,2025-11-17,71,37,14,10,1,0,1,0,0.00
+866,JOB-2026-00866,Java Developer,Filled,6,7,16,13,2,2,Full-time,Remote,92.94,Hourly,24522.00,81861.00,2025-09-16,2025-12-02,77,37,4,4,2,0,4,0,0.00
+321,JOB-2026-00321,Full Stack Developer,Filled,7,10,12,3,3,3,Contract-to-Hire,Onsite,117.37,Hourly,42432.00,87272.00,2025-07-09,2025-10-31,114,37,6,5,2,0,2,0,0.00
+65,JOB-2026-00065,Business Analyst,Open,7,4,15,5,3,7,Contract,Remote,47.77,Hourly,98483.00,137239.00,2025-08-24,,354,37,8,6,4,0,1,0,0.00
+26,JOB-2026-00026,Data Analyst,Closed,6,2,14,9,2,2,Contract,Remote,96.70,Hourly,29774.00,78253.00,2025-12-20,2026-03-10,80,37,8,3,4,0,3,0,0.00
+849,JOB-2026-00849,Senior Data Analyst,Filled,2,4,14,21,2,4,Full-time,Hybrid,71.28,Hourly,53444.00,82638.00,2025-05-28,2025-09-23,118,37,9,5,1,1,1,0,0.00
+602,JOB-2026-00602,Senior Java Developer,Filled,6,9,16,13,1,10,Contract-to-Hire,Hybrid,89.30,Hourly,141670.00,170610.00,2026-05-07,2026-08-16,101,37,6,1,4,0,2,0,0.00
+289,JOB-2026-00289,Senior Data Analyst,Filled,6,1,12,21,4,5,Contract-to-Hire,Remote,104.35,Hourly,70820.00,117071.00,2025-12-13,2026-03-28,105,37,9,4,5,0,0,0,0.00
+697,JOB-2026-00697,Data Scientist,Open,7,5,17,11,1,6,Full-time,Hybrid,47.79,Hourly,60288.00,110618.00,2026-06-15,,59,37,8,3,1,0,1,0,0.00
+883,JOB-2026-00883,Senior Java Developer,Closed,6,8,14,4,1,6,Full-time,Onsite,43.04,Hourly,64248.00,120604.00,2026-05-25,2026-06-13,19,37,12,4,2,0,1,0,0.00
+388,JOB-2026-00388,Business Analyst,Closed,7,21,15,4,2,7,Full-time,Remote,54.74,Hourly,76979.00,104841.00,2025-03-30,2025-07-20,112,37,10,6,4,0,3,0,0.00
+403,JOB-2026-00403,Full Stack Developer,Filled,7,9,11,8,1,3,Full-time,Onsite,75.59,Hourly,32565.00,56002.00,2026-07-05,2026-09-20,77,37,9,3,4,2,2,0,0.00
+432,JOB-2026-00432,Java Developer,Filled,7,3,16,1,3,4,Contract-to-Hire,Remote,105.17,Hourly,51880.00,80990.00,2026-03-29,2026-05-26,58,37,9,4,6,0,3,0,0.00
+383,JOB-2026-00383,DevOps Engineer,Filled,7,7,17,8,4,3,Full-time,Remote,75.21,Hourly,38424.00,63955.00,2025-05-29,2025-09-17,111,37,9,4,4,1,2,0,0.00
+342,JOB-2026-00342,Data Scientist,Closed,7,2,12,5,3,8,Contract-to-Hire,Onsite,42.36,Hourly,117016.00,147373.00,2025-11-22,2026-03-09,107,37,5,5,5,0,1,0,0.00
+793,JOB-2026-00793,Senior Java Developer,Filled,2,7,11,19,2,8,Contract-to-Hire,Remote,119.59,Hourly,81464.00,113518.00,2025-09-21,2025-10-16,25,37,6,4,4,0,1,0,0.00
+949,JOB-2026-00949,Business Analyst,Closed,7,9,16,21,3,6,Contract-to-Hire,Hybrid,48.51,Hourly,61158.00,109869.00,2026-05-24,2026-09-06,105,37,10,1,3,2,3,0,0.00
+55,JOB-2026-00055,Full Stack Developer,Open,6,1,15,3,4,3,Full-time,Remote,119.38,Hourly,30708.00,90611.00,2025-09-03,,344,37,6,4,3,1,0,0,0.00
+947,JOB-2026-00947,Data Scientist,Filled,6,4,14,8,4,3,Full-time,Hybrid,70.98,Hourly,37134.00,96529.00,2025-12-06,2025-12-30,24,37,8,8,4,0,2,0,0.00
+77,JOB-2026-00077,Senior Java Developer,Closed,2,6,14,9,3,8,Contract,Hybrid,116.29,Hourly,94968.00,142087.00,2025-12-14,2026-01-10,27,37,10,3,6,0,1,0,0.00
+417,JOB-2026-00417,Business Analyst,Closed,2,23,17,5,1,3,Contract,Onsite,62.75,Hourly,37530.00,68784.00,2025-09-24,2025-11-14,51,37,8,5,4,1,1,0,0.00
+220,JOB-2026-00220,DevOps Engineer,Open,2,22,11,4,2,8,Contract,Hybrid,53.83,Hourly,111112.00,168645.00,2025-08-30,,348,37,6,2,7,0,0,0,0.00
+185,JOB-2026-00185,Senior Data Analyst,Open,2,23,11,11,1,7,Contract,Onsite,110.48,Hourly,77574.00,128880.00,2025-03-14,,517,36,5,2,8,0,0,0,0.00
+992,JOB-2026-00992,Java Developer,Open,7,1,15,2,1,7,Contract,Onsite,40.02,Hourly,102795.00,128530.00,2025-02-11,,548,36,8,5,2,0,2,0,0.00
+378,JOB-2026-00378,Full Stack Developer,Closed,6,1,15,12,4,8,Contract-to-Hire,Hybrid,86.42,Hourly,95512.00,148393.00,2025-10-03,2025-10-22,19,36,8,5,5,2,1,0,0.00
+426,JOB-2026-00426,ML Engineer,Open,2,23,11,9,2,8,Contract,Remote,116.48,Hourly,99912.00,152293.00,2026-07-27,,17,36,7,4,4,0,2,0,0.00
+304,JOB-2026-00304,ML Engineer,Filled,6,10,13,21,4,6,Contract,Remote,109.46,Hourly,75978.00,129430.00,2026-05-15,2026-07-17,63,36,5,4,3,1,1,0,0.00
+194,JOB-2026-00194,Senior Data Analyst,Filled,2,4,11,12,4,8,Full-time,Onsite,113.62,Hourly,87552.00,122520.00,2026-06-06,2026-06-22,16,36,6,6,5,0,1,0,0.00
+587,JOB-2026-00587,DevOps Engineer,Filled,2,1,11,13,2,8,Contract-to-Hire,Onsite,64.22,Hourly,102176.00,161064.00,2026-03-21,2026-05-06,46,36,3,2,3,1,1,0,0.00
+919,JOB-2026-00919,AI Engineer,Filled,2,5,13,5,2,7,Contract,Hybrid,42.02,Hourly,98903.00,137414.00,2025-09-12,2025-09-28,16,36,9,6,0,0,0,0,0.00
+454,JOB-2026-00454,Data Analyst,Filled,6,21,15,21,2,3,Contract,Onsite,117.10,Hourly,33915.00,71787.00,2025-05-20,2025-07-09,50,36,9,4,2,0,1,0,0.00
+780,JOB-2026-00780,AI Engineer,Closed,7,3,15,10,2,7,Contract-to-Hire,Hybrid,117.22,Hourly,76181.00,123770.00,2026-03-13,2026-03-31,18,36,8,4,6,1,2,0,0.00
+276,JOB-2026-00276,Full Stack Developer,Filled,2,3,14,13,1,8,Contract-to-Hire,Onsite,80.17,Hourly,89736.00,133710.00,2026-02-06,2026-03-30,52,36,4,2,4,0,3,0,0.00
+373,JOB-2026-00373,Data Scientist,Filled,7,4,12,10,3,8,Contract,Hybrid,103.55,Hourly,89776.00,139462.00,2026-06-29,2026-09-09,72,36,9,4,5,2,0,0,0.00
+8,JOB-2026-00008,Senior Java Developer,Filled,2,21,16,18,1,8,Contract-to-Hire,Hybrid,101.49,Hourly,119048.00,169722.00,2026-06-26,2026-07-12,16,35,9,0,3,0,0,0,0.00
+760,JOB-2026-00760,DevOps Engineer,Closed,7,6,16,6,2,8,Contract,Remote,97.21,Hourly,93392.00,137722.00,2026-06-16,2026-07-27,41,35,5,3,4,0,1,0,0.00
+155,JOB-2026-00155,Senior Data Analyst,Closed,7,2,16,18,3,8,Contract-to-Hire,Remote,92.65,Hourly,82784.00,117841.00,2025-08-05,2025-08-25,20,35,10,3,3,0,0,0,0.00
+701,JOB-2026-00701,Data Analyst,Filled,7,8,14,10,3,3,Contract-to-Hire,Remote,48.00,Hourly,33480.00,69253.00,2025-06-24,2025-08-03,40,35,9,1,5,0,2,0,0.00
+413,JOB-2026-00413,AI Engineer,Open,2,2,13,15,3,5,Contract,Remote,80.12,Hourly,64445.00,101966.00,2026-05-31,,74,35,9,3,2,0,1,0,0.00
+112,JOB-2026-00112,Java Developer,Closed,6,2,15,10,2,3,Contract,Onsite,52.96,Hourly,43548.00,102069.00,2025-07-06,2025-07-28,22,35,7,1,3,1,2,0,0.00
+887,JOB-2026-00887,Java Developer,Open,7,1,15,13,1,4,Full-time,Remote,49.57,Hourly,41256.00,70659.00,2025-04-17,,483,35,6,6,2,1,3,0,0.00
+464,JOB-2026-00464,Java Developer,Closed,7,21,14,8,1,3,Contract-to-Hire,Remote,56.25,Hourly,43938.00,71628.00,2025-01-15,2025-03-29,73,35,4,4,1,0,0,0,0.00
+571,JOB-2026-00571,Data Scientist,Open,2,1,15,16,2,3,Contract,Onsite,93.82,Hourly,37203.00,62819.00,2026-01-22,,203,35,4,4,4,1,3,0,0.00
+512,JOB-2026-00512,Data Scientist,Open,6,8,17,21,3,4,Full-time,Hybrid,40.04,Hourly,57612.00,105383.00,2026-07-23,,21,35,5,4,2,0,3,0,0.00
+479,JOB-2026-00479,ML Engineer,Open,7,7,14,15,1,8,Contract-to-Hire,Onsite,97.62,Hourly,83120.00,139229.00,2025-03-20,,511,35,10,1,2,1,4,0,0.00
+428,JOB-2026-00428,Full Stack Developer,Open,2,5,12,5,1,8,Contract-to-Hire,Remote,76.88,Hourly,87832.00,132290.00,2026-06-09,,65,35,8,6,1,0,1,0,0.00
+870,JOB-2026-00870,Senior Data Analyst,Filled,6,9,11,4,3,6,Full-time,Hybrid,40.14,Hourly,82200.00,108362.00,2026-06-21,2026-07-13,22,35,9,5,4,1,0,0,0.00
+50,JOB-2026-00050,Business Analyst,Filled,2,3,11,6,1,7,Full-time,Remote,87.60,Hourly,81340.00,129201.00,2025-04-28,2025-06-16,49,35,3,4,1,1,3,0,0.00
+647,JOB-2026-00647,ML Engineer,Open,7,2,13,6,4,9,Contract-to-Hire,Remote,71.94,Hourly,93141.00,116880.00,2025-09-08,,339,35,5,7,4,0,1,0,0.00
+98,JOB-2026-00098,Senior Java Developer,Filled,6,6,17,5,2,5,Full-time,Hybrid,62.95,Hourly,65355.00,100070.00,2025-01-29,2025-05-07,98,35,7,8,3,0,3,0,0.00
+609,JOB-2026-00609,Senior Java Developer,Open,7,1,17,2,2,6,Full-time,Onsite,106.39,Hourly,65388.00,92457.00,2025-01-22,,568,35,10,3,2,0,0,0,0.00
+258,JOB-2026-00258,Senior Data Analyst,Open,7,23,17,10,2,4,Full-time,Remote,60.04,Hourly,52480.00,82004.00,2025-02-24,,535,35,8,4,3,0,1,0,0.00
+303,JOB-2026-00303,Java Developer,Open,6,7,11,20,3,4,Contract,Remote,86.15,Hourly,51828.00,95441.00,2026-07-28,,16,34,12,0,3,1,0,0,0.00
+758,JOB-2026-00758,Senior Data Analyst,Closed,6,3,12,4,4,7,Full-time,Onsite,110.84,Hourly,74438.00,119058.00,2025-05-11,2025-06-10,30,34,6,3,3,0,1,0,0.00
+692,JOB-2026-00692,ML Engineer,Closed,2,1,11,5,3,8,Full-time,Hybrid,110.30,Hourly,88088.00,111574.00,2026-05-16,2026-08-23,99,34,3,7,5,1,0,0,0.00
+291,JOB-2026-00291,AI Engineer,Closed,2,4,15,2,2,8,Contract-to-Hire,Onsite,59.14,Hourly,113952.00,152695.00,2025-07-19,2025-10-31,104,34,7,3,2,0,1,0,0.00
+277,JOB-2026-00277,Business Analyst,Open,2,10,16,16,2,7,Full-time,Hybrid,43.23,Hourly,79506.00,133200.00,2025-05-24,,446,34,6,4,5,0,0,0,0.00
+485,JOB-2026-00485,Full Stack Developer,Closed,7,9,15,8,4,8,Full-time,Hybrid,44.86,Hourly,117920.00,176968.00,2026-07-22,2026-10-07,77,34,4,4,1,0,0,0,0.00
+810,JOB-2026-00810,ML Engineer,Open,7,10,11,12,3,7,Contract-to-Hire,Onsite,80.69,Hourly,84749.00,119685.00,2025-01-29,,561,34,6,7,5,0,0,0,0.00
+952,JOB-2026-00952,ML Engineer,Filled,7,9,16,19,3,5,Contract-to-Hire,Onsite,40.71,Hourly,66000.00,86733.00,2026-01-16,2026-02-14,29,34,13,1,4,0,0,0,0.00
+678,JOB-2026-00678,ML Engineer,Filled,6,22,11,16,1,9,Contract-to-Hire,Onsite,57.00,Hourly,96102.00,139236.00,2026-07-26,2026-09-05,41,34,4,8,2,0,3,0,0.00
+201,JOB-2026-00201,ML Engineer,Open,6,4,13,17,4,9,Full-time,Hybrid,94.17,Hourly,134478.00,157121.00,2025-08-09,,369,34,8,5,0,0,0,0,0.00
+825,JOB-2026-00825,Senior Data Analyst,Closed,7,2,14,11,2,6,Contract,Remote,83.73,Hourly,80334.00,110280.00,2025-06-04,2025-08-29,86,34,6,2,4,1,1,0,0.00
+32,JOB-2026-00032,Full Stack Developer,Filled,2,8,13,21,2,7,Full-time,Hybrid,101.27,Hourly,98945.00,146911.00,2026-07-16,2026-09-29,75,34,5,6,1,0,0,0,0.00
+182,JOB-2026-00182,ML Engineer,Filled,7,23,11,4,1,6,Contract,Remote,102.71,Hourly,86898.00,144773.00,2025-05-14,2025-08-24,102,34,6,10,2,0,0,0,0.00
+323,JOB-2026-00323,Data Analyst,Closed,6,6,12,1,1,6,Contract-to-Hire,Remote,92.46,Hourly,79098.00,131204.00,2026-06-23,2026-07-14,21,34,10,6,1,0,0,0,0.00
+547,JOB-2026-00547,Senior Data Analyst,Filled,2,8,15,3,1,7,Contract-to-Hire,Hybrid,91.70,Hourly,104678.00,140854.00,2026-06-23,2026-09-04,73,34,8,8,4,0,1,0,0.00
+150,JOB-2026-00150,DevOps Engineer,Filled,6,3,16,6,3,8,Contract-to-Hire,Remote,97.63,Hourly,102120.00,138984.00,2026-05-16,2026-07-28,73,33,7,2,6,0,1,0,0.00
+986,JOB-2026-00986,Java Developer,Filled,6,9,16,20,3,7,Contract-to-Hire,Remote,58.10,Hourly,88718.00,143236.00,2025-06-09,2025-09-07,90,33,8,1,2,0,0,0,0.00
+908,JOB-2026-00908,AI Engineer,Open,2,8,13,20,1,7,Full-time,Onsite,46.40,Hourly,70399.00,106892.00,2025-10-16,,301,33,11,4,4,0,0,0,0.00
+395,JOB-2026-00395,DevOps Engineer,Open,6,1,13,13,1,8,Full-time,Hybrid,56.93,Hourly,100160.00,152907.00,2026-07-01,,43,33,5,6,5,1,0,0,0.00
+676,JOB-2026-00676,Data Analyst,Open,7,6,16,9,4,2,Contract,Onsite,53.63,Hourly,24254.00,47077.00,2025-04-24,,476,33,5,3,5,0,1,0,0.00
+132,JOB-2026-00132,Data Scientist,Open,6,8,16,6,3,7,Contract,Onsite,98.93,Hourly,96838.00,134718.00,2025-07-17,,392,33,5,4,4,0,0,0,0.00
+872,JOB-2026-00872,Full Stack Developer,Filled,6,23,11,10,3,8,Full-time,Hybrid,67.92,Hourly,91632.00,144880.00,2025-06-02,2025-08-24,83,33,6,4,2,0,2,0,0.00
+774,JOB-2026-00774,AI Engineer,Open,2,21,16,5,2,8,Full-time,Remote,44.27,Hourly,104544.00,154713.00,2025-03-25,,506,33,4,5,4,0,1,0,0.00
+749,JOB-2026-00749,Data Scientist,Filled,6,6,17,21,1,7,Full-time,Hybrid,81.49,Hourly,100947.00,122252.00,2025-01-22,2025-03-20,57,32,2,7,4,0,2,0,0.00
+392,JOB-2026-00392,DevOps Engineer,Filled,2,2,15,1,2,8,Contract-to-Hire,Hybrid,116.33,Hourly,112152.00,163487.00,2026-03-23,2026-07-16,115,32,5,2,4,0,3,0,0.00
+723,JOB-2026-00723,ML Engineer,Open,2,7,11,12,3,9,Contract,Remote,92.74,Hourly,110223.00,135828.00,2025-09-13,,334,32,4,1,2,1,1,0,0.00
+548,JOB-2026-00548,Senior Java Developer,Filled,6,7,16,19,2,9,Contract-to-Hire,Onsite,71.48,Hourly,102906.00,150106.00,2025-09-13,2025-11-25,73,32,6,5,3,0,1,0,0.00
+450,JOB-2026-00450,ML Engineer,Open,2,2,16,17,3,4,Full-time,Hybrid,74.63,Hourly,58560.00,113363.00,2026-05-02,,103,32,6,6,1,1,0,0,0.00
+907,JOB-2026-00907,AI Engineer,Filled,2,3,14,20,3,8,Contract,Onsite,80.53,Hourly,88120.00,113086.00,2025-07-12,2025-08-25,44,32,5,5,3,0,0,0,0.00
+135,JOB-2026-00135,ML Engineer,Open,7,3,14,15,2,9,Full-time,Remote,119.11,Hourly,98649.00,137984.00,2026-01-12,,213,32,7,4,1,0,0,0,0.00
+706,JOB-2026-00706,AI Engineer,Filled,6,2,11,4,3,8,Contract,Remote,107.74,Hourly,95504.00,122413.00,2025-06-28,2025-09-04,68,32,4,5,1,0,1,0,0.00
+553,JOB-2026-00553,Senior Java Developer,Open,2,7,17,8,2,10,Full-time,Remote,112.70,Hourly,125250.00,174347.00,2025-02-23,,536,31,8,4,6,0,1,0,0.00
+645,JOB-2026-00645,Java Developer,Closed,2,2,12,9,4,3,Contract-to-Hire,Hybrid,118.28,Hourly,37263.00,67845.00,2025-03-11,2025-04-06,26,31,9,3,1,0,0,0,0.00
+96,JOB-2026-00096,Senior Java Developer,Open,7,5,11,12,4,9,Contract-to-Hire,Onsite,114.74,Hourly,128880.00,176317.00,2025-06-15,,424,31,6,6,1,0,1,0,0.00
+680,JOB-2026-00680,Senior Java Developer,Open,7,3,16,19,3,8,Full-time,Onsite,48.17,Hourly,113648.00,146953.00,2026-02-14,,180,31,5,3,6,0,0,0,0.00
+998,JOB-2026-00998,Business Analyst,Open,6,6,12,5,1,7,Contract,Hybrid,81.02,Hourly,80549.00,101036.00,2025-06-18,,421,31,6,4,3,0,0,0,0.00
+750,JOB-2026-00750,Data Scientist,Open,6,4,15,1,2,7,Contract,Onsite,107.64,Hourly,92680.00,127709.00,2025-10-25,,292,31,5,6,2,1,2,0,0.00
+999,JOB-2026-00999,AI Engineer,Closed,6,23,15,11,3,8,Contract-to-Hire,Onsite,48.37,Hourly,91824.00,139209.00,2025-02-09,2025-04-08,58,31,3,2,5,1,0,0,0.00
+24,JOB-2026-00024,Java Developer,Closed,2,8,12,15,2,5,Full-time,Remote,64.42,Hourly,60160.00,97645.00,2025-06-13,2025-07-02,19,31,12,2,2,0,0,0,0.00
+10,JOB-2026-00010,Java Developer,Open,6,10,11,16,1,5,Full-time,Hybrid,118.24,Hourly,50795.00,78126.00,2026-01-07,,218,31,6,2,4,1,2,0,0.00
+526,JOB-2026-00526,Business Analyst,Filled,2,6,14,20,4,7,Full-time,Remote,54.87,Hourly,73871.00,132726.00,2025-07-18,2025-09-03,47,31,6,5,0,0,2,0,0.00
+937,JOB-2026-00937,Data Scientist,Open,7,5,12,12,3,8,Contract,Hybrid,77.32,Hourly,112408.00,167946.00,2026-02-22,,172,31,7,2,1,0,2,0,0.00
+684,JOB-2026-00684,AI Engineer,Open,6,5,16,1,3,8,Full-time,Onsite,54.81,Hourly,97576.00,150027.00,2025-07-30,,379,30,5,4,2,1,2,0,0.00
+133,JOB-2026-00133,AI Engineer,Closed,6,3,12,11,4,4,Full-time,Hybrid,40.55,Hourly,53284.00,101313.00,2026-06-12,2026-07-09,27,30,6,4,7,1,0,0,0.00
+41,JOB-2026-00041,Full Stack Developer,Filled,7,5,14,15,2,6,Full-time,Hybrid,88.83,Hourly,81408.00,140236.00,2025-10-02,2025-10-28,26,30,8,4,4,1,1,0,0.00
+643,JOB-2026-00643,Data Scientist,Filled,2,6,14,11,2,8,Contract-to-Hire,Remote,68.83,Hourly,90552.00,143426.00,2026-06-13,2026-10-04,113,30,5,3,3,1,0,0,0.00
+528,JOB-2026-00528,Data Analyst,Filled,6,1,14,7,3,6,Contract-to-Hire,Onsite,91.24,Hourly,88824.00,118300.00,2025-02-28,2025-05-25,86,30,5,8,6,0,1,0,0.00
+399,JOB-2026-00399,Full Stack Developer,Filled,6,3,11,3,4,4,Contract-to-Hire,Onsite,40.58,Hourly,59068.00,81735.00,2025-05-17,2025-09-08,114,30,4,6,1,0,0,0,0.00
+932,JOB-2026-00932,Senior Java Developer,Open,7,8,17,4,2,10,Contract,Onsite,99.54,Hourly,101830.00,141324.00,2025-02-05,,554,30,4,2,0,0,2,0,0.00
+313,JOB-2026-00313,ML Engineer,Open,2,9,11,4,2,9,Full-time,Onsite,61.54,Hourly,126270.00,158576.00,2025-11-25,,261,29,6,1,3,0,2,0,0.00
+726,JOB-2026-00726,Data Analyst,Filled,7,6,11,2,2,3,Contract-to-Hire,Remote,119.36,Hourly,32811.00,55334.00,2025-07-08,2025-10-05,89,29,7,4,0,0,4,0,0.00
+54,JOB-2026-00054,Senior Java Developer,Open,2,6,15,21,4,9,Full-time,Hybrid,100.80,Hourly,90081.00,145640.00,2026-04-19,,116,29,3,6,4,0,0,0,0.00
+156,JOB-2026-00156,Data Scientist,Open,7,7,16,13,3,8,Contract-to-Hire,Onsite,51.20,Hourly,106096.00,131138.00,2025-11-03,,283,29,7,7,4,1,0,0,0.00
+445,JOB-2026-00445,Full Stack Developer,Open,2,10,14,10,3,6,Contract,Onsite,44.91,Hourly,87630.00,117873.00,2026-06-03,,71,29,6,3,3,1,1,0,0.00
+225,JOB-2026-00225,ML Engineer,Filled,7,4,14,14,2,9,Contract,Remote,78.76,Hourly,122661.00,163689.00,2025-10-03,2025-10-29,26,29,2,5,4,0,0,0,0.00
+407,JOB-2026-00407,AI Engineer,Closed,6,4,13,19,4,7,Contract-to-Hire,Onsite,111.35,Hourly,97146.00,147473.00,2025-10-13,2025-11-28,46,28,4,7,5,0,1,0,0.00
+222,JOB-2026-00222,Senior Java Developer,Filled,2,10,15,4,4,9,Full-time,Hybrid,51.97,Hourly,114039.00,152140.00,2026-06-17,2026-09-19,94,28,6,1,2,0,1,0,0.00
+299,JOB-2026-00299,Senior Java Developer,Closed,7,1,11,13,2,10,Contract-to-Hire,Remote,48.06,Hourly,114310.00,164272.00,2025-05-04,2025-08-15,103,28,4,4,1,0,0,0,0.00
+869,JOB-2026-00869,Senior Java Developer,Open,2,6,12,9,4,8,Full-time,Hybrid,47.26,Hourly,104984.00,156074.00,2025-05-22,,448,28,4,2,5,0,3,0,0.00
+540,JOB-2026-00540,Business Analyst,Filled,7,7,14,16,1,3,Contract,Hybrid,81.01,Hourly,43347.00,80460.00,2025-01-09,2025-05-04,115,27,6,2,4,0,1,0,0.00
+363,JOB-2026-00363,Full Stack Developer,Filled,2,21,12,2,2,8,Full-time,Onsite,71.01,Hourly,114312.00,154651.00,2025-12-02,2026-02-21,81,27,9,1,4,0,1,0,0.00
+495,JOB-2026-00495,Senior Java Developer,Filled,7,10,12,15,4,8,Full-time,Hybrid,56.41,Hourly,116280.00,156224.00,2025-11-18,2026-02-08,82,27,7,5,0,0,2,0,0.00
+681,JOB-2026-00681,Full Stack Developer,Closed,2,2,15,12,1,4,Contract-to-Hire,Remote,56.97,Hourly,48740.00,70613.00,2026-05-03,2026-06-20,48,27,4,2,2,1,0,0,0.00
+279,JOB-2026-00279,ML Engineer,Closed,2,6,15,17,1,9,Full-time,Remote,70.11,Hourly,109413.00,167334.00,2026-07-12,2026-09-13,63,27,10,3,1,0,0,0,0.00
+424,JOB-2026-00424,Full Stack Developer,Filled,6,3,17,14,4,7,Contract,Remote,106.84,Hourly,75019.00,109154.00,2026-03-31,2026-05-21,51,27,7,3,2,0,0,0,0.00
+46,JOB-2026-00046,ML Engineer,Open,6,8,14,6,3,9,Contract-to-Hire,Onsite,60.20,Hourly,99306.00,151476.00,2025-04-16,,484,27,6,3,1,0,0,0,0.00
+190,JOB-2026-00190,Senior Java Developer,Closed,6,9,15,9,2,9,Contract-to-Hire,Hybrid,64.79,Hourly,111114.00,163950.00,2026-03-02,2026-06-06,96,24,5,4,1,1,1,0,0.00
+863,JOB-2026-00863,Senior Java Developer,Closed,7,6,15,3,3,10,Contract,Hybrid,50.76,Hourly,121420.00,165273.00,2025-09-27,2025-11-11,45,23,4,3,1,0,0,0,0.00
+319,JOB-2026-00319,DevOps Engineer,Closed,7,3,13,16,1,8,Contract-to-Hire,Onsite,75.00,Hourly,102760.00,151511.00,2025-07-17,2025-11-01,107,23,5,0,4,0,1,0,0.00
+452,JOB-2026-00452,Senior Java Developer,Open,2,3,16,14,3,9,Contract,Hybrid,65.49,Hourly,94410.00,148637.00,2025-07-25,,384,21,5,2,2,0,1,0,0.00
+259,JOB-2026-00259,Data Analyst,Closed,7,22,16,8,4,4,Contract-to-Hire,Remote,102.74,Hourly,54828.00,81544.00,2026-09-23,2026-11-05,43,0,0,0,0,0,0,0,
+790,JOB-2026-00790,Java Developer,Closed,2,5,13,1,4,4,Full-time,Hybrid,65.97,Hourly,53948.00,96063.00,2026-11-23,2026-12-30,37,0,0,0,0,0,0,0,
+257,JOB-2026-00257,Data Scientist,Closed,2,10,16,18,4,7,Contract,Onsite,110.20,Hourly,101108.00,142235.00,2026-12-29,2027-03-28,89,0,0,0,0,0,0,0,
+256,JOB-2026-00256,Senior Java Developer,Filled,7,21,12,7,2,9,Contract,Remote,97.15,Hourly,127764.00,167353.00,2026-12-20,2027-03-15,85,0,0,0,0,0,0,0,
+255,JOB-2026-00255,Business Analyst,On Hold,2,23,12,13,3,6,Contract-to-Hire,Hybrid,117.64,Hourly,75816.00,128853.00,2026-01-29,,196,0,0,0,0,0,0,0,
+796,JOB-2026-00796,Business Analyst,Closed,2,9,11,11,3,5,Contract,Remote,67.71,Hourly,74080.00,121655.00,2026-10-13,2026-12-27,75,0,0,0,0,0,0,0,
+797,JOB-2026-00797,Full Stack Developer,Closed,2,10,11,18,4,4,Contract,Hybrid,46.65,Hourly,57440.00,88581.00,2026-11-21,2027-02-28,99,0,0,0,0,0,0,0,
+250,JOB-2026-00250,Business Analyst,On Hold,2,22,16,4,1,5,Full-time,Hybrid,72.99,Hourly,53605.00,106271.00,2026-04-03,,132,0,0,0,0,0,0,0,
+799,JOB-2026-00799,Senior Java Developer,Closed,6,2,15,6,3,9,Full-time,Onsite,101.35,Hourly,99702.00,144502.00,2026-09-14,2026-10-26,42,0,0,0,0,0,0,0,
+240,JOB-2026-00240,Data Analyst,Filled,2,8,14,18,1,6,Full-time,Onsite,77.95,Hourly,62352.00,89437.00,2026-11-01,2027-01-08,68,0,0,0,0,0,0,0,
+236,JOB-2026-00236,Full Stack Developer,Filled,2,2,12,21,4,5,Contract,Onsite,72.27,Hourly,58575.00,89624.00,2026-08-14,2026-12-06,114,0,0,0,0,0,0,0,
+802,JOB-2026-00802,Data Analyst,On Hold,2,10,15,1,4,6,Contract-to-Hire,Remote,88.79,Hourly,71016.00,100097.00,2026-09-17,,-35,0,0,0,0,0,0,0,
+232,JOB-2026-00232,Senior Java Developer,Filled,7,22,16,18,2,8,Contract-to-Hire,Remote,102.79,Hourly,105440.00,127754.00,2026-08-21,2026-10-18,58,0,0,0,0,0,0,0,
+230,JOB-2026-00230,DevOps Engineer,On Hold,7,6,15,10,3,7,Contract-to-Hire,Onsite,48.65,Hourly,92771.00,151075.00,2025-04-15,,485,0,0,0,0,0,0,0,
+229,JOB-2026-00229,Data Analyst,Open,2,23,13,14,3,5,Full-time,Onsite,108.13,Hourly,55415.00,86765.00,2026-09-08,,-26,0,0,0,0,0,0,0,
+228,JOB-2026-00228,Java Developer,Open,7,1,12,8,2,4,Contract,Onsite,58.01,Hourly,45356.00,82307.00,2026-12-07,,-116,0,0,0,0,0,0,0,
+227,JOB-2026-00227,AI Engineer,On Hold,2,21,11,12,2,5,Contract-to-Hire,Hybrid,87.52,Hourly,65085.00,115508.00,2026-06-02,,72,0,0,0,0,0,0,0,
+813,JOB-2026-00813,DevOps Engineer,Filled,7,9,11,18,3,4,Contract,Onsite,107.73,Hourly,46636.00,90462.00,2026-11-12,2027-01-08,57,0,0,0,0,0,0,0,
+221,JOB-2026-00221,Data Scientist,On Hold,7,21,12,11,3,3,Full-time,Hybrid,113.13,Hourly,40404.00,65539.00,2026-12-01,,-110,0,0,0,0,0,0,0,
+817,JOB-2026-00817,Full Stack Developer,On Hold,2,5,17,20,4,8,Contract,Remote,79.41,Hourly,92760.00,151356.00,2026-10-13,,-61,0,0,0,0,0,0,0,
+219,JOB-2026-00219,ML Engineer,Open,6,6,17,19,4,8,Full-time,Remote,84.29,Hourly,84032.00,113936.00,2026-12-15,,-124,0,0,0,0,0,0,0,
+212,JOB-2026-00212,Business Analyst,On Hold,6,10,12,16,1,5,Contract,Remote,66.49,Hourly,73240.00,95362.00,2025-07-06,,403,0,0,0,0,0,0,0,
+207,JOB-2026-00207,AI Engineer,Closed,2,22,11,19,2,4,Contract,Onsite,68.38,Hourly,43280.00,79523.00,2026-11-04,2027-02-28,116,0,0,0,0,0,0,0,
+204,JOB-2026-00204,Senior Java Developer,Closed,6,5,13,5,4,8,Full-time,Hybrid,89.13,Hourly,81928.00,127010.00,2026-12-01,2027-01-08,38,0,0,0,0,0,0,0,
+822,JOB-2026-00822,Data Analyst,On Hold,6,23,13,7,1,5,Full-time,Remote,92.96,Hourly,52265.00,99055.00,2025-12-29,,227,0,0,0,0,0,0,0,
+199,JOB-2026-00199,Senior Java Developer,On Hold,2,4,13,11,3,5,Contract-to-Hire,Hybrid,96.06,Hourly,74240.00,131452.00,2025-03-05,,526,0,0,0,0,0,0,0,
+192,JOB-2026-00192,Data Scientist,Closed,2,9,15,6,3,3,Full-time,Onsite,50.15,Hourly,30309.00,59301.00,2026-12-20,2027-02-17,59,0,0,0,0,0,0,0,
+829,JOB-2026-00829,Senior Data Analyst,Filled,7,5,14,5,4,8,Full-time,Onsite,66.43,Hourly,110696.00,170675.00,2026-10-28,2027-01-06,70,0,0,0,0,0,0,0,
+191,JOB-2026-00191,Senior Java Developer,On Hold,2,4,11,3,2,9,Contract-to-Hire,Hybrid,49.28,Hourly,94869.00,135196.00,2026-12-17,,-126,0,0,0,0,0,0,0,
+832,JOB-2026-00832,Senior Data Analyst,Open,2,7,13,7,2,6,Full-time,Onsite,42.18,Hourly,75498.00,110578.00,2026-11-05,,-84,0,0,0,0,0,0,0,
+180,JOB-2026-00180,Full Stack Developer,Closed,7,23,17,13,1,4,Contract,Hybrid,99.98,Hourly,58920.00,96530.00,2026-10-05,2027-01-09,96,0,0,0,0,0,0,0,
+837,JOB-2026-00837,Business Analyst,On Hold,6,22,17,12,2,5,Contract-to-Hire,Onsite,102.92,Hourly,56450.00,103925.00,2025-06-26,,413,0,0,0,0,0,0,0,
+838,JOB-2026-00838,Senior Java Developer,Filled,2,1,14,5,1,10,Full-time,Hybrid,43.72,Hourly,130570.00,167948.00,2026-09-29,2026-11-25,57,0,0,0,0,0,0,0,
+839,JOB-2026-00839,Data Analyst,On Hold,7,8,14,5,4,4,Full-time,Onsite,104.75,Hourly,47296.00,73333.00,2026-03-06,,160,0,0,0,0,0,0,0,
+175,JOB-2026-00175,DevOps Engineer,Filled,6,8,12,19,1,7,Contract,Hybrid,103.67,Hourly,98378.00,145191.00,2026-12-03,2027-02-12,71,0,0,0,0,0,0,0,
+842,JOB-2026-00842,Java Developer,Filled,6,7,16,7,1,5,Full-time,Remote,41.15,Hourly,65350.00,94867.00,2026-08-17,2026-12-12,117,0,0,0,0,0,0,0,
+172,JOB-2026-00172,Senior Data Analyst,Closed,2,10,11,12,3,6,Contract-to-Hire,Hybrid,89.39,Hourly,84054.00,138638.00,2026-10-17,2026-12-21,65,0,0,0,0,0,0,0,
+166,JOB-2026-00166,Senior Java Developer,Filled,6,2,17,12,2,9,Contract-to-Hire,Remote,91.76,Hourly,92709.00,136271.00,2026-12-20,2027-01-14,25,0,0,0,0,0,0,0,
+847,JOB-2026-00847,DevOps Engineer,Closed,7,21,12,5,2,5,Full-time,Remote,115.38,Hourly,72095.00,107196.00,2026-12-12,2027-01-08,27,0,0,0,0,0,0,0,
+165,JOB-2026-00165,Senior Java Developer,Open,6,3,16,13,4,10,Full-time,Hybrid,75.93,Hourly,140900.00,170021.00,2026-10-11,,-59,0,0,0,0,0,0,0,
+850,JOB-2026-00850,ML Engineer,Open,6,3,16,11,3,5,Full-time,Remote,90.94,Hourly,66440.00,94531.00,2026-08-23,,-10,0,0,0,0,0,0,0,
+163,JOB-2026-00163,ML Engineer,On Hold,6,6,13,19,4,6,Full-time,Hybrid,66.07,Hourly,89646.00,122809.00,2026-05-06,,99,0,0,0,0,0,0,0,
+852,JOB-2026-00852,Full Stack Developer,Filled,7,9,11,20,1,6,Contract,Remote,109.21,Hourly,88752.00,119791.00,2026-12-28,2027-02-09,43,0,0,0,0,0,0,0,
+5,JOB-2026-00005,Data Scientist,On Hold,6,21,16,11,2,7,Contract,Hybrid,58.32,Hourly,84035.00,114743.00,2026-04-19,,116,0,0,0,0,0,0,0,
+854,JOB-2026-00854,AI Engineer,Open,7,23,17,18,4,7,Contract-to-Hire,Hybrid,106.99,Hourly,98378.00,132886.00,2026-08-29,,-16,0,0,0,0,0,0,0,
+855,JOB-2026-00855,Senior Java Developer,Closed,7,23,12,19,3,5,Full-time,Remote,96.74,Hourly,74640.00,101704.00,2026-08-28,2026-09-27,30,0,0,0,0,0,0,0,
+158,JOB-2026-00158,DevOps Engineer,Closed,6,10,13,3,2,6,Contract-to-Hire,Remote,61.44,Hourly,81222.00,113394.00,2026-11-28,2027-03-21,113,0,0,0,0,0,0,0,
+857,JOB-2026-00857,Data Analyst,On Hold,2,4,13,2,4,5,Contract,Hybrid,76.66,Hourly,60380.00,103880.00,2026-12-01,,-110,0,0,0,0,0,0,0,
+151,JOB-2026-00151,Data Analyst,Closed,6,4,11,1,2,6,Full-time,Onsite,80.46,Hourly,61662.00,86533.00,2026-11-16,2027-02-19,95,0,0,0,0,0,0,0,
+865,JOB-2026-00865,Data Analyst,On Hold,7,3,11,18,4,5,Full-time,Hybrid,44.60,Hourly,67935.00,120515.00,2026-08-29,,-16,0,0,0,0,0,0,0,
+868,JOB-2026-00868,Data Scientist,Open,6,8,16,11,1,8,Full-time,Onsite,47.53,Hourly,92752.00,129057.00,2026-09-08,,-26,0,0,0,0,0,0,0,
+144,JOB-2026-00144,Business Analyst,On Hold,2,21,16,17,4,7,Full-time,Hybrid,95.70,Hourly,80038.00,128035.00,2026-07-24,,20,0,0,0,0,0,0,0,
+873,JOB-2026-00873,Full Stack Developer,On Hold,6,9,17,15,4,4,Contract,Hybrid,93.50,Hourly,59772.00,89946.00,2026-09-20,,-38,0,0,0,0,0,0,0,
+875,JOB-2026-00875,DevOps Engineer,Open,7,8,17,10,2,7,Contract,Onsite,74.11,Hourly,92603.00,148410.00,2026-10-21,,-69,0,0,0,0,0,0,0,
+876,JOB-2026-00876,Senior Data Analyst,Closed,6,23,13,17,1,6,Contract,Hybrid,55.05,Hourly,87582.00,139308.00,2026-09-17,2027-01-10,115,0,0,0,0,0,0,0,
+877,JOB-2026-00877,Data Scientist,On Hold,6,7,12,18,3,8,Full-time,Onsite,105.90,Hourly,100552.00,123694.00,2026-07-02,,42,0,0,0,0,0,0,0,
+141,JOB-2026-00141,AI Engineer,On Hold,7,22,17,2,1,4,Full-time,Hybrid,73.54,Hourly,55092.00,97777.00,2025-06-08,,431,0,0,0,0,0,0,0,
+879,JOB-2026-00879,Business Analyst,On Hold,2,1,12,6,3,2,Full-time,Remote,106.13,Hourly,20740.00,65741.00,2025-07-30,,379,0,0,0,0,0,0,0,
+136,JOB-2026-00136,DevOps Engineer,Closed,6,22,13,19,1,8,Full-time,Remote,44.94,Hourly,94312.00,130529.00,2026-11-28,2027-02-18,82,0,0,0,0,0,0,0,
+885,JOB-2026-00885,Data Scientist,Closed,7,9,11,6,2,5,Contract,Onsite,55.55,Hourly,68920.00,102069.00,2026-10-22,2026-12-13,52,0,0,0,0,0,0,0,
+128,JOB-2026-00128,ML Engineer,On Hold,7,22,13,4,2,9,Contract,Remote,99.27,Hourly,125316.00,159339.00,2025-07-26,,383,0,0,0,0,0,0,0,
+888,JOB-2026-00888,Senior Data Analyst,Filled,7,8,16,16,2,4,Contract,Hybrid,60.00,Hourly,55608.00,113061.00,2026-10-23,2026-12-26,64,0,0,0,0,0,0,0,
+127,JOB-2026-00127,ML Engineer,Filled,6,6,17,10,2,6,Contract,Remote,63.01,Hourly,65988.00,123571.00,2026-11-24,2027-01-28,65,0,0,0,0,0,0,0,
+890,JOB-2026-00890,DevOps Engineer,On Hold,2,7,14,15,4,4,Full-time,Hybrid,116.19,Hourly,53180.00,81373.00,2026-10-04,,-52,0,0,0,0,0,0,0,
+2,JOB-2026-00002,DevOps Engineer,Filled,6,22,14,9,3,6,Full-time,Hybrid,57.23,Hourly,70830.00,120269.00,2026-08-27,2026-10-01,35,0,0,0,0,0,0,0,
+123,JOB-2026-00123,Data Analyst,Open,7,1,15,6,4,6,Contract-to-Hire,Remote,90.32,Hourly,83322.00,120723.00,2026-11-03,,-82,0,0,0,0,0,0,0,
+118,JOB-2026-00118,DevOps Engineer,On Hold,7,9,14,7,2,6,Full-time,Onsite,68.23,Hourly,84510.00,124730.00,2026-05-25,,80,0,0,0,0,0,0,0,
+115,JOB-2026-00115,Full Stack Developer,Open,2,23,16,10,4,8,Contract,Hybrid,45.84,Hourly,115752.00,154735.00,2026-10-20,,-68,0,0,0,0,0,0,0,
+114,JOB-2026-00114,Business Analyst,On Hold,6,23,15,21,3,4,Full-time,Onsite,101.36,Hourly,58468.00,81167.00,2025-01-30,,560,0,0,0,0,0,0,0,
+109,JOB-2026-00109,Senior Data Analyst,On Hold,7,23,16,12,3,5,Contract,Remote,45.20,Hourly,53030.00,102655.00,2025-06-26,,413,0,0,0,0,0,0,0,
+108,JOB-2026-00108,AI Engineer,On Hold,6,2,13,15,3,3,Contract,Remote,119.71,Hourly,30636.00,62828.00,2026-05-27,,78,0,0,0,0,0,0,0,
+899,JOB-2026-00899,Java Developer,Filled,6,7,12,9,3,4,Full-time,Hybrid,81.07,Hourly,42720.00,85966.00,2026-09-10,2026-12-09,90,0,0,0,0,0,0,0,
+900,JOB-2026-00900,Java Developer,Closed,7,6,11,15,3,3,Contract,Hybrid,46.42,Hourly,31278.00,66928.00,2026-12-19,2027-02-27,70,0,0,0,0,0,0,0,
+901,JOB-2026-00901,Business Analyst,On Hold,7,7,14,9,1,2,Full-time,Hybrid,70.01,Hourly,29398.00,50657.00,2025-11-06,,280,0,0,0,0,0,0,0,
+106,JOB-2026-00106,Java Developer,Filled,6,6,15,1,2,6,Full-time,Onsite,107.89,Hourly,81378.00,119371.00,2026-10-17,2026-12-22,66,0,0,0,0,0,0,0,
+904,JOB-2026-00904,Business Analyst,Filled,7,21,11,2,1,2,Contract-to-Hire,Hybrid,51.10,Hourly,22558.00,80749.00,2026-10-04,2027-01-27,115,0,0,0,0,0,0,0,
+105,JOB-2026-00105,Senior Data Analyst,Open,2,2,11,10,3,7,Contract-to-Hire,Onsite,75.67,Hourly,74522.00,122742.00,2026-09-09,,-27,0,0,0,0,0,0,0,
+102,JOB-2026-00102,Senior Data Analyst,Open,6,6,15,21,3,6,Contract,Remote,106.43,Hourly,71850.00,98643.00,2026-08-19,,-6,0,0,0,0,0,0,0,
+909,JOB-2026-00909,Senior Data Analyst,Filled,2,10,13,15,3,6,Contract-to-Hire,Remote,99.38,Hourly,88908.00,132597.00,2026-12-16,2027-01-08,23,0,0,0,0,0,0,0,
+911,JOB-2026-00911,Data Analyst,Closed,7,23,17,5,2,3,Contract,Onsite,115.68,Hourly,37782.00,82781.00,2026-10-10,2026-12-19,70,0,0,0,0,0,0,0,
+97,JOB-2026-00097,Data Scientist,On Hold,6,4,17,12,4,5,Full-time,Hybrid,73.19,Hourly,68400.00,122043.00,2025-05-31,,439,0,0,0,0,0,0,0,
+914,JOB-2026-00914,Data Scientist,Open,2,5,13,5,3,5,Contract-to-Hire,Onsite,85.23,Hourly,62720.00,110834.00,2026-09-19,,-37,0,0,0,0,0,0,0,
+915,JOB-2026-00915,Java Developer,On Hold,7,6,16,9,4,5,Full-time,Remote,67.26,Hourly,60080.00,93806.00,2025-12-01,,255,0,0,0,0,0,0,0,
+916,JOB-2026-00916,Java Developer,Open,2,4,14,1,4,7,Contract-to-Hire,Remote,80.88,Hourly,102816.00,137818.00,2026-12-27,,-136,0,0,0,0,0,0,0,
+917,JOB-2026-00917,Senior Data Analyst,Open,7,7,17,9,2,8,Contract,Remote,51.45,Hourly,112168.00,162490.00,2026-09-10,,-28,0,0,0,0,0,0,0,
+95,JOB-2026-00095,Senior Java Developer,Filled,6,9,12,16,3,7,Contract-to-Hire,Hybrid,69.43,Hourly,83615.00,132726.00,2026-09-18,2026-11-01,44,0,0,0,0,0,0,0,
+94,JOB-2026-00094,DevOps Engineer,Open,7,7,12,6,2,7,Contract-to-Hire,Hybrid,101.69,Hourly,100191.00,122664.00,2026-11-09,,-88,0,0,0,0,0,0,0,
+91,JOB-2026-00091,Senior Java Developer,Open,2,2,15,10,4,7,Contract,Remote,97.90,Hourly,104279.00,127710.00,2026-10-09,,-57,0,0,0,0,0,0,0,
+922,JOB-2026-00922,Data Analyst,Open,6,22,16,16,2,4,Contract-to-Hire,Onsite,114.16,Hourly,50616.00,107684.00,2026-08-06,,7,0,0,0,0,0,0,0,
+87,JOB-2026-00087,Data Scientist,Open,7,23,16,15,4,5,Contract-to-Hire,Onsite,100.79,Hourly,58080.00,89450.00,2026-09-09,,-27,0,0,0,0,0,0,0,
+83,JOB-2026-00083,AI Engineer,On Hold,2,23,12,10,3,6,Contract,Onsite,49.60,Hourly,89454.00,113044.00,2025-01-08,,582,0,0,0,0,0,0,0,
+80,JOB-2026-00080,Senior Java Developer,Open,2,3,13,11,3,9,Contract-to-Hire,Remote,40.49,Hourly,131040.00,152760.00,2026-09-16,,-34,0,0,0,0,0,0,0,
+78,JOB-2026-00078,Senior Java Developer,On Hold,2,9,13,14,1,5,Contract-to-Hire,Onsite,109.89,Hourly,65260.00,93787.00,2026-07-24,,20,0,0,0,0,0,0,0,
+928,JOB-2026-00928,ML Engineer,Closed,2,4,12,2,1,7,Contract-to-Hire,Remote,104.37,Hourly,71652.00,120851.00,2026-09-10,2026-11-15,66,0,0,0,0,0,0,0,
+929,JOB-2026-00929,Business Analyst,Closed,7,21,12,7,3,7,Contract,Hybrid,41.91,Hourly,87122.00,121169.00,2026-08-31,2026-12-06,97,0,0,0,0,0,0,0,
+76,JOB-2026-00076,Business Analyst,Closed,7,7,11,21,1,6,Contract,Remote,110.22,Hourly,75978.00,120940.00,2026-09-04,2026-12-05,92,0,0,0,0,0,0,0,
+72,JOB-2026-00072,AI Engineer,On Hold,7,23,15,3,2,8,Full-time,Hybrid,56.57,Hourly,119128.00,140527.00,2025-02-21,,538,0,0,0,0,0,0,0,
+70,JOB-2026-00070,Full Stack Developer,Open,7,7,16,16,1,5,Contract-to-Hire,Remote,72.65,Hourly,72125.00,119592.00,2026-08-25,,-12,0,0,0,0,0,0,0,
+69,JOB-2026-00069,Business Analyst,Closed,6,1,11,16,3,3,Contract-to-Hire,Hybrid,47.78,Hourly,31551.00,81977.00,2026-12-19,2027-01-20,32,0,0,0,0,0,0,0,
+935,JOB-2026-00935,AI Engineer,Filled,7,9,16,8,4,4,Contract-to-Hire,Onsite,107.88,Hourly,54676.00,74803.00,2026-10-28,2027-01-06,70,0,0,0,0,0,0,0,
+68,JOB-2026-00068,DevOps Engineer,Open,7,7,17,4,3,3,Contract-to-Hire,Remote,58.71,Hourly,41175.00,85330.00,2026-11-20,,-99,0,0,0,0,0,0,0,
+938,JOB-2026-00938,Data Scientist,Open,6,21,17,19,2,3,Contract-to-Hire,Onsite,118.18,Hourly,38439.00,91623.00,2026-10-03,,-51,0,0,0,0,0,0,0,
+67,JOB-2026-00067,Data Scientist,On Hold,7,3,17,13,2,5,Contract,Onsite,69.26,Hourly,69735.00,109077.00,2025-12-13,,243,0,0,0,0,0,0,0,
+941,JOB-2026-00941,Data Analyst,On Hold,6,4,17,10,4,6,Contract-to-Hire,Onsite,83.36,Hourly,65298.00,117751.00,2025-05-28,,442,0,0,0,0,0,0,0,
+64,JOB-2026-00064,Full Stack Developer,Open,2,22,13,13,1,3,Contract-to-Hire,Hybrid,40.65,Hourly,35829.00,80822.00,2026-08-09,,4,0,0,0,0,0,0,0,
+944,JOB-2026-00944,DevOps Engineer,Closed,2,7,11,3,4,3,Contract-to-Hire,Hybrid,60.17,Hourly,40386.00,98863.00,2026-09-28,2026-10-16,18,0,0,0,0,0,0,0,
+62,JOB-2026-00062,AI Engineer,Open,7,10,17,20,4,7,Full-time,Onsite,59.27,Hourly,93625.00,150713.00,2026-11-30,,-109,0,0,0,0,0,0,0,
+56,JOB-2026-00056,Data Scientist,Filled,6,4,14,13,2,6,Contract,Hybrid,113.75,Hourly,74340.00,127689.00,2026-12-24,2027-03-09,75,0,0,0,0,0,0,0,
+951,JOB-2026-00951,Business Analyst,Closed,2,2,17,19,2,3,Contract,Remote,49.27,Hourly,34827.00,84062.00,2026-11-07,2027-01-22,76,0,0,0,0,0,0,0,
+53,JOB-2026-00053,Java Developer,Open,7,22,14,13,3,5,Full-time,Onsite,42.94,Hourly,63650.00,104690.00,2026-11-18,,-97,0,0,0,0,0,0,0,
+52,JOB-2026-00052,Business Analyst,Closed,2,8,13,19,2,6,Full-time,Onsite,90.78,Hourly,61014.00,98676.00,2026-08-14,2026-11-20,98,0,0,0,0,0,0,0,
+51,JOB-2026-00051,Full Stack Developer,Closed,7,8,11,14,1,3,Contract,Hybrid,65.79,Hourly,41517.00,81445.00,2026-12-18,2027-03-06,78,0,0,0,0,0,0,0,
+49,JOB-2026-00049,Data Scientist,Open,6,4,13,15,3,3,Contract,Remote,94.99,Hourly,40038.00,89562.00,2026-12-07,,-116,0,0,0,0,0,0,0,
+47,JOB-2026-00047,Full Stack Developer,On Hold,2,2,12,18,1,3,Contract-to-Hire,Onsite,88.51,Hourly,44178.00,67691.00,2025-06-05,,434,0,0,0,0,0,0,0,
+961,JOB-2026-00961,Senior Java Developer,On Hold,7,8,15,17,3,9,Contract,Onsite,73.64,Hourly,118980.00,139194.00,2025-03-10,,521,0,0,0,0,0,0,0,
+45,JOB-2026-00045,Full Stack Developer,Filled,6,4,13,10,2,5,Full-time,Hybrid,96.64,Hourly,74145.00,128527.00,2026-09-04,2026-10-26,52,0,0,0,0,0,0,0,
+39,JOB-2026-00039,Senior Java Developer,Open,6,22,17,20,3,8,Contract-to-Hire,Remote,103.70,Hourly,92992.00,117972.00,2026-08-30,,-17,0,0,0,0,0,0,0,
+38,JOB-2026-00038,AI Engineer,On Hold,6,22,11,10,2,6,Contract-to-Hire,Remote,86.29,Hourly,72594.00,116769.00,2025-06-21,,418,0,0,0,0,0,0,0,
+37,JOB-2026-00037,DevOps Engineer,Open,7,1,12,1,2,3,Contract-to-Hire,Onsite,52.19,Hourly,38598.00,73292.00,2026-10-28,,-76,0,0,0,0,0,0,0,
+34,JOB-2026-00034,Senior Java Developer,Open,7,6,13,14,4,8,Contract,Hybrid,99.80,Hourly,118272.00,139552.00,2026-08-13,,0,0,0,0,0,0,0,0,
+970,JOB-2026-00970,Data Scientist,Closed,6,1,14,2,3,4,Contract-to-Hire,Remote,47.20,Hourly,47180.00,105550.00,2026-10-23,2026-12-02,40,0,0,0,0,0,0,0,
+972,JOB-2026-00972,Senior Data Analyst,Open,6,8,14,8,2,8,Full-time,Remote,104.62,Hourly,83416.00,140942.00,2026-11-02,,-81,0,0,0,0,0,0,0,
+31,JOB-2026-00031,Senior Data Analyst,Open,6,4,17,15,1,7,Contract,Remote,104.11,Hourly,82544.00,114070.00,2026-12-14,,-123,0,0,0,0,0,0,0,
+30,JOB-2026-00030,Business Analyst,Filled,7,8,14,5,2,2,Full-time,Remote,95.01,Hourly,27460.00,74620.00,2026-10-07,2026-12-10,64,0,0,0,0,0,0,0,
+28,JOB-2026-00028,AI Engineer,Closed,7,5,13,14,2,6,Contract,Remote,88.53,Hourly,78630.00,110035.00,2026-09-23,2026-10-08,15,0,0,0,0,0,0,0,
+27,JOB-2026-00027,AI Engineer,Open,2,2,16,17,3,5,Contract-to-Hire,Hybrid,93.35,Hourly,67665.00,92250.00,2026-11-12,,-91,0,0,0,0,0,0,0,
+978,JOB-2026-00978,Data Scientist,Open,2,1,12,9,4,6,Contract,Hybrid,71.94,Hourly,89016.00,118180.00,2026-10-27,,-75,0,0,0,0,0,0,0,
+981,JOB-2026-00981,Data Analyst,Open,7,7,13,12,4,2,Contract,Remote,66.12,Hourly,28346.00,62678.00,2026-10-08,,-56,0,0,0,0,0,0,0,
+23,JOB-2026-00023,Data Analyst,Filled,6,10,16,8,2,4,Contract,Onsite,118.10,Hourly,46880.00,83233.00,2026-11-14,2027-01-20,67,0,0,0,0,0,0,0,
+984,JOB-2026-00984,Data Scientist,On Hold,7,3,17,9,1,6,Full-time,Onsite,78.61,Hourly,86886.00,144122.00,2025-09-19,,328,0,0,0,0,0,0,0,
+22,JOB-2026-00022,DevOps Engineer,Open,6,6,15,14,2,3,Contract-to-Hire,Onsite,43.35,Hourly,32748.00,57679.00,2026-12-09,,-118,0,0,0,0,0,0,0,
+20,JOB-2026-00020,DevOps Engineer,Open,2,2,16,9,2,3,Full-time,Onsite,88.39,Hourly,43629.00,83249.00,2026-11-11,,-90,0,0,0,0,0,0,0,
+1000,JOB-2026-01000,Data Scientist,On Hold,7,10,15,14,2,5,Contract-to-Hire,Hybrid,104.02,Hourly,70680.00,108600.00,2026-06-28,,46,0,0,0,0,0,0,0,
+16,JOB-2026-00016,Full Stack Developer,Open,7,5,12,19,1,5,Contract,Remote,83.38,Hourly,67325.00,123747.00,2026-11-09,,-88,0,0,0,0,0,0,0,
+13,JOB-2026-00013,Full Stack Developer,Open,6,8,17,7,4,4,Contract,Remote,47.75,Hourly,57668.00,86339.00,2026-08-08,,5,0,0,0,0,0,0,0,
+11,JOB-2026-00011,DevOps Engineer,On Hold,2,23,16,10,2,4,Full-time,Hybrid,119.61,Hourly,48684.00,103265.00,2026-09-14,,-32,0,0,0,0,0,0,0,
+556,JOB-2026-00556,Data Analyst,On Hold,6,2,16,9,2,2,Contract,Remote,87.99,Hourly,23580.00,70521.00,2025-11-05,,281,0,0,0,0,0,0,0,
+557,JOB-2026-00557,Data Scientist,Open,7,10,15,13,4,5,Full-time,Hybrid,91.25,Hourly,57180.00,98018.00,2026-11-14,,-93,0,0,0,0,0,0,0,
+543,JOB-2026-00543,DevOps Engineer,On Hold,6,3,13,13,4,5,Full-time,Remote,115.90,Hourly,63355.00,121821.00,2025-01-24,,566,0,0,0,0,0,0,0,
+561,JOB-2026-00561,Full Stack Developer,Open,7,3,15,8,2,3,Full-time,Onsite,46.25,Hourly,34728.00,58142.00,2026-10-12,,-60,0,0,0,0,0,0,0,
+560,JOB-2026-00560,Java Developer,On Hold,2,23,16,20,2,4,Contract-to-Hire,Onsite,81.72,Hourly,47936.00,81424.00,2026-07-07,,37,0,0,0,0,0,0,0,
+536,JOB-2026-00536,Full Stack Developer,Open,2,4,12,8,4,5,Contract-to-Hire,Remote,57.49,Hourly,73805.00,120081.00,2026-10-16,,-64,0,0,0,0,0,0,0,
+532,JOB-2026-00532,DevOps Engineer,On Hold,7,1,17,13,2,4,Contract,Onsite,102.99,Hourly,45848.00,78692.00,2025-01-23,,567,0,0,0,0,0,0,0,
+564,JOB-2026-00564,Full Stack Developer,On Hold,2,1,11,16,3,3,Full-time,Onsite,114.06,Hourly,38187.00,67142.00,2026-04-26,,109,0,0,0,0,0,0,0,
+530,JOB-2026-00530,Data Analyst,Closed,2,6,17,7,4,3,Full-time,Onsite,54.74,Hourly,35658.00,86232.00,2026-10-01,2027-01-22,113,0,0,0,0,0,0,0,
+566,JOB-2026-00566,Data Analyst,On Hold,6,6,16,21,1,5,Full-time,Hybrid,60.91,Hourly,67365.00,103538.00,2025-09-06,,341,0,0,0,0,0,0,0,
+529,JOB-2026-00529,Full Stack Developer,Closed,6,10,13,11,4,8,Contract-to-Hire,Hybrid,48.39,Hourly,110624.00,169930.00,2026-12-11,2027-02-06,57,0,0,0,0,0,0,0,
+568,JOB-2026-00568,ML Engineer,Closed,2,2,11,5,3,8,Contract-to-Hire,Hybrid,99.90,Hourly,114936.00,160022.00,2026-08-24,2026-12-10,108,0,0,0,0,0,0,0,
+570,JOB-2026-00570,Data Scientist,Open,2,22,12,9,2,7,Full-time,Onsite,75.26,Hourly,76321.00,125855.00,2026-08-04,,9,0,0,0,0,0,0,0,
+573,JOB-2026-00573,Java Developer,On Hold,2,6,17,1,1,3,Full-time,Remote,109.64,Hourly,38877.00,84991.00,2026-01-23,,202,0,0,0,0,0,0,0,
+518,JOB-2026-00518,Java Developer,Open,2,4,17,4,4,2,Contract-to-Hire,Remote,85.53,Hourly,24598.00,76896.00,2026-12-22,,-131,0,0,0,0,0,0,0,
+517,JOB-2026-00517,AI Engineer,On Hold,7,6,12,20,1,6,Contract-to-Hire,Hybrid,64.25,Hourly,60456.00,94973.00,2025-01-21,,569,0,0,0,0,0,0,0,
+516,JOB-2026-00516,Senior Data Analyst,On Hold,6,7,17,13,3,8,Contract,Onsite,107.13,Hourly,82024.00,131199.00,2026-11-20,,-99,0,0,0,0,0,0,0,
+577,JOB-2026-00577,Data Scientist,Open,2,3,17,4,1,6,Full-time,Remote,119.47,Hourly,65682.00,117281.00,2026-11-10,,-89,0,0,0,0,0,0,0,
+578,JOB-2026-00578,Java Developer,On Hold,7,21,11,18,2,5,Contract,Remote,98.03,Hourly,61480.00,95922.00,2025-09-21,,326,0,0,0,0,0,0,0,
+515,JOB-2026-00515,Java Developer,On Hold,7,21,12,18,4,2,Full-time,Hybrid,96.26,Hourly,22190.00,42324.00,2026-09-16,,-34,0,0,0,0,0,0,0,
+514,JOB-2026-00514,DevOps Engineer,Filled,6,21,13,9,4,5,Contract,Remote,92.98,Hourly,67690.00,101508.00,2026-09-18,2026-11-15,58,0,0,0,0,0,0,0,
+581,JOB-2026-00581,Java Developer,Open,6,7,11,11,4,7,Contract-to-Hire,Remote,105.29,Hourly,77238.00,131300.00,2026-11-11,,-90,0,0,0,0,0,0,0,
+582,JOB-2026-00582,Data Scientist,Closed,7,9,16,9,1,7,Full-time,Remote,85.92,Hourly,86247.00,115806.00,2026-11-13,2027-01-06,54,0,0,0,0,0,0,0,
+513,JOB-2026-00513,Business Analyst,Filled,6,1,12,10,1,4,Contract-to-Hire,Onsite,71.62,Hourly,52456.00,95486.00,2026-10-10,2026-11-30,51,0,0,0,0,0,0,0,
+506,JOB-2026-00506,DevOps Engineer,Closed,7,8,15,4,1,3,Contract-to-Hire,Onsite,114.89,Hourly,34728.00,90237.00,2026-08-14,2026-12-03,111,0,0,0,0,0,0,0,
+586,JOB-2026-00586,AI Engineer,Filled,6,7,14,2,2,8,Contract-to-Hire,Onsite,68.45,Hourly,80592.00,124330.00,2026-08-13,2026-09-15,33,0,0,0,0,0,0,0,
+588,JOB-2026-00588,Senior Data Analyst,Closed,7,2,11,16,1,7,Contract,Remote,93.50,Hourly,91910.00,129946.00,2026-10-10,2026-11-09,30,0,0,0,0,0,0,0,
+589,JOB-2026-00589,ML Engineer,On Hold,6,22,14,19,3,9,Contract,Hybrid,47.96,Hourly,96966.00,155820.00,2025-07-05,,404,0,0,0,0,0,0,0,
+498,JOB-2026-00498,Senior Data Analyst,On Hold,2,23,16,12,2,7,Contract,Hybrid,62.76,Hourly,87080.00,144595.00,2025-01-06,,584,0,0,0,0,0,0,0,
+592,JOB-2026-00592,Senior Data Analyst,On Hold,6,21,11,10,2,8,Contract,Onsite,115.70,Hourly,99560.00,143386.00,2026-07-12,,32,0,0,0,0,0,0,0,
+594,JOB-2026-00594,Data Scientist,Open,2,10,14,18,1,7,Contract,Hybrid,60.85,Hourly,101654.00,135812.00,2026-08-29,,-16,0,0,0,0,0,0,0,
+595,JOB-2026-00595,Full Stack Developer,Open,7,21,16,21,3,3,Contract-to-Hire,Onsite,91.65,Hourly,36246.00,84121.00,2026-12-13,,-122,0,0,0,0,0,0,0,
+497,JOB-2026-00497,DevOps Engineer,On Hold,2,2,16,12,1,7,Contract,Remote,90.16,Hourly,84833.00,120649.00,2025-11-08,,278,0,0,0,0,0,0,0,
+490,JOB-2026-00490,Data Analyst,Filled,6,1,14,4,4,6,Contract-to-Hire,Remote,102.53,Hourly,73146.00,103053.00,2026-12-08,2027-03-23,105,0,0,0,0,0,0,0,
+600,JOB-2026-00600,AI Engineer,Closed,2,23,14,9,3,8,Full-time,Hybrid,81.65,Hourly,119888.00,167298.00,2026-12-25,2027-02-23,60,0,0,0,0,0,0,0,
+487,JOB-2026-00487,AI Engineer,Filled,7,22,14,21,4,7,Full-time,Hybrid,68.82,Hourly,89446.00,148905.00,2026-11-04,2027-02-19,107,0,0,0,0,0,0,0,
+603,JOB-2026-00603,Java Developer,On Hold,6,21,17,6,2,3,Contract,Remote,69.36,Hourly,42978.00,102902.00,2025-02-13,,546,0,0,0,0,0,0,0,
+486,JOB-2026-00486,ML Engineer,On Hold,6,6,14,1,4,9,Contract-to-Hire,Hybrid,63.04,Hourly,120753.00,171773.00,2025-04-30,,470,0,0,0,0,0,0,0,
+483,JOB-2026-00483,Data Analyst,Filled,2,9,12,10,1,3,Contract,Onsite,51.85,Hourly,41823.00,71335.00,2026-10-28,2027-02-21,116,0,0,0,0,0,0,0,
+607,JOB-2026-00607,DevOps Engineer,Open,7,22,14,12,1,5,Full-time,Hybrid,55.88,Hourly,54450.00,103192.00,2026-11-04,,-83,0,0,0,0,0,0,0,
+994,JOB-2026-00994,Senior Data Analyst,Closed,2,21,12,15,4,7,Full-time,Hybrid,116.14,Hourly,104776.00,139442.00,2026-12-07,2027-02-03,58,0,0,0,0,0,0,0,
+611,JOB-2026-00611,Senior Data Analyst,Open,2,2,12,2,4,8,Contract-to-Hire,Remote,119.23,Hourly,91872.00,124236.00,2026-08-29,,-16,0,0,0,0,0,0,0,
+612,JOB-2026-00612,Data Analyst,On Hold,6,4,13,16,4,5,Contract-to-Hire,Remote,80.79,Hourly,66680.00,121084.00,2025-11-10,,276,0,0,0,0,0,0,0,
+476,JOB-2026-00476,Data Scientist,On Hold,2,10,12,4,3,3,Contract,Remote,81.01,Hourly,37335.00,89503.00,2026-03-19,,147,0,0,0,0,0,0,0,
+474,JOB-2026-00474,Senior Data Analyst,Filled,7,1,16,11,4,7,Contract-to-Hire,Hybrid,119.99,Hourly,97510.00,147266.00,2026-10-06,2026-12-02,57,0,0,0,0,0,0,0,
+615,JOB-2026-00615,Java Developer,Filled,7,21,16,2,1,3,Full-time,Hybrid,117.47,Hourly,36780.00,70544.00,2026-08-22,2026-09-22,31,0,0,0,0,0,0,0,
+616,JOB-2026-00616,Full Stack Developer,Filled,6,4,15,2,2,3,Contract,Hybrid,55.34,Hourly,31839.00,87659.00,2026-09-26,2027-01-16,112,0,0,0,0,0,0,0,
+617,JOB-2026-00617,DevOps Engineer,On Hold,7,2,14,17,4,5,Full-time,Remote,103.27,Hourly,64990.00,114381.00,2026-10-07,,-55,0,0,0,0,0,0,0,
+618,JOB-2026-00618,ML Engineer,Filled,2,21,15,6,1,4,Contract-to-Hire,Onsite,100.06,Hourly,58552.00,82536.00,2026-12-12,2027-02-28,78,0,0,0,0,0,0,0,
+469,JOB-2026-00469,Full Stack Developer,Open,2,2,13,5,1,4,Contract,Remote,109.73,Hourly,42936.00,83731.00,2026-12-29,,-138,0,0,0,0,0,0,0,
+468,JOB-2026-00468,Data Analyst,On Hold,6,21,13,18,2,2,Contract,Hybrid,86.44,Hourly,24154.00,77219.00,2026-09-27,,-45,0,0,0,0,0,0,0,
+621,JOB-2026-00621,AI Engineer,Filled,2,6,11,5,3,7,Contract-to-Hire,Hybrid,111.87,Hourly,76657.00,96748.00,2026-10-27,2026-12-28,62,0,0,0,0,0,0,0,
+466,JOB-2026-00466,Business Analyst,Closed,7,8,12,13,3,5,Contract-to-Hire,Remote,56.98,Hourly,60170.00,104394.00,2026-08-20,2026-09-05,16,0,0,0,0,0,0,0,
+465,JOB-2026-00465,Full Stack Developer,On Hold,6,5,16,14,2,6,Full-time,Remote,72.68,Hourly,66396.00,114662.00,2025-07-31,,378,0,0,0,0,0,0,0,
+624,JOB-2026-00624,Data Scientist,On Hold,2,3,16,1,3,6,Contract,Remote,53.03,Hourly,69090.00,100631.00,2025-07-13,,396,0,0,0,0,0,0,0,
+626,JOB-2026-00626,Data Analyst,On Hold,7,10,11,4,1,2,Full-time,Hybrid,98.89,Hourly,22164.00,58439.00,2025-03-27,,504,0,0,0,0,0,0,0,
+462,JOB-2026-00462,DevOps Engineer,Closed,2,3,13,19,2,8,Contract,Hybrid,103.96,Hourly,88520.00,147449.00,2026-12-04,2027-03-23,109,0,0,0,0,0,0,0,
+461,JOB-2026-00461,Java Developer,Filled,6,21,12,13,1,5,Full-time,Remote,90.26,Hourly,51120.00,74534.00,2026-10-19,2027-02-12,116,0,0,0,0,0,0,0,
+630,JOB-2026-00630,Senior Java Developer,On Hold,6,21,13,3,3,6,Contract,Onsite,108.94,Hourly,74820.00,113629.00,2025-12-23,,233,0,0,0,0,0,0,0,
+631,JOB-2026-00631,Full Stack Developer,On Hold,6,5,12,11,1,8,Contract,Remote,54.55,Hourly,111352.00,135763.00,2025-04-26,,474,0,0,0,0,0,0,0,
+632,JOB-2026-00632,Senior Java Developer,Closed,7,9,15,18,4,9,Contract,Onsite,105.71,Hourly,114579.00,143637.00,2026-11-01,2027-01-18,78,0,0,0,0,0,0,0,
+633,JOB-2026-00633,AI Engineer,On Hold,6,1,13,5,4,8,Full-time,Onsite,44.77,Hourly,85712.00,121125.00,2026-01-06,,219,0,0,0,0,0,0,0,
+459,JOB-2026-00459,Senior Data Analyst,On Hold,2,5,13,8,1,8,Contract,Onsite,56.83,Hourly,95488.00,144481.00,2026-02-02,,192,0,0,0,0,0,0,0,
+635,JOB-2026-00635,Senior Java Developer,Closed,6,3,11,12,2,7,Full-time,Remote,46.32,Hourly,73101.00,100048.00,2026-11-10,2027-02-09,91,0,0,0,0,0,0,0,
+636,JOB-2026-00636,Data Scientist,Closed,6,8,17,10,1,6,Contract,Hybrid,52.47,Hourly,66882.00,121448.00,2026-12-17,2027-02-13,58,0,0,0,0,0,0,0,
+637,JOB-2026-00637,Data Scientist,On Hold,7,8,15,19,3,7,Contract-to-Hire,Hybrid,64.48,Hourly,79191.00,99903.00,2026-02-10,,184,0,0,0,0,0,0,0,
+453,JOB-2026-00453,ML Engineer,Closed,2,3,12,8,1,9,Full-time,Remote,77.13,Hourly,101835.00,138641.00,2026-12-05,2027-01-03,29,0,0,0,0,0,0,0,
+448,JOB-2026-00448,Senior Java Developer,Open,7,21,12,16,3,9,Contract,Onsite,104.92,Hourly,118773.00,159903.00,2026-08-10,,3,0,0,0,0,0,0,0,
+648,JOB-2026-00648,Senior Data Analyst,Open,2,3,16,13,1,6,Contract,Remote,55.96,Hourly,82896.00,133598.00,2026-10-20,,-68,0,0,0,0,0,0,0,
+649,JOB-2026-00649,Full Stack Developer,On Hold,7,3,16,11,2,3,Full-time,Remote,42.51,Hourly,36840.00,86631.00,2025-02-09,,550,0,0,0,0,0,0,0,
+650,JOB-2026-00650,Java Developer,On Hold,7,21,14,9,3,5,Full-time,Onsite,54.09,Hourly,69390.00,103376.00,2025-02-25,,534,0,0,0,0,0,0,0,
+651,JOB-2026-00651,Full Stack Developer,Filled,6,7,13,6,3,6,Full-time,Hybrid,67.94,Hourly,85788.00,119819.00,2026-11-17,2026-12-13,26,0,0,0,0,0,0,0,
+652,JOB-2026-00652,Data Scientist,Filled,7,23,15,3,2,8,Contract,Remote,93.44,Hourly,108624.00,151869.00,2026-12-11,2027-03-07,86,0,0,0,0,0,0,0,
+446,JOB-2026-00446,Business Analyst,On Hold,6,7,13,8,1,2,Contract,Hybrid,58.77,Hourly,25590.00,70531.00,2025-04-10,,490,0,0,0,0,0,0,0,
+654,JOB-2026-00654,Full Stack Developer,On Hold,2,7,16,20,2,8,Contract-to-Hire,Onsite,57.29,Hourly,117904.00,144290.00,2025-02-07,,552,0,0,0,0,0,0,0,
+657,JOB-2026-00657,Senior Data Analyst,On Hold,2,2,14,21,1,4,Contract-to-Hire,Onsite,80.27,Hourly,43400.00,69274.00,2026-10-28,,-76,0,0,0,0,0,0,0,
+436,JOB-2026-00436,DevOps Engineer,On Hold,7,2,12,12,4,4,Full-time,Remote,87.15,Hourly,46276.00,84747.00,2025-06-25,,414,0,0,0,0,0,0,0,
+660,JOB-2026-00660,AI Engineer,On Hold,2,7,16,13,2,7,Full-time,Hybrid,81.38,Hourly,92554.00,115934.00,2026-08-15,,-2,0,0,0,0,0,0,0,
+661,JOB-2026-00661,DevOps Engineer,Open,6,6,12,3,1,3,Contract-to-Hire,Hybrid,74.99,Hourly,44178.00,89868.00,2026-10-05,,-53,0,0,0,0,0,0,0,
+431,JOB-2026-00431,DevOps Engineer,Filled,2,9,16,14,1,4,Contract-to-Hire,Remote,113.28,Hourly,46172.00,102784.00,2026-09-21,2027-01-05,106,0,0,0,0,0,0,0,
+427,JOB-2026-00427,ML Engineer,Open,7,23,13,3,4,7,Full-time,Remote,99.65,Hourly,80283.00,132519.00,2026-12-06,,-115,0,0,0,0,0,0,0,
+665,JOB-2026-00665,ML Engineer,Open,7,6,13,20,4,4,Full-time,Remote,83.72,Hourly,45852.00,103030.00,2026-10-09,,-57,0,0,0,0,0,0,0,
+668,JOB-2026-00668,ML Engineer,Filled,7,8,14,14,4,7,Full-time,Hybrid,99.77,Hourly,75894.00,134143.00,2026-08-25,2026-12-10,107,0,0,0,0,0,0,0,
+423,JOB-2026-00423,AI Engineer,On Hold,2,6,14,14,2,6,Full-time,Remote,70.89,Hourly,75618.00,135147.00,2026-09-12,,-30,0,0,0,0,0,0,0,
+422,JOB-2026-00422,Senior Data Analyst,Closed,6,23,13,1,2,6,Contract-to-Hire,Onsite,83.07,Hourly,62700.00,122555.00,2026-10-19,2027-02-11,115,0,0,0,0,0,0,0,
+421,JOB-2026-00421,Data Scientist,Closed,6,3,16,10,1,7,Contract-to-Hire,Onsite,72.13,Hourly,95347.00,137543.00,2026-12-07,2026-12-27,20,0,0,0,0,0,0,0,
+420,JOB-2026-00420,Data Scientist,On Hold,2,6,16,16,3,6,Contract-to-Hire,Remote,117.57,Hourly,75738.00,105965.00,2025-01-05,,585,0,0,0,0,0,0,0,
+673,JOB-2026-00673,Business Analyst,On Hold,7,5,12,2,4,2,Full-time,Remote,113.44,Hourly,24670.00,45838.00,2026-10-22,,-70,0,0,0,0,0,0,0,
+414,JOB-2026-00414,DevOps Engineer,Open,6,8,11,13,1,5,Full-time,Remote,63.07,Hourly,68510.00,112636.00,2026-11-21,,-100,0,0,0,0,0,0,0,
+677,JOB-2026-00677,Data Scientist,Closed,2,8,16,9,4,7,Contract-to-Hire,Onsite,101.81,Hourly,93695.00,142975.00,2026-11-16,2027-02-12,88,0,0,0,0,0,0,0,
+679,JOB-2026-00679,Full Stack Developer,Filled,6,5,16,21,4,3,Contract-to-Hire,Remote,107.82,Hourly,38364.00,72038.00,2026-08-28,2026-12-18,112,0,0,0,0,0,0,0,
+411,JOB-2026-00411,Business Analyst,Filled,6,1,15,2,3,6,Contract-to-Hire,Onsite,70.64,Hourly,88272.00,121847.00,2026-12-03,2027-03-22,109,0,0,0,0,0,0,0,
+409,JOB-2026-00409,Senior Java Developer,On Hold,7,1,14,6,3,6,Contract-to-Hire,Onsite,76.74,Hourly,66522.00,110010.00,2025-10-30,,287,0,0,0,0,0,0,0,
+686,JOB-2026-00686,Data Analyst,Filled,7,2,11,19,1,6,Contract,Onsite,119.23,Hourly,77304.00,128356.00,2026-08-21,2026-11-04,75,0,0,0,0,0,0,0,
+690,JOB-2026-00690,ML Engineer,Open,7,10,11,15,4,6,Contract-to-Hire,Remote,117.45,Hourly,69366.00,92059.00,2026-08-17,,-4,0,0,0,0,0,0,0,
+691,JOB-2026-00691,Full Stack Developer,On Hold,2,10,15,10,2,8,Contract-to-Hire,Onsite,63.06,Hourly,89640.00,140200.00,2026-11-29,,-108,0,0,0,0,0,0,0,
+402,JOB-2026-00402,Data Scientist,On Hold,6,1,16,10,3,8,Contract-to-Hire,Onsite,74.77,Hourly,111088.00,163693.00,2025-06-30,,409,0,0,0,0,0,0,0,
+397,JOB-2026-00397,ML Engineer,Open,6,10,17,3,2,4,Full-time,Onsite,74.10,Hourly,54948.00,86134.00,2026-08-29,,-16,0,0,0,0,0,0,0,
+698,JOB-2026-00698,Java Developer,Filled,7,4,15,18,2,2,Contract-to-Hire,Remote,117.38,Hourly,21988.00,80301.00,2026-11-22,2027-03-06,104,0,0,0,0,0,0,0,
+394,JOB-2026-00394,Senior Java Developer,Filled,6,8,11,7,4,10,Full-time,Hybrid,42.86,Hourly,115640.00,155226.00,2026-12-14,2027-02-12,60,0,0,0,0,0,0,0,
+389,JOB-2026-00389,Senior Data Analyst,Open,2,23,11,2,3,7,Contract,Remote,71.09,Hourly,85848.00,133830.00,2026-12-10,,-119,0,0,0,0,0,0,0,
+704,JOB-2026-00704,Full Stack Developer,Open,7,21,14,16,4,8,Contract,Hybrid,92.72,Hourly,89176.00,127417.00,2026-11-06,,-85,0,0,0,0,0,0,0,
+705,JOB-2026-00705,DevOps Engineer,Closed,6,2,11,6,1,5,Contract,Remote,47.72,Hourly,55300.00,96538.00,2026-08-26,2026-10-31,66,0,0,0,0,0,0,0,
+707,JOB-2026-00707,Data Analyst,Open,2,21,15,7,2,3,Contract,Hybrid,79.29,Hourly,37890.00,64945.00,2026-12-17,,-126,0,0,0,0,0,0,0,
+708,JOB-2026-00708,Senior Java Developer,On Hold,6,2,12,5,1,9,Contract-to-Hire,Onsite,68.76,Hourly,104175.00,129812.00,2026-08-20,,-7,0,0,0,0,0,0,0,
+709,JOB-2026-00709,DevOps Engineer,Closed,2,9,17,3,2,6,Contract-to-Hire,Hybrid,74.20,Hourly,69342.00,102939.00,2026-08-08,2026-11-10,94,0,0,0,0,0,0,0,
+385,JOB-2026-00385,Data Analyst,Filled,7,2,15,14,3,4,Contract-to-Hire,Hybrid,113.44,Hourly,54704.00,99739.00,2026-11-26,2026-12-16,20,0,0,0,0,0,0,0,
+381,JOB-2026-00381,Business Analyst,Open,2,5,17,10,1,4,Contract-to-Hire,Onsite,46.60,Hourly,42012.00,93021.00,2026-08-16,,-3,0,0,0,0,0,0,0,
+713,JOB-2026-00713,Data Analyst,On Hold,7,9,14,9,2,4,Contract-to-Hire,Remote,43.34,Hourly,42316.00,89594.00,2026-09-05,,-23,0,0,0,0,0,0,0,
+377,JOB-2026-00377,Data Scientist,Filled,2,9,14,13,4,8,Contract,Remote,58.06,Hourly,107248.00,157134.00,2026-12-14,2027-02-25,73,0,0,0,0,0,0,0,
+374,JOB-2026-00374,Senior Java Developer,On Hold,6,7,17,10,2,10,Contract-to-Hire,Onsite,69.54,Hourly,128200.00,154051.00,2026-08-20,,-7,0,0,0,0,0,0,0,
+717,JOB-2026-00717,Business Analyst,Open,6,9,12,12,4,5,Full-time,Onsite,75.48,Hourly,69605.00,97625.00,2026-11-04,,-83,0,0,0,0,0,0,0,
+372,JOB-2026-00372,Senior Java Developer,Open,6,21,16,3,1,5,Contract,Remote,105.36,Hourly,74500.00,101626.00,2026-12-03,,-112,0,0,0,0,0,0,0,
+722,JOB-2026-00722,Data Analyst,Closed,2,22,15,6,3,2,Contract-to-Hire,Hybrid,77.39,Hourly,29064.00,74499.00,2026-11-26,2027-02-22,88,0,0,0,0,0,0,0,
+371,JOB-2026-00371,Senior Java Developer,Filled,7,22,16,4,4,9,Full-time,Onsite,87.69,Hourly,115227.00,170913.00,2026-12-12,2027-01-05,24,0,0,0,0,0,0,0,
+368,JOB-2026-00368,Full Stack Developer,Filled,2,4,12,20,2,3,Contract-to-Hire,Remote,113.03,Hourly,41196.00,81537.00,2026-12-02,2027-02-15,75,0,0,0,0,0,0,0,
+367,JOB-2026-00367,Senior Java Developer,Closed,6,5,13,18,2,6,Contract-to-Hire,Remote,117.89,Hourly,89298.00,148144.00,2026-10-07,2026-12-06,60,0,0,0,0,0,0,0,
+359,JOB-2026-00359,Data Scientist,Filled,2,3,14,21,2,4,Contract,Hybrid,111.36,Hourly,50828.00,92975.00,2026-11-20,2027-02-25,97,0,0,0,0,0,0,0,
+356,JOB-2026-00356,Business Analyst,On Hold,7,10,15,17,4,4,Contract,Remote,90.55,Hourly,48508.00,102940.00,2026-08-12,,1,0,0,0,0,0,0,0,
+732,JOB-2026-00732,DevOps Engineer,Open,6,23,14,19,2,7,Contract-to-Hire,Hybrid,114.06,Hourly,74382.00,118125.00,2026-11-01,,-80,0,0,0,0,0,0,0,
+349,JOB-2026-00349,AI Engineer,On Hold,6,23,12,3,1,6,Contract-to-Hire,Remote,96.50,Hourly,64428.00,100817.00,2025-11-28,,258,0,0,0,0,0,0,0,
+348,JOB-2026-00348,Data Analyst,Filled,2,3,17,13,2,6,Full-time,Hybrid,65.88,Hourly,66990.00,117371.00,2026-10-24,2026-11-22,29,0,0,0,0,0,0,0,
+341,JOB-2026-00341,Full Stack Developer,Closed,7,4,17,10,2,7,Contract-to-Hire,Onsite,96.41,Hourly,77553.00,111103.00,2026-10-31,2027-02-25,117,0,0,0,0,0,0,0,
+331,JOB-2026-00331,Senior Data Analyst,Open,7,9,11,18,3,5,Contract,Remote,51.97,Hourly,74670.00,95419.00,2026-10-12,,-60,0,0,0,0,0,0,0,
+738,JOB-2026-00738,AI Engineer,Open,2,5,12,10,1,6,Contract,Remote,78.93,Hourly,85512.00,123747.00,2026-08-12,,1,0,0,0,0,0,0,0,
+739,JOB-2026-00739,ML Engineer,Open,7,9,17,1,2,8,Full-time,Hybrid,112.20,Hourly,86952.00,122135.00,2026-11-14,,-93,0,0,0,0,0,0,0,
+742,JOB-2026-00742,DevOps Engineer,On Hold,7,23,15,7,3,8,Full-time,Hybrid,92.89,Hourly,84848.00,125479.00,2025-02-09,,550,0,0,0,0,0,0,0,
+320,JOB-2026-00320,Data Scientist,On Hold,6,9,12,17,1,7,Contract-to-Hire,Hybrid,75.95,Hourly,89936.00,131148.00,2026-04-25,,110,0,0,0,0,0,0,0,
+312,JOB-2026-00312,Business Analyst,Filled,6,4,17,6,1,7,Contract-to-Hire,Remote,63.17,Hourly,85589.00,124245.00,2026-10-27,2027-01-02,67,0,0,0,0,0,0,0,
+754,JOB-2026-00754,ML Engineer,On Hold,7,22,14,18,3,9,Full-time,Hybrid,48.66,Hourly,129312.00,182512.00,2025-09-08,,339,0,0,0,0,0,0,0,
+296,JOB-2026-00296,Full Stack Developer,On Hold,6,21,12,7,4,5,Full-time,Hybrid,98.83,Hourly,64480.00,98803.00,2026-08-11,,2,0,0,0,0,0,0,0,
+756,JOB-2026-00756,Data Scientist,Filled,6,7,13,5,3,6,Full-time,Onsite,65.72,Hourly,83274.00,137575.00,2026-08-04,2026-09-20,47,0,0,0,0,0,0,0,
+294,JOB-2026-00294,ML Engineer,Closed,7,4,17,15,3,8,Contract,Hybrid,76.86,Hourly,117672.00,154065.00,2026-12-12,2027-04-04,113,0,0,0,0,0,0,0,
+759,JOB-2026-00759,DevOps Engineer,On Hold,2,22,16,17,3,6,Contract,Onsite,89.21,Hourly,79626.00,100232.00,2025-10-31,,286,0,0,0,0,0,0,0,
+761,JOB-2026-00761,Full Stack Developer,Filled,7,8,13,2,1,3,Full-time,Onsite,77.50,Hourly,30135.00,70571.00,2026-12-20,2027-03-13,83,0,0,0,0,0,0,0,
+292,JOB-2026-00292,Senior Java Developer,Open,2,22,11,18,1,7,Contract-to-Hire,Onsite,98.09,Hourly,92659.00,139230.00,2026-08-24,,-11,0,0,0,0,0,0,0,
+764,JOB-2026-00764,Business Analyst,On Hold,6,2,17,5,2,7,Full-time,Onsite,78.04,Hourly,97146.00,130863.00,2025-06-22,,417,0,0,0,0,0,0,0,
+290,JOB-2026-00290,ML Engineer,Closed,6,10,16,20,3,5,Contract-to-Hire,Onsite,115.66,Hourly,65185.00,90430.00,2026-09-16,2026-11-21,66,0,0,0,0,0,0,0,
+766,JOB-2026-00766,DevOps Engineer,On Hold,7,5,16,14,2,5,Full-time,Onsite,75.33,Hourly,71735.00,96859.00,2026-09-12,,-30,0,0,0,0,0,0,0,
+283,JOB-2026-00283,AI Engineer,Filled,7,3,16,15,3,6,Contract-to-Hire,Onsite,87.25,Hourly,89532.00,118884.00,2026-08-20,2026-10-07,48,0,0,0,0,0,0,0,
+769,JOB-2026-00769,Data Analyst,On Hold,6,10,16,16,4,4,Contract-to-Hire,Onsite,77.88,Hourly,48984.00,72734.00,2026-08-09,,4,0,0,0,0,0,0,0,
+770,JOB-2026-00770,Data Analyst,Filled,2,2,14,2,1,4,Full-time,Remote,91.00,Hourly,40944.00,70983.00,2026-12-24,2027-01-24,31,0,0,0,0,0,0,0,
+771,JOB-2026-00771,AI Engineer,Open,6,10,16,17,3,8,Contract-to-Hire,Hybrid,115.24,Hourly,81088.00,122889.00,2026-11-20,,-99,0,0,0,0,0,0,0,
+773,JOB-2026-00773,Java Developer,Open,2,2,12,6,1,5,Full-time,Hybrid,87.29,Hourly,73270.00,98912.00,2026-08-03,,10,0,0,0,0,0,0,0,
+775,JOB-2026-00775,Java Developer,On Hold,6,5,16,9,4,5,Full-time,Onsite,79.19,Hourly,59255.00,91591.00,2025-10-07,,310,0,0,0,0,0,0,0,
+776,JOB-2026-00776,Full Stack Developer,Closed,7,22,14,21,3,8,Full-time,Hybrid,103.70,Hourly,91168.00,113575.00,2026-08-23,2026-10-03,41,0,0,0,0,0,0,0,
+278,JOB-2026-00278,ML Engineer,On Hold,6,6,14,15,4,6,Contract-to-Hire,Onsite,43.19,Hourly,71502.00,94307.00,2026-11-16,,-95,0,0,0,0,0,0,0,
+779,JOB-2026-00779,Business Analyst,Closed,2,5,16,20,3,5,Contract-to-Hire,Hybrid,78.60,Hourly,74310.00,132056.00,2026-12-13,2027-01-28,46,0,0,0,0,0,0,0,
+274,JOB-2026-00274,Senior Java Developer,Filled,7,8,13,16,3,7,Contract,Remote,48.71,Hourly,90608.00,119409.00,2026-11-27,2027-02-09,74,0,0,0,0,0,0,0,
+783,JOB-2026-00783,Full Stack Developer,Closed,2,23,12,11,4,8,Full-time,Onsite,105.58,Hourly,104656.00,155030.00,2026-12-25,2027-02-18,55,0,0,0,0,0,0,0,
+268,JOB-2026-00268,Senior Java Developer,Open,6,22,15,19,1,7,Contract-to-Hire,Onsite,96.07,Hourly,70966.00,116492.00,2026-11-21,,-100,0,0,0,0,0,0,0,
+264,JOB-2026-00264,Business Analyst,Filled,7,4,16,2,2,6,Full-time,Onsite,110.85,Hourly,83340.00,140127.00,2026-10-27,2027-01-07,72,0,0,0,0,0,0,0,
+262,JOB-2026-00262,ML Engineer,Open,7,6,15,21,1,4,Full-time,Onsite,107.45,Hourly,50828.00,101389.00,2026-12-28,,-137,0,0,0,0,0,0,0,
+261,JOB-2026-00261,AI Engineer,On Hold,6,22,15,13,1,5,Full-time,Onsite,74.28,Hourly,68380.00,100007.00,2026-12-01,,-110,0,0,0,0,0,0,0,

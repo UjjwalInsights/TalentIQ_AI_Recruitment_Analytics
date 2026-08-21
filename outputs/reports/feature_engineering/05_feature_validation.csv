@@ -1,0 +1,5 @@
+check,value,status
+Missing candidate IDs,0,PASS
+Missing job IDs,0,PASS
+Invalid structured match scores,0,PASS
+Invalid must-have match rates,0,PASS

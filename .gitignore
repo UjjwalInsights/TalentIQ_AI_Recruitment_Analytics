@@ -1,0 +1,62 @@
+# ============================================================
+# TalentIQ - Git Ignore
+# ============================================================
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Test / tooling cache
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# ============================================================
+# PRIVATE REAL RESUMES
+# Keep fictional/sample resume available for portfolio demo.
+# ============================================================
+
+resumes/Aman Dubey.pdf
+resumes/Arjun Maske.pdf
+resumes/Sai Nalluri.pdf
+
+# Private resume analysis outputs
+outputs/reports/resume_analysis/Aman_Dubey_*
+outputs/reports/resume_analysis/Arjun_Maske_*
+outputs/reports/resume_analysis/Sai_Nalluri_*
+
+# Private resume-to-job outputs
+outputs/predictions/resume_job_matching/Aman_Dubey_*
+outputs/predictions/resume_job_matching/Arjun_Maske_*
+
+# ============================================================
+# LARGE GENERATED INTERMEDIATE OUTPUTS
+# Smaller Top-N / summary / validation outputs remain public.
+# ============================================================
+
+outputs/reports/feature_engineering/01_candidate_job_features.csv
+outputs/predictions/semantic_matching/*_hybrid_ranking.csv
+outputs/predictions/candidate_matching/*_candidate_ranking.csv

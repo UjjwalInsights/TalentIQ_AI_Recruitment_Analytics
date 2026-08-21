@@ -1,0 +1,84 @@
+Priya Sharma
+Data Analyst / Business Analyst
+priya.sharma.demo@example.com | 202-555-0147 | Bengaluru, India | LinkedIn: linkedin.com/in/priya-sharma-demo
+PROFESSIONAL SUMMARY
+Data Analyst with 4+ years of experience transforming business data into actionable insights. Strong hands-on experience with
+Python, SQL, PostgreSQL, Excel, Tableau, Power BI, Pandas, NumPy, Statistics, and Data Analysis. Experienced in
+dashboard development, KPI reporting, customer analysis, data cleaning, automation, and stakeholder communication.
+TECHNICAL SKILLS
+Programming
+Python, SQL
+Analytics
+Pandas, NumPy, Statistics, Data Analysis, Excel
+Visualization
+Tableau, Power BI
+Databases
+PostgreSQL, MySQL
+Cloud / Tools
+AWS, Google Cloud, Git, GitHub
+Machine Learning
+Machine Learning, Regression, Classification
+PROFESSIONAL EXPERIENCE
+Data Analyst - Retail Insights Solutions | Bengaluru, India | Jan 2024 - Present
+ Built Tableau dashboards tracking revenue, orders, conversion, customer retention, and regional performance for leadership
+ teams.
+ Wrote complex SQL queries using joins, CTEs, window functions, aggregations, and subqueries in PostgreSQL to analyze
+ transactional data.
+ Automated recurring reporting workflows in Python using Pandas and NumPy, reducing manual reporting effort.
+ 
+ Created data-quality checks for missing values, duplicate records, invalid dates, and inconsistent business metrics.
+ 
+ Performed customer segmentation and cohort analysis to identify repeat-purchase behavior and high-value customer
+ groups.
+ Partnered with business stakeholders to define KPIs, translate reporting requirements, and present analytical findings.
+ 
+Junior Data Analyst - FinEdge Analytics | Pune, India | Jul 2022 - Dec 2023
+ Prepared weekly and monthly business reports using Excel, SQL, and Power BI.
+ 
+ Cleaned and transformed datasets from CSV files and relational databases using Python and SQL.
+ 
+ Developed dashboards for sales, customer behavior, and operational performance.
+ 
+ Performed exploratory data analysis and statistical summaries to identify trends, anomalies, and business opportunities.
+ 
+ Used Git and GitHub for version control of analytics scripts and project documentation.
+ 
+ Supported basic Machine Learning experiments for customer churn and lead-conversion prediction.
+ 
+PROJECTS
+Recruitment Analytics Dashboard
+ Analyzed recruitment funnel data including applications, interviews, offers, hires, and placements.
+ 
+ Created SQL-based KPIs for application-to-offer rate, placement rate, recruiter performance, and job aging.
+ 
+ Built Tableau visualizations for executive recruitment reporting and trend analysis.
+ 
+E-commerce Customer & Revenue Analysis
+ Analyzed orders, payments, customers, products, and seller performance using PostgreSQL and Python.
+ 
+ Built customer segmentation, revenue trend, geographic performance, and repeat-customer analyses.
+ 
+ Created an executive Tableau dashboard to communicate findings to non-technical stakeholders.
+ 
+Customer Churn Prediction
+ Prepared features using Pandas and NumPy and trained baseline classification models.
+ 
+ Evaluated model performance using accuracy, precision, recall, F1-score, and confusion matrix.
+ 
+ Documented business interpretation and limitations of predictive results.
+ 
+EDUCATION
+B.Tech - Computer Science and Engineering | 2022
+Sample Institute of Technology, India
+CERTIFICATIONS & LEARNING
+ Advanced SQL for Data Analysis
+ 
+ Python for Data Analysis
+ 
+ Tableau Data Visualization
+ 
+ Statistics for Data Science
+ 
+ADDITIONAL INFORMATION
+Current focus: advanced analytics, Machine Learning, and data-driven business decision making. Comfortable working with
+cross-functional teams and presenting findings to technical and non-technical stakeholders.

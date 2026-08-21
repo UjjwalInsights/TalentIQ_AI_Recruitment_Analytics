@@ -1,0 +1,29 @@
+# ============================================================
+# TalentIQ - Python Dependencies
+# ============================================================
+
+# Data Processing
+pandas==2.3.3
+numpy==2.0.2
+
+# Database
+SQLAlchemy==2.0.51
+psycopg2-binary==2.9.12
+
+# Environment Configuration
+python-dotenv==1.2.1
+
+# Synthetic Data Generation
+Faker==37.12.0
+
+# Web Application
+streamlit==1.50.0
+
+# AI / Semantic Matching
+sentence-transformers==5.1.0
+
+# Resume Processing
+pypdf==6.16.1
+
+# Local LLM Integration
+ollama==0.6.2

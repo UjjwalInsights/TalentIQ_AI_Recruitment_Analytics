@@ -1,0 +1,14 @@
+"client_id","client_name","total_jobs","open_jobs","closed_jobs","filled_jobs","total_applications","total_offers","total_placements","placement_rate","average_offered_salary"
+6,Capital One,89,31,21,27,2811,59,33,1.17,126966.10
+8,AT&T,87,32,26,26,2720,56,29,1.07,134500.00
+21,FinTech Innovations,77,29,20,16,2125,35,25,1.18,135714.29
+1,JPMorgan Chase,74,26,17,25,2401,51,24,1.00,128941.18
+9,UnitedHealth Group,82,26,23,28,2551,54,23,0.90,128444.44
+10,The Home Depot,74,28,20,18,2224,47,22,0.99,141872.34
+2,Wells Fargo,83,20,25,29,2473,44,22,0.89,128545.45
+7,Verizon,77,31,13,25,2332,40,21,0.90,128350.00
+4,Bank of America,70,25,16,23,2055,38,19,0.92,133947.37
+3,Apple,76,23,16,31,2394,39,19,0.79,123384.62
+22,HealthTech Systems,68,29,14,16,1758,30,18,1.02,144566.67
+23,Retail Analytics Corp,80,28,24,17,2283,38,17,0.74,137105.26
+5,Citigroup,63,25,14,17,1873,37,14,0.75,134162.16

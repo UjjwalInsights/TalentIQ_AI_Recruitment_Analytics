@@ -1,0 +1,5 @@
+aging_bucket,job_count,applications,offers,hires,placements,average_age_days
+0-29 DAYS,14,0,0,0,0,16.21
+30-59 DAYS,20,0,0,0,0,48.8
+60-89 DAYS,15,0,0,0,0,76.47
+90+ DAYS,304,11837,576,438,115,398.73

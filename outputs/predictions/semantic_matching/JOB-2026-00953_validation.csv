@@ -1,0 +1,6 @@
+check,value,status
+All candidates ranked,10000,PASS
+Invalid structured scores,0,PASS
+Invalid semantic scores,0,PASS
+Invalid hybrid scores,0,PASS
+Duplicate candidate rankings,0,PASS

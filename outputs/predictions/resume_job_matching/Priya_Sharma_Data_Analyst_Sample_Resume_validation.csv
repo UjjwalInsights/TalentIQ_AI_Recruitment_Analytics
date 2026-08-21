@@ -1,0 +1,5 @@
+check,value,status
+Invalid structured scores,0,PASS
+Invalid semantic scores,0,PASS
+Invalid hybrid scores,0,PASS
+Duplicate job rankings,0,PASS

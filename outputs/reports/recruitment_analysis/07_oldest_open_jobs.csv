@@ -1,0 +1,11 @@
+job_id,job_code,job_title,job_status,opened_date,closed_date,job_age_days,aging_bucket,total_applications,offer_count,hired_count,placement_count,application_to_placement_rate
+217,JOB-2026-00217,Full Stack Developer,Open,2025-01-04,,726,90+ DAYS,46,3,0,0,0.0
+401,JOB-2026-00401,Senior Data Analyst,Open,2025-01-05,,725,90+ DAYS,36,3,3,1,2.78
+186,JOB-2026-00186,Data Scientist,Open,2025-01-09,,721,90+ DAYS,42,3,3,0,0.0
+15,JOB-2026-00015,DevOps Engineer,Open,2025-01-16,,714,90+ DAYS,52,4,4,0,0.0
+609,JOB-2026-00609,Senior Java Developer,Open,2025-01-22,,708,90+ DAYS,35,2,0,0,0.0
+662,JOB-2026-00662,DevOps Engineer,Open,2025-01-26,,704,90+ DAYS,54,7,2,0,0.0
+538,JOB-2026-00538,Full Stack Developer,Open,2025-01-26,,704,90+ DAYS,42,2,2,0,0.0
+784,JOB-2026-00784,Senior Data Analyst,Open,2025-01-28,,702,90+ DAYS,49,2,0,1,2.04
+810,JOB-2026-00810,ML Engineer,Open,2025-01-29,,701,90+ DAYS,34,1,0,0,0.0
+932,JOB-2026-00932,Senior Java Developer,Open,2025-02-05,,694,90+ DAYS,30,3,2,0,0.0

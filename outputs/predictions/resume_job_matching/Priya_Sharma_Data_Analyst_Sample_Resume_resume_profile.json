@@ -1,0 +1,39 @@
+{
+    "resume_file": "Priya_Sharma_Data_Analyst_Sample_Resume.pdf",
+    "page_count": 2,
+    "character_count": 3776,
+    "word_count": 481,
+    "text_extraction_status": "SUCCESS",
+    "possible_name": "Priya Sharma",
+    "email": "priya.sharma.demo@example.com",
+    "phone": "202-555-0147",
+    "estimated_experience_years": 4.0,
+    "skills": [
+        "AWS",
+        "Data Analysis",
+        "Excel",
+        "Git",
+        "GitHub",
+        "Google Cloud",
+        "Machine Learning",
+        "MySQL",
+        "NumPy",
+        "Pandas",
+        "PostgreSQL",
+        "Power BI",
+        "Python",
+        "SQL",
+        "Statistics",
+        "Tableau"
+    ],
+    "skill_count": 16,
+    "detected_roles": [
+        "Business Analyst",
+        "Data Analyst"
+    ],
+    "education_keywords": [
+        "B.Tech"
+    ],
+    "location": null,
+    "work_authorization": null
+}

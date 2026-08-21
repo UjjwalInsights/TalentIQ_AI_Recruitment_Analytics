@@ -1,0 +1,287 @@
+"placement_id","offer_id","candidate_id","job_id","placement_date","joining_date","placement_status","department","designation","job_code","job_title","job_status","department_id","end_client_id","vendor_id","location_id","assigned_recruiter_id","offer_date","offered_salary","offer_status","days_to_placement","days_from_placement_to_joining","placement_outcome"
+61,304,1351,828,2026-09-21,2026-10-30,Active,Information Technology,Senior Java Developer,JOB-2026-00828,Senior Java Developer,Closed,6,2,16,19,1,2026-09-14,186000.00,Accepted,51,39,SUCCESSFUL
+268,380,7890,393,2026-09-21,2026-10-28,Active,Data & Analytics,Java Developer,JOB-2026-00393,Java Developer,Open,2,9,17,3,3,2026-09-19,188000.00,Accepted,60,37,SUCCESSFUL
+112,160,2514,508,2026-09-17,2026-10-16,Active,Data & Analytics,ML Engineer,JOB-2026-00508,ML Engineer,Open,2,5,17,5,1,2026-09-12,180000.00,Accepted,48,29,SUCCESSFUL
+79,152,7370,193,2026-09-17,2026-11-09,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00193,Senior Data Analyst,Open,2,10,16,16,1,2026-09-10,155000.00,Accepted,56,53,SUCCESSFUL
+81,406,7869,942,2026-09-17,2026-10-08,Active,Technology,Data Analyst,JOB-2026-00942,Data Analyst,Open,7,8,11,12,4,2026-09-10,186000.00,Accepted,59,21,SUCCESSFUL
+191,162,6845,924,2026-09-17,2026-10-01,Active,Technology,Senior Data Analyst,JOB-2026-00924,Senior Data Analyst,Open,7,21,16,2,1,2026-09-12,136000.00,Accepted,61,14,SUCCESSFUL
+157,489,6408,251,2026-09-16,2026-10-08,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00251,Senior Data Analyst,Filled,2,6,17,8,1,2026-09-12,159000.00,Accepted,47,22,SUCCESSFUL
+223,213,9581,898,2026-09-16,2026-10-19,Active,Information Technology,Full Stack Developer,JOB-2026-00898,Full Stack Developer,Open,6,3,15,13,3,2026-09-12,156000.00,Accepted,47,33,SUCCESSFUL
+153,123,1618,672,2026-09-14,2026-11-02,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00672,Senior Data Analyst,Open,2,23,14,2,4,2026-09-07,119000.00,Accepted,47,49,SUCCESSFUL
+226,283,737,198,2026-09-14,2026-10-29,Active,Data & Analytics,AI Engineer,JOB-2026-00198,AI Engineer,Filled,2,1,12,12,4,2026-09-13,102000.00,Accepted,49,45,SUCCESSFUL
+5,137,9412,563,2026-09-14,2026-09-27,Active,Technology,Senior Java Developer,JOB-2026-00563,Senior Java Developer,Filled,7,10,15,18,2,2026-09-11,183000.00,Accepted,52,13,SUCCESSFUL
+107,40,8621,441,2026-09-14,2026-10-08,Completed Guarantee Period,Data & Analytics,Senior Java Developer,JOB-2026-00441,Senior Java Developer,Open,2,23,14,4,1,2026-09-09,188000.00,Accepted,55,24,SUCCESSFUL
+166,236,541,311,2026-09-12,2026-10-27,Completed Guarantee Period,Information Technology,DevOps Engineer,JOB-2026-00311,DevOps Engineer,Open,6,22,16,13,4,2026-09-09,141000.00,Accepted,43,45,SUCCESSFUL
+263,33,1276,912,2026-09-11,2026-09-25,Completed Guarantee Period,Data & Analytics,ML Engineer,JOB-2026-00912,ML Engineer,Open,2,9,13,7,2,2026-09-10,105000.00,Accepted,43,14,SUCCESSFUL
+262,342,6667,509,2026-09-10,2026-10-11,Completed Guarantee Period,Information Technology,Data Scientist,JOB-2026-00509,Data Scientist,Open,6,6,13,4,4,2026-09-04,111000.00,Accepted,42,31,SUCCESSFUL
+210,226,2280,511,2026-09-09,2026-10-24,Active,Technology,Business Analyst,JOB-2026-00511,Business Analyst,Open,7,7,14,21,1,2026-09-03,116000.00,Accepted,40,45,SUCCESSFUL
+267,207,9604,218,2026-09-09,,Fell Through,Data & Analytics,Senior Data Analyst,JOB-2026-00218,Senior Data Analyst,Open,2,9,14,12,2,2026-09-06,128000.00,Accepted,46,,UNSUCCESSFUL
+41,390,5344,416,2026-09-09,2026-09-27,Active,Technology,AI Engineer,JOB-2026-00416,AI Engineer,Closed,7,21,16,16,3,2026-09-06,111000.00,Accepted,48,18,SUCCESSFUL
+21,403,8014,242,2026-09-09,2026-10-05,Completed Guarantee Period,Information Technology,DevOps Engineer,JOB-2026-00242,DevOps Engineer,Closed,6,22,14,8,3,2026-09-02,159000.00,Accepted,55,26,SUCCESSFUL
+200,17,7948,763,2026-09-08,2026-10-31,Active,Technology,AI Engineer,JOB-2026-00763,AI Engineer,Filled,7,21,17,11,4,2026-09-04,159000.00,Accepted,38,53,SUCCESSFUL
+53,439,4190,755,2026-09-08,,Fell Through,Technology,AI Engineer,JOB-2026-00755,AI Engineer,Open,7,3,17,4,1,2026-09-01,114000.00,Accepted,39,,UNSUCCESSFUL
+236,51,3079,138,2026-09-08,2026-10-30,Active,Technology,Full Stack Developer,JOB-2026-00138,Full Stack Developer,Filled,7,5,17,7,1,2026-09-05,125000.00,Accepted,40,52,SUCCESSFUL
+93,511,2856,921,2026-09-08,2026-11-02,Active,Data & Analytics,Data Analyst,JOB-2026-00921,Data Analyst,Open,2,22,14,21,1,2026-09-05,137000.00,Accepted,40,55,SUCCESSFUL
+181,176,2332,803,2026-09-08,2026-10-15,Active,Data & Analytics,Java Developer,JOB-2026-00803,Java Developer,Filled,2,8,13,6,2,2026-09-05,174000.00,Accepted,40,37,SUCCESSFUL
+120,475,8278,555,2026-09-07,2026-09-29,Completed Guarantee Period,Data & Analytics,Senior Java Developer,JOB-2026-00555,Senior Java Developer,Open,2,7,16,1,3,2026-09-05,76000.00,Accepted,41,22,SUCCESSFUL
+211,467,352,864,2026-09-07,2026-10-31,Active,Technology,Data Scientist,JOB-2026-00864,Data Scientist,Filled,7,4,16,21,3,2026-09-03,185000.00,Accepted,41,54,SUCCESSFUL
+167,464,7882,699,2026-09-07,2026-09-30,Active,Information Technology,Data Scientist,JOB-2026-00699,Data Scientist,Open,6,2,11,20,2,2026-08-31,91000.00,Accepted,42,23,SUCCESSFUL
+24,408,9677,830,2026-09-07,2026-10-02,Active,Information Technology,Senior Java Developer,JOB-2026-00830,Senior Java Developer,Filled,6,1,12,14,3,2026-09-04,141000.00,Accepted,42,25,SUCCESSFUL
+221,459,5864,535,2026-09-06,2026-10-05,Active,Data & Analytics,Full Stack Developer,JOB-2026-00535,Full Stack Developer,Filled,2,8,15,6,4,2026-08-30,184000.00,Accepted,46,29,SUCCESSFUL
+110,547,2037,823,2026-09-05,,Fell Through,Information Technology,Senior Java Developer,JOB-2026-00823,Senior Java Developer,Filled,6,9,14,4,3,2026-09-02,158000.00,Accepted,35,,UNSUCCESSFUL
+36,133,47,301,2026-09-05,2026-10-26,Active,Information Technology,AI Engineer,JOB-2026-00301,AI Engineer,Open,6,23,16,16,2,2026-09-03,115000.00,Accepted,37,51,SUCCESSFUL
+261,254,9474,350,2026-09-04,2026-09-28,Active,Information Technology,DevOps Engineer,JOB-2026-00350,DevOps Engineer,Filled,6,10,17,6,2,2026-09-03,109000.00,Accepted,34,24,SUCCESSFUL
+82,88,8520,803,2026-09-04,2026-10-25,Active,Data & Analytics,Java Developer,JOB-2026-00803,Java Developer,Filled,2,8,13,6,2,2026-08-30,113000.00,Accepted,39,51,SUCCESSFUL
+104,25,6912,703,2026-09-04,2026-10-14,Active,Information Technology,Java Developer,JOB-2026-00703,Java Developer,Closed,6,4,13,17,4,2026-08-30,78000.00,Accepted,44,40,SUCCESSFUL
+29,156,993,260,2026-09-04,2026-09-16,Active,Technology,Senior Java Developer,JOB-2026-00260,Senior Java Developer,Filled,7,10,17,8,4,2026-08-28,160000.00,Accepted,45,12,SUCCESSFUL
+148,225,995,763,2026-09-03,2026-10-05,Active,Technology,AI Engineer,JOB-2026-00763,AI Engineer,Filled,7,21,17,11,4,2026-08-29,85000.00,Accepted,33,32,SUCCESSFUL
+190,95,2775,755,2026-09-03,2026-10-09,Active,Technology,AI Engineer,JOB-2026-00755,AI Engineer,Open,7,3,17,4,1,2026-09-01,141000.00,Accepted,34,36,SUCCESSFUL
+278,211,6958,731,2026-09-03,2026-10-16,Active,Technology,Business Analyst,JOB-2026-00731,Business Analyst,Closed,7,2,16,15,2,2026-08-29,127000.00,Accepted,48,43,SUCCESSFUL
+14,7,5041,671,2026-09-02,2026-10-30,Active,Technology,AI Engineer,JOB-2026-00671,AI Engineer,Closed,7,4,15,4,2,2026-09-01,156000.00,Accepted,32,58,SUCCESSFUL
+183,249,4062,931,2026-09-02,2026-10-13,Active,Technology,Data Analyst,JOB-2026-00931,Data Analyst,Closed,7,2,11,7,3,2026-08-30,159000.00,Accepted,33,41,SUCCESSFUL
+201,72,7829,170,2026-09-02,2026-10-03,Active,Technology,Data Scientist,JOB-2026-00170,Data Scientist,Open,7,7,16,6,2,2026-09-01,143000.00,Accepted,34,31,SUCCESSFUL
+233,222,1401,836,2026-09-02,,Fell Through,Information Technology,Java Developer,JOB-2026-00836,Java Developer,Open,6,3,12,2,4,2026-08-28,84000.00,Accepted,43,,UNSUCCESSFUL
+206,233,7153,346,2026-09-02,2026-10-10,Completed Guarantee Period,Data & Analytics,Business Analyst,JOB-2026-00346,Business Analyst,Filled,2,1,15,15,1,2026-08-27,89000.00,Accepted,49,38,SUCCESSFUL
+168,30,8009,317,2026-09-02,2026-09-12,Active,Information Technology,AI Engineer,JOB-2026-00317,AI Engineer,Filled,6,2,14,1,2,2026-08-27,129000.00,Accepted,52,10,SUCCESSFUL
+127,424,6186,58,2026-09-01,,Fell Through,Technology,Java Developer,JOB-2026-00058,Java Developer,Open,7,22,14,13,4,2026-08-29,141000.00,Accepted,37,,UNSUCCESSFUL
+176,138,8013,508,2026-09-01,2026-10-03,Active,Data & Analytics,ML Engineer,JOB-2026-00508,ML Engineer,Open,2,5,17,5,1,2026-08-27,61000.00,Accepted,47,32,SUCCESSFUL
+100,66,5582,962,2026-08-31,2026-10-01,Completed Guarantee Period,Information Technology,Senior Data Analyst,JOB-2026-00962,Senior Data Analyst,Open,6,6,17,2,1,2026-08-24,103000.00,Accepted,31,31,SUCCESSFUL
+161,504,9573,405,2026-08-31,2026-10-14,Active,Information Technology,Full Stack Developer,JOB-2026-00405,Full Stack Developer,Open,6,6,13,11,2,2026-08-25,77000.00,Accepted,34,44,SUCCESSFUL
+269,189,2856,864,2026-08-31,2026-10-07,Completed Guarantee Period,Technology,Data Scientist,JOB-2026-00864,Data Scientist,Filled,7,4,16,21,3,2026-08-28,126000.00,Accepted,41,37,SUCCESSFUL
+139,183,4217,58,2026-08-30,2026-10-21,Completed Guarantee Period,Technology,Java Developer,JOB-2026-00058,Java Developer,Open,7,22,14,13,4,2026-08-23,137000.00,Accepted,43,52,SUCCESSFUL
+150,531,3373,430,2026-08-30,2026-09-25,Active,Data & Analytics,ML Engineer,JOB-2026-00430,ML Engineer,Filled,2,3,15,12,3,2026-08-23,163000.00,Accepted,44,26,SUCCESSFUL
+276,433,9321,755,2026-08-29,2026-10-18,Completed Guarantee Period,Technology,AI Engineer,JOB-2026-00755,AI Engineer,Open,7,3,17,4,1,2026-08-27,100000.00,Accepted,28,50,SUCCESSFUL
+255,105,5249,811,2026-08-28,2026-09-09,Active,Data & Analytics,Data Scientist,JOB-2026-00811,Data Scientist,Closed,2,21,12,6,4,2026-08-23,84000.00,Accepted,39,12,SUCCESSFUL
+3,362,9760,84,2026-08-27,2026-09-16,Active,Data & Analytics,DevOps Engineer,JOB-2026-00084,DevOps Engineer,Open,2,22,11,1,4,2026-08-23,145000.00,Accepted,28,20,SUCCESSFUL
+98,525,785,489,2026-08-27,2026-10-12,Active,Technology,ML Engineer,JOB-2026-00489,ML Engineer,Open,7,2,15,4,2,2026-08-20,137000.00,Accepted,35,46,SUCCESSFUL
+216,538,1660,640,2026-08-27,2026-09-14,Active,Technology,AI Engineer,JOB-2026-00640,AI Engineer,Filled,7,4,13,19,1,2026-08-25,115000.00,Accepted,39,18,SUCCESSFUL
+185,411,2227,881,2026-08-25,2026-09-21,Active,Information Technology,Senior Java Developer,JOB-2026-00881,Senior Java Developer,Open,6,22,14,15,1,2026-08-24,148000.00,Accepted,32,27,SUCCESSFUL
+115,101,8581,224,2026-08-25,2026-09-20,Completed Guarantee Period,Data & Analytics,Java Developer,JOB-2026-00224,Java Developer,Open,2,23,13,9,3,2026-08-22,137000.00,Accepted,47,26,SUCCESSFUL
+189,458,8025,806,2026-08-25,2026-09-05,Active,Data & Analytics,Business Analyst,JOB-2026-00806,Business Analyst,Open,2,23,14,12,1,2026-08-20,102000.00,Accepted,50,11,SUCCESSFUL
+140,131,1016,396,2026-08-24,2026-10-13,Completed Guarantee Period,Information Technology,DevOps Engineer,JOB-2026-00396,DevOps Engineer,Open,6,21,11,20,4,2026-08-19,184000.00,Accepted,42,50,SUCCESSFUL
+249,499,2319,148,2026-08-23,2026-09-14,Active,Information Technology,Java Developer,JOB-2026-00148,Java Developer,Open,6,6,15,15,4,2026-08-22,122000.00,Accepted,33,22,SUCCESSFUL
+182,435,499,308,2026-08-22,2026-09-29,Active,Data & Analytics,Data Scientist,JOB-2026-00308,Data Scientist,Closed,2,8,14,18,3,2026-08-19,180000.00,Accepted,27,38,SUCCESSFUL
+129,460,5198,298,2026-08-22,2026-10-08,Active,Data & Analytics,Business Analyst,JOB-2026-00298,Business Analyst,Open,2,10,12,17,1,2026-08-15,157000.00,Accepted,37,47,SUCCESSFUL
+228,35,2590,63,2026-08-22,2026-10-13,Active,Data & Analytics,ML Engineer,JOB-2026-00063,ML Engineer,Closed,2,8,13,21,3,2026-08-16,77000.00,Accepted,42,52,SUCCESSFUL
+15,376,6139,982,2026-08-22,2026-09-15,Active,Data & Analytics,Full Stack Developer,JOB-2026-00982,Full Stack Developer,Filled,2,9,11,13,2,2026-08-18,109000.00,Accepted,53,24,SUCCESSFUL
+119,187,1297,439,2026-08-22,2026-10-05,Completed Guarantee Period,Information Technology,Full Stack Developer,JOB-2026-00439,Full Stack Developer,Filled,6,8,15,4,1,2026-08-15,187000.00,Accepted,66,44,SUCCESSFUL
+132,214,5487,440,2026-08-21,,Fell Through,Data & Analytics,Data Scientist,JOB-2026-00440,Data Scientist,Filled,2,2,12,16,4,2026-08-16,185000.00,Accepted,49,,UNSUCCESSFUL
+145,79,456,198,2026-08-20,2026-09-26,Active,Data & Analytics,AI Engineer,JOB-2026-00198,AI Engineer,Filled,2,1,12,12,4,2026-08-14,161000.00,Accepted,32,37,SUCCESSFUL
+49,235,8,148,2026-08-19,2026-09-21,Active,Information Technology,Java Developer,JOB-2026-00148,Java Developer,Open,6,6,15,15,4,2026-08-15,164000.00,Accepted,28,33,SUCCESSFUL
+2,562,6516,196,2026-08-19,2026-09-10,Active,Data & Analytics,Senior Java Developer,JOB-2026-00196,Senior Java Developer,Closed,2,6,12,19,3,2026-08-12,140000.00,Accepted,36,22,SUCCESSFUL
+28,332,4091,534,2026-08-19,2026-09-02,Active,Technology,AI Engineer,JOB-2026-00534,AI Engineer,Open,7,1,16,5,3,2026-08-17,116000.00,Accepted,45,14,SUCCESSFUL
+1,97,793,695,2026-08-18,2026-10-05,Completed Guarantee Period,Data & Analytics,Full Stack Developer,JOB-2026-00695,Full Stack Developer,Closed,2,6,15,15,3,2026-08-17,97000.00,Accepted,49,48,SUCCESSFUL
+67,165,8088,499,2026-08-17,,Fell Through,Information Technology,DevOps Engineer,JOB-2026-00499,DevOps Engineer,Open,6,23,13,4,4,2026-08-16,106000.00,Accepted,42,,UNSUCCESSFUL
+142,119,7746,248,2026-08-15,2026-10-05,Active,Technology,Java Developer,JOB-2026-00248,Java Developer,Open,7,6,16,5,4,2026-08-10,62000.00,Accepted,45,51,SUCCESSFUL
+37,228,1668,546,2026-08-14,2026-08-27,Completed Guarantee Period,Information Technology,Senior Java Developer,JOB-2026-00546,Senior Java Developer,Filled,6,10,15,19,3,2026-08-10,187000.00,Accepted,40,13,SUCCESSFUL
+274,108,8283,309,2026-08-12,2026-09-12,Completed Guarantee Period,Data & Analytics,Business Analyst,JOB-2026-00309,Business Analyst,Filled,2,6,14,3,2,2026-08-08,82000.00,Accepted,47,31,SUCCESSFUL
+156,73,7967,757,2026-08-12,2026-09-05,Active,Technology,Data Analyst,JOB-2026-00757,Data Analyst,Open,7,21,12,15,3,2026-08-08,140000.00,Accepted,48,24,SUCCESSFUL
+208,544,1467,962,2026-08-11,2026-09-07,Active,Information Technology,Senior Data Analyst,JOB-2026-00962,Senior Data Analyst,Open,6,6,17,2,1,2026-08-06,180000.00,Accepted,40,27,SUCCESSFUL
+257,374,7610,314,2026-08-11,2026-09-11,Completed Guarantee Period,Information Technology,Data Scientist,JOB-2026-00314,Data Scientist,Filled,6,6,14,11,1,2026-08-05,189000.00,Accepted,43,31,SUCCESSFUL
+280,4,6491,541,2026-08-11,2026-10-02,Completed Guarantee Period,Information Technology,Senior Java Developer,JOB-2026-00541,Senior Java Developer,Closed,6,23,14,11,4,2026-08-05,149000.00,Accepted,45,52,SUCCESSFUL
+271,319,2375,957,2026-08-11,2026-08-31,Completed Guarantee Period,Data & Analytics,DevOps Engineer,JOB-2026-00957,DevOps Engineer,Closed,2,10,16,16,2,2026-08-08,157000.00,Accepted,46,20,SUCCESSFUL
+19,360,7066,884,2026-08-10,2026-09-20,Active,Technology,Senior Java Developer,JOB-2026-00884,Senior Java Developer,Filled,7,9,17,7,2,2026-08-04,154000.00,Accepted,40,41,SUCCESSFUL
+20,241,7104,545,2026-08-09,2026-09-10,Active,Information Technology,ML Engineer,JOB-2026-00545,ML Engineer,Closed,6,6,17,13,4,2026-08-04,150000.00,Accepted,51,32,SUCCESSFUL
+95,474,1610,724,2026-08-08,2026-09-24,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00724,Senior Data Analyst,Closed,2,1,14,12,1,2026-08-02,145000.00,Accepted,32,47,SUCCESSFUL
+186,400,1725,725,2026-08-08,2026-09-27,Active,Information Technology,Business Analyst,JOB-2026-00725,Business Analyst,Filled,6,5,17,5,4,2026-08-07,108000.00,Accepted,42,50,SUCCESSFUL
+192,84,5524,752,2026-08-07,2026-10-02,Active,Technology,ML Engineer,JOB-2026-00752,ML Engineer,Filled,7,1,11,4,2,2026-08-03,105000.00,Accepted,35,56,SUCCESSFUL
+260,401,7194,772,2026-08-06,2026-09-04,Active,Technology,Senior Data Analyst,JOB-2026-00772,Senior Data Analyst,Closed,7,10,12,6,4,2026-08-04,186000.00,Accepted,54,29,SUCCESSFUL
+60,345,7329,751,2026-08-05,2026-09-03,Active,Data & Analytics,DevOps Engineer,JOB-2026-00751,DevOps Engineer,Open,2,21,17,2,2,2026-08-03,186000.00,Accepted,37,29,SUCCESSFUL
+170,258,4299,408,2026-08-05,2026-09-08,Active,Data & Analytics,Data Analyst,JOB-2026-00408,Data Analyst,Open,2,9,14,4,4,2026-07-30,158000.00,Accepted,48,34,SUCCESSFUL
+4,60,7850,627,2026-08-04,,Fell Through,Technology,Full Stack Developer,JOB-2026-00627,Full Stack Developer,Open,7,1,15,21,3,2026-07-29,105000.00,Accepted,24,,UNSUCCESSFUL
+42,470,9046,138,2026-08-04,2026-09-18,Active,Technology,Full Stack Developer,JOB-2026-00138,Full Stack Developer,Filled,7,5,17,7,1,2026-07-30,159000.00,Accepted,52,45,SUCCESSFUL
+204,557,3563,209,2026-08-03,2026-08-20,Active,Technology,AI Engineer,JOB-2026-00209,AI Engineer,Open,7,10,12,11,2,2026-07-29,174000.00,Accepted,40,17,SUCCESSFUL
+286,321,8782,410,2026-08-02,,Fell Through,Technology,Data Scientist,JOB-2026-00410,Data Scientist,Filled,7,21,11,11,4,2026-07-26,178000.00,Accepted,43,,UNSUCCESSFUL
+155,86,9399,762,2026-08-01,2026-08-18,Active,Technology,AI Engineer,JOB-2026-00762,AI Engineer,Closed,7,6,15,9,4,2026-07-30,84000.00,Accepted,50,17,SUCCESSFUL
+147,512,5032,859,2026-07-30,,Fell Through,Information Technology,Full Stack Developer,JOB-2026-00859,Full Stack Developer,Closed,6,23,14,6,3,2026-07-23,117000.00,Accepted,43,,UNSUCCESSFUL
+117,8,305,659,2026-07-29,2026-08-30,Active,Information Technology,ML Engineer,JOB-2026-00659,ML Engineer,Open,6,23,13,11,3,2026-07-25,160000.00,Accepted,39,32,SUCCESSFUL
+224,23,8326,206,2026-07-28,2026-08-16,Active,Data & Analytics,DevOps Engineer,JOB-2026-00206,DevOps Engineer,Open,2,1,13,1,2,2026-07-25,104000.00,Accepted,56,19,SUCCESSFUL
+39,146,1348,509,2026-07-27,2026-09-12,Active,Information Technology,Data Scientist,JOB-2026-00509,Data Scientist,Open,6,6,13,4,4,2026-07-22,117000.00,Accepted,35,47,SUCCESSFUL
+220,242,41,787,2026-07-26,2026-08-28,Completed Guarantee Period,Information Technology,Data Scientist,JOB-2026-00787,Data Scientist,Closed,6,21,16,14,4,2026-07-20,179000.00,Accepted,47,33,SUCCESSFUL
+22,229,5395,386,2026-07-26,2026-08-06,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00386,Senior Data Analyst,Open,2,21,15,17,2,2026-07-20,134000.00,Accepted,52,11,SUCCESSFUL
+265,191,7304,811,2026-07-24,2026-08-19,Active,Data & Analytics,Data Scientist,JOB-2026-00811,Data Scientist,Closed,2,21,12,6,4,2026-07-19,150000.00,Accepted,46,26,SUCCESSFUL
+128,273,7474,246,2026-07-23,2026-09-17,Active,Information Technology,Data Scientist,JOB-2026-00246,Data Scientist,Closed,6,7,17,20,3,2026-07-20,75000.00,Accepted,42,56,SUCCESSFUL
+149,81,7681,736,2026-07-23,2026-09-01,Active,Information Technology,Java Developer,JOB-2026-00736,Java Developer,Filled,6,3,16,5,1,2026-07-18,92000.00,Accepted,52,40,SUCCESSFUL
+180,121,7683,930,2026-07-21,2026-08-30,Active,Information Technology,Java Developer,JOB-2026-00930,Java Developer,Filled,6,8,14,8,3,2026-07-19,149000.00,Accepted,39,40,SUCCESSFUL
+273,167,2805,955,2026-07-20,2026-08-02,Active,Technology,AI Engineer,JOB-2026-00955,AI Engineer,Filled,7,8,15,21,4,2026-07-19,121000.00,Accepted,48,13,SUCCESSFUL
+254,306,6958,575,2026-07-19,2026-09-04,Active,Data & Analytics,Java Developer,JOB-2026-00575,Java Developer,Open,2,8,14,12,1,2026-07-17,101000.00,Accepted,54,47,SUCCESSFUL
+69,343,6900,442,2026-07-18,2026-09-10,Active,Technology,Senior Data Analyst,JOB-2026-00442,Senior Data Analyst,Open,7,5,15,3,1,2026-07-16,84000.00,Accepted,34,54,SUCCESSFUL
+152,373,2774,551,2026-07-17,2026-08-27,Active,Information Technology,Senior Data Analyst,JOB-2026-00551,Senior Data Analyst,Filled,6,3,17,20,1,2026-07-14,60000.00,Accepted,43,41,SUCCESSFUL
+56,177,7585,295,2026-07-17,2026-08-31,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00295,Senior Data Analyst,Closed,2,22,17,8,3,2026-07-10,135000.00,Accepted,53,45,SUCCESSFUL
+12,143,9264,88,2026-07-16,2026-08-04,Active,Information Technology,Business Analyst,JOB-2026-00088,Business Analyst,Closed,6,5,17,19,3,2026-07-15,117000.00,Accepted,28,19,SUCCESSFUL
+84,62,5431,748,2026-07-14,2026-08-21,Active,Information Technology,Data Analyst,JOB-2026-00748,Data Analyst,Open,6,7,12,18,2,2026-07-13,110000.00,Accepted,37,38,SUCCESSFUL
+283,24,8536,629,2026-07-13,2026-08-22,Active,Information Technology,Data Scientist,JOB-2026-00629,Data Scientist,Filled,6,6,11,20,1,2026-07-11,154000.00,Accepted,31,40,SUCCESSFUL
+217,399,606,492,2026-07-13,,Fell Through,Data & Analytics,Data Scientist,JOB-2026-00492,Data Scientist,Filled,2,6,13,3,2,2026-07-09,106000.00,Accepted,32,,UNSUCCESSFUL
+177,493,969,551,2026-07-13,2026-09-05,Active,Information Technology,Senior Data Analyst,JOB-2026-00551,Senior Data Analyst,Filled,6,3,17,20,1,2026-07-11,111000.00,Accepted,36,54,SUCCESSFUL
+143,423,1393,361,2026-07-12,2026-08-11,Active,Technology,Data Analyst,JOB-2026-00361,Data Analyst,Closed,7,2,17,11,3,2026-07-09,99000.00,Accepted,28,30,SUCCESSFUL
+27,178,5922,746,2026-07-12,2026-07-20,Completed Guarantee Period,Technology,ML Engineer,JOB-2026-00746,ML Engineer,Open,7,8,13,12,1,2026-07-05,126000.00,Accepted,47,8,SUCCESSFUL
+218,218,3867,206,2026-07-11,2026-08-10,Active,Data & Analytics,DevOps Engineer,JOB-2026-00206,DevOps Engineer,Open,2,1,13,1,2,2026-07-08,80000.00,Accepted,30,30,SUCCESSFUL
+91,251,7069,40,2026-07-11,,Fell Through,Data & Analytics,Senior Data Analyst,JOB-2026-00040,Senior Data Analyst,Closed,2,21,17,5,4,2026-07-06,130000.00,Accepted,32,,UNSUCCESSFUL
+50,2,19,671,2026-07-11,2026-08-09,Active,Technology,AI Engineer,JOB-2026-00671,AI Engineer,Closed,7,4,15,4,2,2026-07-08,157000.00,Accepted,42,29,SUCCESSFUL
+40,384,2862,575,2026-07-10,2026-07-25,Active,Data & Analytics,Java Developer,JOB-2026-00575,Java Developer,Open,2,8,14,12,1,2026-07-07,140000.00,Accepted,22,15,SUCCESSFUL
+279,326,8860,384,2026-07-10,,Fell Through,Technology,Java Developer,JOB-2026-00384,Java Developer,Closed,7,8,16,13,2,2026-07-07,180000.00,Accepted,40,,UNSUCCESSFUL
+214,27,9824,444,2026-07-08,2026-08-16,Active,Technology,Data Scientist,JOB-2026-00444,Data Scientist,Open,7,7,14,19,1,2026-07-03,110000.00,Accepted,29,39,SUCCESSFUL
+121,447,8247,804,2026-07-08,2026-08-07,Active,Technology,Data Analyst,JOB-2026-00804,Data Analyst,Filled,7,23,12,17,4,2026-07-07,183000.00,Accepted,54,30,SUCCESSFUL
+23,536,9283,457,2026-07-07,2026-08-31,Active,Technology,Senior Java Developer,JOB-2026-00457,Senior Java Developer,Filled,7,6,15,16,4,2026-07-05,124000.00,Accepted,40,55,SUCCESSFUL
+34,96,4840,608,2026-07-06,2026-08-15,Active,Data & Analytics,Java Developer,JOB-2026-00608,Java Developer,Open,2,8,15,5,4,2026-07-05,157000.00,Accepted,50,40,SUCCESSFUL
+207,127,266,772,2026-07-05,2026-08-05,Active,Technology,Senior Data Analyst,JOB-2026-00772,Senior Data Analyst,Closed,7,10,12,6,4,2026-07-02,173000.00,Accepted,31,31,SUCCESSFUL
+46,564,7707,181,2026-07-03,,Fell Through,Data & Analytics,Full Stack Developer,JOB-2026-00181,Full Stack Developer,Filled,2,6,17,18,1,2026-06-28,171000.00,Accepted,47,,UNSUCCESSFUL
+197,436,3690,811,2026-07-02,2026-08-25,Active,Data & Analytics,Data Scientist,JOB-2026-00811,Data Scientist,Closed,2,21,12,6,4,2026-06-30,150000.00,Accepted,32,54,SUCCESSFUL
+125,393,7992,187,2026-07-02,2026-07-29,Active,Data & Analytics,AI Engineer,JOB-2026-00187,AI Engineer,Closed,2,6,17,8,2,2026-06-29,159000.00,Accepted,35,27,SUCCESSFUL
+114,366,2939,344,2026-07-01,2026-08-09,Active,Information Technology,Full Stack Developer,JOB-2026-00344,Full Stack Developer,Closed,6,8,14,6,2,2026-06-25,146000.00,Accepted,40,39,SUCCESSFUL
+199,297,7268,605,2026-07-01,2026-08-03,Active,Data & Analytics,Senior Java Developer,JOB-2026-00605,Senior Java Developer,Filled,2,6,11,11,4,2026-06-27,148000.00,Accepted,46,33,SUCCESSFUL
+92,68,4080,567,2026-06-29,2026-07-15,Active,Information Technology,Business Analyst,JOB-2026-00567,Business Analyst,Filled,6,7,16,17,1,2026-06-28,157000.00,Accepted,39,16,SUCCESSFUL
+259,151,2885,558,2026-06-29,2026-08-09,Active,Data & Analytics,Data Analyst,JOB-2026-00558,Data Analyst,Closed,2,10,11,5,1,2026-06-23,117000.00,Accepted,42,41,SUCCESSFUL
+244,528,6239,364,2026-06-27,2026-07-17,Active,Data & Analytics,Data Analyst,JOB-2026-00364,Data Analyst,Closed,2,22,13,19,1,2026-06-22,131000.00,Accepted,45,20,SUCCESSFUL
+205,445,3456,943,2026-06-26,2026-08-15,Active,Data & Analytics,AI Engineer,JOB-2026-00943,AI Engineer,Closed,2,8,11,11,4,2026-06-24,83000.00,Accepted,34,50,SUCCESSFUL
+88,82,9715,851,2026-06-25,2026-07-25,Active,Information Technology,Business Analyst,JOB-2026-00851,Business Analyst,Filled,6,3,11,9,3,2026-06-19,83000.00,Accepted,39,30,SUCCESSFUL
+172,520,8113,835,2026-06-25,2026-07-30,Active,Technology,Senior Java Developer,JOB-2026-00835,Senior Java Developer,Closed,7,5,12,21,1,2026-06-20,130000.00,Accepted,45,35,SUCCESSFUL
+160,141,7071,281,2026-06-25,2026-07-19,Active,Information Technology,AI Engineer,JOB-2026-00281,AI Engineer,Closed,6,3,16,1,4,2026-06-19,120000.00,Accepted,47,24,SUCCESSFUL
+173,132,3739,113,2026-06-24,2026-08-17,Completed Guarantee Period,Technology,DevOps Engineer,JOB-2026-00113,DevOps Engineer,Open,7,21,13,17,1,2026-06-21,114000.00,Accepted,33,54,SUCCESSFUL
+227,415,6308,195,2026-06-22,2026-08-16,Active,Technology,Senior Java Developer,JOB-2026-00195,Senior Java Developer,Open,7,2,15,4,3,2026-06-20,137000.00,Accepted,44,55,SUCCESSFUL
+158,476,1307,364,2026-06-20,2026-07-21,Active,Data & Analytics,Data Analyst,JOB-2026-00364,Data Analyst,Closed,2,22,13,19,1,2026-06-14,185000.00,Accepted,34,31,SUCCESSFUL
+131,190,5199,425,2026-06-20,2026-07-19,Active,Information Technology,DevOps Engineer,JOB-2026-00425,DevOps Engineer,Closed,6,7,12,19,4,2026-06-17,78000.00,Accepted,40,29,SUCCESSFUL
+151,318,7965,293,2026-06-19,2026-08-13,Completed Guarantee Period,Information Technology,AI Engineer,JOB-2026-00293,AI Engineer,Open,6,7,15,18,1,2026-06-17,103000.00,Accepted,36,55,SUCCESSFUL
+122,505,4595,894,2026-06-18,2026-07-21,Active,Information Technology,AI Engineer,JOB-2026-00894,AI Engineer,Closed,6,1,16,3,1,2026-06-14,107000.00,Accepted,49,33,SUCCESSFUL
+70,461,8763,902,2026-06-18,2026-07-04,Active,Technology,Senior Java Developer,JOB-2026-00902,Senior Java Developer,Closed,7,5,13,15,1,2026-06-11,173000.00,Accepted,52,16,SUCCESSFUL
+94,284,9612,767,2026-06-17,2026-07-05,Active,Technology,Senior Java Developer,JOB-2026-00767,Senior Java Developer,Filled,7,22,14,20,2,2026-06-16,186000.00,Accepted,34,18,SUCCESSFUL
+141,282,4991,337,2026-06-17,2026-07-03,Active,Information Technology,ML Engineer,JOB-2026-00337,ML Engineer,Open,6,21,13,4,3,2026-06-14,158000.00,Accepted,42,16,SUCCESSFUL
+105,237,8139,471,2026-06-16,2026-08-06,Active,Data & Analytics,Data Scientist,JOB-2026-00471,Data Scientist,Closed,2,1,14,18,3,2026-06-14,80000.00,Accepted,43,51,SUCCESSFUL
+174,482,8647,265,2026-06-15,2026-07-21,Active,Information Technology,Senior Data Analyst,JOB-2026-00265,Senior Data Analyst,Filled,6,9,17,16,4,2026-06-14,117000.00,Accepted,39,36,SUCCESSFUL
+250,277,2344,35,2026-06-13,2026-07-12,Active,Technology,Senior Java Developer,JOB-2026-00035,Senior Java Developer,Filled,7,3,17,5,4,2026-06-09,88000.00,Accepted,45,29,SUCCESSFUL
+284,513,4613,733,2026-06-12,2026-07-10,Active,Data & Analytics,Data Scientist,JOB-2026-00733,Data Scientist,Open,2,7,15,19,2,2026-06-06,91000.00,Accepted,50,28,SUCCESSFUL
+33,61,4441,44,2026-06-11,2026-07-28,Active,Technology,DevOps Engineer,JOB-2026-00044,DevOps Engineer,Open,7,22,12,4,3,2026-06-07,169000.00,Accepted,43,47,SUCCESSFUL
+111,290,2092,81,2026-06-10,2026-06-25,Completed Guarantee Period,Technology,Data Analyst,JOB-2026-00081,Data Analyst,Open,7,6,13,19,3,2026-06-07,146000.00,Accepted,40,15,SUCCESSFUL
+235,365,4288,834,2026-06-08,,Fell Through,Data & Analytics,AI Engineer,JOB-2026-00834,AI Engineer,Closed,2,2,17,16,3,2026-06-02,141000.00,Accepted,39,,UNSUCCESSFUL
+239,471,9763,976,2026-06-08,2026-07-05,Active,Technology,DevOps Engineer,JOB-2026-00976,DevOps Engineer,Closed,7,10,16,9,4,2026-06-07,140000.00,Accepted,45,27,SUCCESSFUL
+116,153,7397,184,2026-06-07,2026-06-18,Active,Technology,Data Analyst,JOB-2026-00184,Data Analyst,Filled,7,4,14,5,1,2026-06-04,121000.00,Accepted,42,11,SUCCESSFUL
+59,397,6340,285,2026-06-07,2026-07-06,Completed Guarantee Period,Data & Analytics,DevOps Engineer,JOB-2026-00285,DevOps Engineer,Filled,2,4,17,13,4,2026-06-04,154000.00,Accepted,52,29,SUCCESSFUL
+264,398,4681,882,2026-06-06,2026-06-26,Active,Technology,Full Stack Developer,JOB-2026-00882,Full Stack Developer,Open,7,21,16,10,4,2026-06-01,140000.00,Accepted,48,20,SUCCESSFUL
+242,260,1687,954,2026-06-01,2026-07-06,Active,Information Technology,DevOps Engineer,JOB-2026-00954,DevOps Engineer,Filled,6,4,17,14,3,2026-05-30,126000.00,Accepted,38,35,SUCCESSFUL
+275,371,6335,248,2026-05-31,2026-07-27,Active,Technology,Java Developer,JOB-2026-00248,Java Developer,Open,7,6,16,5,4,2026-05-30,75000.00,Accepted,41,57,SUCCESSFUL
+134,508,5057,910,2026-05-31,2026-06-28,Active,Data & Analytics,AI Engineer,JOB-2026-00910,AI Engineer,Closed,2,6,17,15,4,2026-05-26,153000.00,Accepted,57,28,SUCCESSFUL
+248,113,6243,103,2026-05-30,2026-07-22,Active,Data & Analytics,Data Scientist,JOB-2026-00103,Data Scientist,Filled,2,6,13,18,4,2026-05-24,140000.00,Accepted,43,53,SUCCESSFUL
+43,396,3571,969,2026-05-30,2026-06-26,Active,Data & Analytics,Data Analyst,JOB-2026-00969,Data Analyst,Closed,2,8,14,14,1,2026-05-28,171000.00,Accepted,46,27,SUCCESSFUL
+106,92,531,21,2026-05-29,2026-07-04,Active,Technology,ML Engineer,JOB-2026-00021,ML Engineer,Closed,7,1,11,5,3,2026-05-24,173000.00,Accepted,39,36,SUCCESSFUL
+13,347,6458,638,2026-05-28,2026-07-19,Completed Guarantee Period,Technology,ML Engineer,JOB-2026-00638,ML Engineer,Closed,7,4,14,18,2,2026-05-22,171000.00,Accepted,37,52,SUCCESSFUL
+18,98,8423,282,2026-05-28,,Fell Through,Information Technology,Data Analyst,JOB-2026-00282,Data Analyst,Closed,6,10,15,10,1,2026-05-27,110000.00,Accepted,49,,UNSUCCESSFUL
+6,163,782,666,2026-05-27,2026-07-12,Completed Guarantee Period,Data & Analytics,AI Engineer,JOB-2026-00666,AI Engineer,Filled,2,6,11,1,2,2026-05-23,116000.00,Accepted,39,46,SUCCESSFUL
+10,200,9604,882,2026-05-27,,Fell Through,Technology,Full Stack Developer,JOB-2026-00882,Full Stack Developer,Open,7,21,16,10,4,2026-05-20,126000.00,Accepted,44,,UNSUCCESSFUL
+164,391,2148,61,2026-05-26,2026-07-02,Active,Information Technology,AI Engineer,JOB-2026-00061,AI Engineer,Filled,6,3,16,1,3,2026-05-19,143000.00,Accepted,37,37,SUCCESSFUL
+159,275,1626,664,2026-05-26,2026-07-03,Completed Guarantee Period,Technology,Senior Data Analyst,JOB-2026-00664,Senior Data Analyst,Filled,7,2,14,7,1,2026-05-21,114000.00,Accepted,40,38,SUCCESSFUL
+64,298,3710,809,2026-05-25,2026-06-08,Active,Technology,AI Engineer,JOB-2026-00809,AI Engineer,Open,7,21,13,15,4,2026-05-21,189000.00,Accepted,35,14,SUCCESSFUL
+103,522,5008,785,2026-05-25,2026-06-17,Active,Information Technology,Data Scientist,JOB-2026-00785,Data Scientist,Open,6,7,16,14,2,2026-05-23,153000.00,Accepted,39,23,SUCCESSFUL
+229,184,3519,702,2026-05-25,2026-06-08,Active,Technology,Senior Java Developer,JOB-2026-00702,Senior Java Developer,Open,7,8,11,1,4,2026-05-20,172000.00,Accepted,40,14,SUCCESSFUL
+86,120,628,357,2026-05-22,2026-06-23,Active,Data & Analytics,Business Analyst,JOB-2026-00357,Business Analyst,Closed,2,2,16,20,2,2026-05-16,184000.00,Accepted,49,32,SUCCESSFUL
+77,301,9999,724,2026-05-20,2026-07-16,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00724,Senior Data Analyst,Closed,2,1,14,12,1,2026-05-18,136000.00,Accepted,46,57,SUCCESSFUL
+32,26,5036,360,2026-05-16,2026-07-08,Active,Technology,Senior Java Developer,JOB-2026-00360,Senior Java Developer,Filled,7,9,11,19,2,2026-05-14,167000.00,Accepted,48,53,SUCCESSFUL
+71,444,501,555,2026-05-15,2026-06-04,Active,Data & Analytics,Senior Java Developer,JOB-2026-00555,Senior Java Developer,Open,2,7,16,1,3,2026-05-08,80000.00,Accepted,60,20,SUCCESSFUL
+31,327,9181,667,2026-05-11,2026-06-12,Active,Technology,ML Engineer,JOB-2026-00667,ML Engineer,Filled,7,22,17,14,4,2026-05-10,169000.00,Accepted,31,32,SUCCESSFUL
+234,333,4328,622,2026-05-11,2026-06-07,Completed Guarantee Period,Technology,Data Analyst,JOB-2026-00622,Data Analyst,Closed,7,23,15,13,1,2026-05-06,149000.00,Accepted,46,27,SUCCESSFUL
+232,330,4047,234,2026-05-10,2026-06-19,Active,Information Technology,Java Developer,JOB-2026-00234,Java Developer,Closed,6,10,15,16,1,2026-05-03,187000.00,Accepted,39,40,SUCCESSFUL
+202,523,8833,503,2026-05-10,2026-06-28,Active,Information Technology,Business Analyst,JOB-2026-00503,Business Analyst,Filled,6,1,11,3,3,2026-05-04,160000.00,Accepted,42,49,SUCCESSFUL
+188,206,6909,544,2026-05-08,,Fell Through,Information Technology,Java Developer,JOB-2026-00544,Java Developer,Filled,6,1,17,1,4,2026-05-04,190000.00,Accepted,37,,UNSUCCESSFUL
+175,457,135,924,2026-05-08,,Fell Through,Technology,Senior Data Analyst,JOB-2026-00924,Senior Data Analyst,Open,7,21,16,2,1,2026-05-01,128000.00,Accepted,48,,UNSUCCESSFUL
+62,420,3249,93,2026-05-07,2026-06-17,Active,Information Technology,DevOps Engineer,JOB-2026-00093,DevOps Engineer,Open,6,4,13,7,4,2026-05-06,113000.00,Accepted,36,41,SUCCESSFUL
+237,305,4649,271,2026-05-06,2026-06-30,Active,Technology,Java Developer,JOB-2026-00271,Java Developer,Open,7,5,12,6,1,2026-05-05,127000.00,Accepted,45,55,SUCCESSFUL
+246,54,8835,878,2026-05-06,2026-06-10,Completed Guarantee Period,Information Technology,DevOps Engineer,JOB-2026-00878,DevOps Engineer,Open,6,4,11,6,4,2026-05-02,141000.00,Accepted,50,35,SUCCESSFUL
+178,147,5393,322,2026-05-03,2026-05-19,Active,Information Technology,DevOps Engineer,JOB-2026-00322,DevOps Engineer,Open,6,9,16,2,1,2026-04-27,66000.00,Accepted,40,16,SUCCESSFUL
+44,239,6066,500,2026-05-01,2026-05-23,Active,Technology,Data Scientist,JOB-2026-00500,Data Scientist,Closed,7,9,15,9,4,2026-04-27,113000.00,Accepted,48,22,SUCCESSFUL
+282,21,8788,197,2026-04-29,2026-05-20,Active,Information Technology,AI Engineer,JOB-2026-00197,AI Engineer,Open,6,9,13,11,1,2026-04-22,145000.00,Accepted,32,21,SUCCESSFUL
+252,509,4902,503,2026-04-27,2026-05-23,Completed Guarantee Period,Information Technology,Business Analyst,JOB-2026-00503,Business Analyst,Filled,6,1,11,3,3,2026-04-26,170000.00,Accepted,40,26,SUCCESSFUL
+11,279,5417,482,2026-04-27,2026-05-17,Active,Information Technology,Senior Java Developer,JOB-2026-00482,Senior Java Developer,Closed,6,22,16,10,4,2026-04-26,157000.00,Accepted,57,20,SUCCESSFUL
+47,63,8518,622,2026-04-26,2026-05-14,Completed Guarantee Period,Technology,Data Analyst,JOB-2026-00622,Data Analyst,Closed,7,23,15,13,1,2026-04-23,185000.00,Accepted,53,18,SUCCESSFUL
+83,130,9412,835,2026-04-24,2026-06-04,Active,Technology,Senior Java Developer,JOB-2026-00835,Senior Java Developer,Closed,7,5,12,21,1,2026-04-20,136000.00,Accepted,36,41,SUCCESSFUL
+87,313,3745,552,2026-04-15,2026-05-22,Active,Technology,Data Analyst,JOB-2026-00552,Data Analyst,Filled,7,9,12,2,4,2026-04-12,172000.00,Accepted,52,37,SUCCESSFUL
+113,293,7687,740,2026-04-13,2026-05-14,Active,Information Technology,Data Analyst,JOB-2026-00740,Data Analyst,Closed,6,9,12,10,4,2026-04-11,117000.00,Accepted,44,31,SUCCESSFUL
+97,427,7402,990,2026-04-12,2026-05-25,Active,Data & Analytics,AI Engineer,JOB-2026-00990,AI Engineer,Filled,2,3,15,19,3,2026-04-11,101000.00,Accepted,32,43,SUCCESSFUL
+65,315,3945,559,2026-04-11,2026-06-01,Active,Data & Analytics,AI Engineer,JOB-2026-00559,AI Engineer,Open,2,23,17,17,1,2026-04-08,137000.00,Accepted,33,51,SUCCESSFUL
+171,243,5276,310,2026-04-11,2026-05-01,Completed Guarantee Period,Information Technology,Data Analyst,JOB-2026-00310,Data Analyst,Closed,6,8,17,10,4,2026-04-04,101000.00,Accepted,36,20,SUCCESSFUL
+203,264,9887,606,2026-04-10,,Fell Through,Technology,Senior Data Analyst,JOB-2026-00606,Senior Data Analyst,Filled,7,2,14,5,1,2026-04-04,89000.00,Accepted,51,,UNSUCCESSFUL
+17,453,7430,565,2026-04-02,2026-05-17,Active,Technology,Full Stack Developer,JOB-2026-00565,Full Stack Developer,Closed,7,3,12,9,4,2026-04-01,115000.00,Accepted,29,45,SUCCESSFUL
+80,148,4466,778,2026-03-30,,Fell Through,Data & Analytics,Data Analyst,JOB-2026-00778,Data Analyst,Closed,2,21,11,12,2,2026-03-29,59000.00,Accepted,42,,UNSUCCESSFUL
+38,240,8990,808,2026-03-29,2026-04-26,Active,Data & Analytics,Full Stack Developer,JOB-2026-00808,Full Stack Developer,Open,2,8,16,19,3,2026-03-22,154000.00,Accepted,29,28,SUCCESSFUL
+135,271,193,728,2026-03-29,,Fell Through,Data & Analytics,Senior Java Developer,JOB-2026-00728,Senior Java Developer,Open,2,7,16,16,3,2026-03-22,172000.00,Accepted,51,,UNSUCCESSFUL
+85,238,4556,33,2026-03-27,2026-04-09,Active,Technology,Senior Data Analyst,JOB-2026-00033,Senior Data Analyst,Open,7,3,12,5,4,2026-03-26,106000.00,Accepted,33,13,SUCCESSFUL
+68,352,9396,795,2026-03-24,2026-04-10,Active,Information Technology,Data Analyst,JOB-2026-00795,Data Analyst,Filled,6,6,11,8,2,2026-03-22,158000.00,Accepted,30,17,SUCCESSFUL
+256,422,7599,785,2026-03-23,2026-04-07,Active,Information Technology,Data Scientist,JOB-2026-00785,Data Scientist,Open,6,7,16,14,2,2026-03-16,102000.00,Accepted,46,15,SUCCESSFUL
+194,546,2355,772,2026-03-20,2026-04-16,Active,Technology,Senior Data Analyst,JOB-2026-00772,Senior Data Analyst,Closed,7,10,12,6,4,2026-03-18,149000.00,Accepted,48,27,SUCCESSFUL
+45,485,612,882,2026-03-18,2026-04-22,Completed Guarantee Period,Technology,Full Stack Developer,JOB-2026-00882,Full Stack Developer,Open,7,21,16,10,4,2026-03-17,109000.00,Accepted,39,35,SUCCESSFUL
+245,102,6388,954,2026-03-17,2026-05-03,Active,Information Technology,DevOps Engineer,JOB-2026-00954,DevOps Engineer,Filled,6,4,17,14,3,2026-03-16,96000.00,Accepted,25,47,SUCCESSFUL
+35,265,9508,727,2026-03-14,2026-03-25,Active,Information Technology,Java Developer,JOB-2026-00727,Java Developer,Open,6,8,11,8,1,2026-03-08,106000.00,Accepted,42,11,SUCCESSFUL
+74,322,2128,410,2026-03-14,,Fell Through,Technology,Data Scientist,JOB-2026-00410,Data Scientist,Filled,7,21,11,11,4,2026-03-07,187000.00,Accepted,50,,UNSUCCESSFUL
+55,210,3529,737,2026-03-13,2026-04-07,Active,Data & Analytics,Full Stack Developer,JOB-2026-00737,Full Stack Developer,Open,2,6,11,10,4,2026-03-11,78000.00,Accepted,34,25,SUCCESSFUL
+165,473,4240,242,2026-03-12,2026-04-09,Active,Information Technology,DevOps Engineer,JOB-2026-00242,DevOps Engineer,Closed,6,22,14,8,3,2026-03-07,148000.00,Accepted,37,28,SUCCESSFUL
+109,463,6040,173,2026-03-10,2026-03-26,Active,Technology,Senior Data Analyst,JOB-2026-00173,Senior Data Analyst,Open,7,22,12,14,4,2026-03-06,57000.00,Accepted,44,16,SUCCESSFUL
+240,259,5421,991,2026-03-09,2026-03-31,Completed Guarantee Period,Information Technology,Data Scientist,JOB-2026-00991,Data Scientist,Open,6,1,11,6,4,2026-03-03,85000.00,Accepted,40,22,SUCCESSFUL
+7,484,5694,537,2026-03-08,2026-03-25,Active,Technology,Java Developer,JOB-2026-00537,Java Developer,Closed,7,4,15,15,1,2026-03-06,151000.00,Accepted,42,17,SUCCESSFUL
+162,217,3667,743,2026-03-07,2026-04-11,Active,Technology,Data Analyst,JOB-2026-00743,Data Analyst,Open,7,8,12,6,4,2026-03-05,115000.00,Accepted,40,35,SUCCESSFUL
+238,19,6041,89,2026-03-07,2026-03-20,Active,Technology,Data Analyst,JOB-2026-00089,Data Analyst,Filled,7,7,14,15,1,2026-03-05,166000.00,Accepted,47,13,SUCCESSFUL
+272,111,6590,519,2026-03-06,2026-04-05,Active,Information Technology,Business Analyst,JOB-2026-00519,Business Analyst,Open,6,2,12,19,3,2026-03-04,168000.00,Accepted,42,30,SUCCESSFUL
+144,18,4484,145,2026-03-06,2026-04-03,Active,Technology,Data Scientist,JOB-2026-00145,Data Scientist,Open,7,8,11,14,4,2026-02-27,140000.00,Accepted,53,28,SUCCESSFUL
+25,56,9851,835,2026-02-28,2026-04-03,Active,Technology,Senior Java Developer,JOB-2026-00835,Senior Java Developer,Closed,7,5,12,21,1,2026-02-24,156000.00,Accepted,43,34,SUCCESSFUL
+253,186,9498,824,2026-02-28,2026-04-08,Active,Technology,Data Analyst,JOB-2026-00824,Data Analyst,Closed,7,1,16,9,3,2026-02-21,160000.00,Accepted,46,39,SUCCESSFUL
+16,248,3636,555,2026-02-21,2026-03-10,Active,Data & Analytics,Senior Java Developer,JOB-2026-00555,Senior Java Developer,Open,2,7,16,1,3,2026-02-16,172000.00,Accepted,28,17,SUCCESSFUL
+277,367,741,762,2026-02-18,,Fell Through,Technology,AI Engineer,JOB-2026-00762,AI Engineer,Closed,7,6,15,9,4,2026-02-16,158000.00,Accepted,48,,UNSUCCESSFUL
+193,246,3309,215,2026-02-13,2026-03-22,Active,Technology,Java Developer,JOB-2026-00215,Java Developer,Open,7,2,15,11,1,2026-02-10,117000.00,Accepted,39,37,SUCCESSFUL
+169,289,2462,945,2026-02-08,2026-03-28,Active,Technology,Senior Data Analyst,JOB-2026-00945,Senior Data Analyst,Open,7,5,15,7,4,2026-02-06,162000.00,Accepted,36,48,SUCCESSFUL
+130,325,6998,343,2026-02-04,2026-02-24,Active,Technology,Senior Java Developer,JOB-2026-00343,Senior Java Developer,Open,7,1,17,20,3,2026-02-01,177000.00,Accepted,52,20,SUCCESSFUL
+54,389,5056,606,2026-02-01,2026-02-24,Active,Technology,Senior Data Analyst,JOB-2026-00606,Senior Data Analyst,Filled,7,2,14,5,1,2026-01-31,93000.00,Accepted,33,23,SUCCESSFUL
+51,195,3197,747,2026-01-31,2026-02-10,Completed Guarantee Period,Technology,Full Stack Developer,JOB-2026-00747,Full Stack Developer,Closed,7,7,11,9,3,2026-01-25,183000.00,Accepted,49,10,SUCCESSFUL
+89,303,8721,575,2026-01-29,2026-03-04,Active,Data & Analytics,Java Developer,JOB-2026-00575,Java Developer,Open,2,8,14,12,1,2026-01-26,114000.00,Accepted,40,34,SUCCESSFUL
+66,309,8706,86,2026-01-29,2026-03-18,Active,Data & Analytics,ML Engineer,JOB-2026-00086,ML Engineer,Closed,2,9,15,12,2,2026-01-27,177000.00,Accepted,43,48,SUCCESSFUL
+247,440,1739,6,2026-01-28,2026-03-01,Active,Information Technology,ML Engineer,JOB-2026-00006,ML Engineer,Closed,6,8,12,5,3,2026-01-24,131000.00,Accepted,43,32,SUCCESSFUL
+213,194,6653,674,2026-01-27,2026-02-10,Active,Technology,Senior Data Analyst,JOB-2026-00674,Senior Data Analyst,Filled,7,2,15,16,3,2026-01-26,151000.00,Accepted,35,14,SUCCESSFUL
+108,469,2603,894,2026-01-26,2026-02-20,Active,Information Technology,AI Engineer,JOB-2026-00894,AI Engineer,Closed,6,1,16,3,1,2026-01-20,157000.00,Accepted,49,25,SUCCESSFUL
+90,39,9569,613,2026-01-24,2026-02-12,Completed Guarantee Period,Data & Analytics,ML Engineer,JOB-2026-00613,ML Engineer,Open,2,1,16,7,3,2026-01-21,104000.00,Accepted,35,19,SUCCESSFUL
+219,55,5167,584,2026-01-21,,Fell Through,Technology,Data Scientist,JOB-2026-00584,Data Scientist,Closed,7,23,14,3,4,2026-01-16,187000.00,Accepted,40,,UNSUCCESSFUL
+96,85,2697,181,2026-01-14,2026-02-25,Active,Data & Analytics,Full Stack Developer,JOB-2026-00181,Full Stack Developer,Filled,2,6,17,18,1,2026-01-08,168000.00,Accepted,43,42,SUCCESSFUL
+258,286,9010,821,2026-01-10,2026-02-04,Active,Data & Analytics,Business Analyst,JOB-2026-00821,Business Analyst,Closed,2,6,16,11,3,2026-01-08,135000.00,Accepted,35,25,SUCCESSFUL
+241,179,5661,906,2026-01-05,,Fell Through,Information Technology,Full Stack Developer,JOB-2026-00906,Full Stack Developer,Closed,6,8,12,3,1,2026-01-04,152000.00,Accepted,47,,UNSUCCESSFUL
+73,383,8370,129,2025-12-26,2026-01-10,Active,Technology,AI Engineer,JOB-2026-00129,AI Engineer,Filled,7,21,17,1,2,2025-12-25,134000.00,Accepted,39,15,SUCCESSFUL
+138,555,6859,567,2025-12-25,2026-01-09,Active,Information Technology,Business Analyst,JOB-2026-00567,Business Analyst,Filled,6,7,16,17,1,2025-12-21,154000.00,Accepted,43,15,SUCCESSFUL
+251,266,6704,360,2025-12-20,2026-01-08,Active,Technology,Senior Java Developer,JOB-2026-00360,Senior Java Developer,Filled,7,9,11,19,2,2025-12-15,144000.00,Accepted,41,19,SUCCESSFUL
+281,53,6731,598,2025-12-13,2026-01-29,Active,Data & Analytics,Senior Data Analyst,JOB-2026-00598,Senior Data Analyst,Filled,2,3,13,6,4,2025-12-10,151000.00,Accepted,44,47,SUCCESSFUL
+137,388,6551,90,2025-12-12,2026-01-31,Completed Guarantee Period,Technology,Data Analyst,JOB-2026-00090,Data Analyst,Open,7,4,16,15,4,2025-12-11,57000.00,Accepted,38,50,SUCCESSFUL
+198,502,8825,741,2025-12-11,2026-01-27,Active,Technology,Full Stack Developer,JOB-2026-00741,Full Stack Developer,Open,7,6,17,8,1,2025-12-09,121000.00,Accepted,37,47,SUCCESSFUL
+215,172,9212,851,2025-12-11,2026-01-27,Active,Information Technology,Business Analyst,JOB-2026-00851,Business Analyst,Filled,6,3,11,9,3,2025-12-09,105000.00,Accepted,39,47,SUCCESSFUL
+9,465,1540,715,2025-12-07,2025-12-26,Active,Information Technology,DevOps Engineer,JOB-2026-00715,DevOps Engineer,Closed,6,7,11,8,2,2025-12-01,101000.00,Accepted,50,19,SUCCESSFUL
+52,76,4755,671,2025-12-04,,Fell Through,Technology,AI Engineer,JOB-2026-00671,AI Engineer,Closed,7,4,15,4,2,2025-12-01,152000.00,Accepted,34,,UNSUCCESSFUL
+8,364,6386,449,2025-12-01,2026-01-20,Active,Technology,AI Engineer,JOB-2026-00449,AI Engineer,Open,7,10,14,20,2,2025-11-25,160000.00,Accepted,52,50,SUCCESSFUL
+30,452,918,254,2025-11-26,2026-01-03,Active,Information Technology,Full Stack Developer,JOB-2026-00254,Full Stack Developer,Closed,6,9,14,17,4,2025-11-22,140000.00,Accepted,38,38,SUCCESSFUL
+179,295,6611,715,2025-11-26,2026-01-18,Active,Information Technology,DevOps Engineer,JOB-2026-00715,DevOps Engineer,Closed,6,7,11,8,2,2025-11-22,76000.00,Accepted,43,53,SUCCESSFUL
+136,166,4016,284,2025-11-26,2026-01-03,Completed Guarantee Period,Technology,AI Engineer,JOB-2026-00284,AI Engineer,Open,7,10,15,18,1,2025-11-23,119000.00,Accepted,44,38,SUCCESSFUL
+76,368,6119,159,2025-11-23,2025-12-06,Active,Information Technology,Senior Java Developer,JOB-2026-00159,Senior Java Developer,Closed,6,5,11,3,2,2025-11-21,154000.00,Accepted,46,13,SUCCESSFUL
+184,553,5038,614,2025-11-21,2025-12-05,Active,Data & Analytics,Full Stack Developer,JOB-2026-00614,Full Stack Developer,Open,2,9,17,11,2,2025-11-15,117000.00,Accepted,39,14,SUCCESSFUL
+266,357,4513,727,2025-11-16,2025-11-25,Active,Information Technology,Java Developer,JOB-2026-00727,Java Developer,Open,6,8,11,8,1,2025-11-11,83000.00,Accepted,39,9,SUCCESSFUL
+26,566,9479,700,2025-11-14,2025-12-24,Completed Guarantee Period,Technology,Data Analyst,JOB-2026-00700,Data Analyst,Closed,7,4,17,20,3,2025-11-07,80000.00,Accepted,30,40,SUCCESSFUL
+212,556,5710,173,2025-11-10,2025-12-01,Completed Guarantee Period,Technology,Senior Data Analyst,JOB-2026-00173,Senior Data Analyst,Open,7,22,12,14,4,2025-11-08,118000.00,Accepted,43,21,SUCCESSFUL
+163,526,1874,284,2025-10-27,2025-11-12,Active,Technology,AI Engineer,JOB-2026-00284,AI Engineer,Open,7,10,15,18,1,2025-10-24,98000.00,Accepted,35,16,SUCCESSFUL
+75,354,635,658,2025-10-27,2025-12-01,Active,Data & Analytics,Full Stack Developer,JOB-2026-00658,Full Stack Developer,Closed,2,8,14,1,4,2025-10-26,109000.00,Accepted,41,35,SUCCESSFUL
+99,477,7751,712,2025-10-26,2025-11-15,Active,Data & Analytics,AI Engineer,JOB-2026-00712,AI Engineer,Open,2,23,16,8,1,2025-10-21,164000.00,Accepted,36,20,SUCCESSFUL
+230,181,7537,162,2025-10-26,2025-11-10,Completed Guarantee Period,Data & Analytics,Full Stack Developer,JOB-2026-00162,Full Stack Developer,Filled,2,23,17,15,3,2025-10-24,138000.00,Accepted,39,15,SUCCESSFUL
+195,530,6524,745,2025-10-25,2025-12-13,Active,Data & Analytics,Full Stack Developer,JOB-2026-00745,Full Stack Developer,Closed,2,21,14,18,3,2025-10-21,164000.00,Accepted,31,49,SUCCESSFUL
+118,490,6916,307,2025-10-18,2025-11-26,Active,Technology,Senior Data Analyst,JOB-2026-00307,Senior Data Analyst,Filled,7,2,13,3,2,2025-10-14,148000.00,Accepted,53,39,SUCCESSFUL
+123,449,433,798,2025-10-15,2025-11-15,Completed Guarantee Period,Information Technology,Java Developer,JOB-2026-00798,Java Developer,Open,6,6,15,14,4,2025-10-12,101000.00,Accepted,37,31,SUCCESSFUL
+154,448,5439,682,2025-10-15,2025-11-21,Active,Information Technology,Full Stack Developer,JOB-2026-00682,Full Stack Developer,Filled,6,4,13,13,2,2025-10-10,153000.00,Accepted,39,37,SUCCESSFUL
+196,551,9512,152,2025-10-13,2025-12-04,Active,Data & Analytics,Business Analyst,JOB-2026-00152,Business Analyst,Closed,2,9,16,18,3,2025-10-07,167000.00,Accepted,26,52,SUCCESSFUL
+57,323,1656,7,2025-10-10,2025-11-19,Active,Technology,Business Analyst,JOB-2026-00007,Business Analyst,Open,7,1,17,5,1,2025-10-08,135000.00,Accepted,39,40,SUCCESSFUL
+231,159,7125,791,2025-10-08,2025-10-16,Active,Data & Analytics,Data Analyst,JOB-2026-00791,Data Analyst,Open,2,22,12,14,4,2025-10-02,122000.00,Accepted,35,8,SUCCESSFUL
+270,269,232,620,2025-09-30,2025-11-06,Active,Information Technology,ML Engineer,JOB-2026-00620,ML Engineer,Open,6,1,16,9,2,2025-09-25,91000.00,Accepted,34,37,SUCCESSFUL
+48,128,982,66,2025-09-18,2025-10-01,Active,Technology,Full Stack Developer,JOB-2026-00066,Full Stack Developer,Open,7,7,12,5,2,2025-09-16,74000.00,Accepted,27,13,SUCCESSFUL
+72,302,8828,244,2025-09-17,2025-10-07,Active,Data & Analytics,ML Engineer,JOB-2026-00244,ML Engineer,Open,2,3,16,11,2,2025-09-16,165000.00,Accepted,42,20,SUCCESSFUL
+187,100,3962,805,2025-09-15,2025-10-17,Active,Data & Analytics,Data Scientist,JOB-2026-00805,Data Scientist,Filled,2,9,14,3,4,2025-09-08,64000.00,Accepted,38,32,SUCCESSFUL
+63,372,6489,74,2025-09-06,2025-10-30,Active,Technology,Data Analyst,JOB-2026-00074,Data Analyst,Closed,7,2,14,12,4,2025-08-31,138000.00,Accepted,49,54,SUCCESSFUL
+222,12,5598,9,2025-09-05,,Fell Through,Information Technology,ML Engineer,JOB-2026-00009,ML Engineer,Filled,6,10,12,12,2,2025-09-03,170000.00,Accepted,48,,UNSUCCESSFUL
+102,280,6505,871,2025-08-20,2025-09-17,Active,Technology,Business Analyst,JOB-2026-00871,Business Analyst,Filled,7,9,12,4,3,2025-08-15,66000.00,Accepted,28,28,SUCCESSFUL
+78,534,4895,433,2025-08-14,2025-08-29,Active,Data & Analytics,AI Engineer,JOB-2026-00433,AI Engineer,Filled,2,2,11,16,1,2025-08-07,64000.00,Accepted,32,15,SUCCESSFUL
+126,503,7977,867,2025-08-06,2025-08-31,Active,Information Technology,AI Engineer,JOB-2026-00867,AI Engineer,Closed,6,10,11,19,3,2025-08-01,128000.00,Accepted,47,25,SUCCESSFUL
+133,59,1401,357,2025-07-31,2025-09-06,Active,Data & Analytics,Business Analyst,JOB-2026-00357,Business Analyst,Closed,2,2,16,20,2,2025-07-26,64000.00,Accepted,41,37,SUCCESSFUL
+285,118,3867,982,2025-07-23,2025-08-07,Active,Data & Analytics,Full Stack Developer,JOB-2026-00982,Full Stack Developer,Filled,2,9,11,13,2,2025-07-18,113000.00,Accepted,44,15,SUCCESSFUL
+58,116,7029,275,2025-07-18,,Fell Through,Information Technology,DevOps Engineer,JOB-2026-00275,DevOps Engineer,Filled,6,10,15,19,4,2025-07-15,148000.00,Accepted,42,,UNSUCCESSFUL
+243,492,4444,897,2025-06-26,2025-08-10,Active,Technology,Data Scientist,JOB-2026-00897,Data Scientist,Closed,7,23,11,15,3,2025-06-25,113000.00,Accepted,37,45,SUCCESSFUL
+124,80,8934,335,2025-06-23,2025-07-30,Active,Data & Analytics,AI Engineer,JOB-2026-00335,AI Engineer,Open,2,10,12,1,3,2025-06-17,88000.00,Accepted,36,37,SUCCESSFUL
+225,93,5178,401,2025-06-10,2025-06-29,Completed Guarantee Period,Technology,Senior Data Analyst,JOB-2026-00401,Senior Data Analyst,Open,7,9,11,18,3,2025-06-04,119000.00,Accepted,38,19,SUCCESSFUL
+101,416,9396,307,2025-05-06,2025-05-28,Completed Guarantee Period,Technology,Senior Data Analyst,JOB-2026-00307,Senior Data Analyst,Filled,7,2,13,3,2,2025-05-02,114000.00,Accepted,45,22,SUCCESSFUL
+209,198,7809,379,2025-05-04,2025-06-10,Completed Guarantee Period,Technology,DevOps Engineer,JOB-2026-00379,DevOps Engineer,Open,7,8,16,21,1,2025-05-03,154000.00,Accepted,33,37,SUCCESSFUL
+146,552,5933,784,2025-03-12,2025-05-05,Active,Technology,Senior Data Analyst,JOB-2026-00784,Senior Data Analyst,Open,7,4,13,11,3,2025-03-07,117000.00,Accepted,43,54,SUCCESSFUL

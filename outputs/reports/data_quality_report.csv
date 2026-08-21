@@ -1,0 +1,107 @@
+category,check_name,value,expected,status,notes
+Database,Database Connection,recruitment_analytics,recruitment_analytics,PASS,TalentIQ PostgreSQL database
+Row Count,companies row count,23,> 0,PASS,Table should contain data
+Row Count,departments row count,7,> 0,PASS,Table should contain data
+Row Count,locations row count,21,> 0,PASS,Table should contain data
+Row Count,sources row count,9,> 0,PASS,Table should contain data
+Row Count,skills row count,54,> 0,PASS,Table should contain data
+Row Count,work_authorizations row count,7,> 0,PASS,Table should contain data
+Row Count,recruiters row count,8,> 0,PASS,Table should contain data
+Row Count,candidates row count,10000,> 0,PASS,Table should contain data
+Row Count,candidate_skills row count,55124,> 0,PASS,Table should contain data
+Row Count,jobs row count,1000,> 0,PASS,Table should contain data
+Row Count,job_skills row count,5075,> 0,PASS,Table should contain data
+Row Count,applications row count,30000,> 0,PASS,Table should contain data
+Row Count,interviews row count,12426,> 0,PASS,Table should contain data
+Row Count,offers row count,568,> 0,PASS,Table should contain data
+Row Count,placements row count,286,> 0,PASS,Table should contain data
+Duplicates,companies.company_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,departments.department_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,locations.location_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,sources.source_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,skills.skill_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,work_authorizations.work_authorization_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,recruiters.recruiter_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,candidates.candidate_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,jobs.job_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,applications.application_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,interviews.interview_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,offers.offer_id duplicates,0,0,PASS,Primary identifier must be unique
+Duplicates,placements.placement_id duplicates,0,0,PASS,Primary identifier must be unique
+Business Keys,Duplicate job codes,0,0,PASS,Each job should have a unique job_code
+Business Keys,Duplicate candidate emails,0,0,PASS,Candidate email checked case-insensitively
+NULL Validation,Missing candidate names,0,0,PASS,
+NULL Validation,Missing candidate emails,0,0,PASS,
+NULL Validation,Missing candidate experience,0,0,PASS,
+NULL Validation,Missing candidate location,0,0,PASS,
+NULL Validation,Missing candidate work authorization,0,0,PASS,
+NULL Validation,Missing candidate source,0,0,PASS,
+NULL Validation,Missing job titles,0,0,PASS,
+NULL Validation,Missing job departments,0,0,PASS,
+NULL Validation,Missing job locations,0,0,PASS,
+NULL Validation,Missing assigned recruiters,0,0,PASS,
+NULL Validation,Missing job opened dates,0,0,PASS,
+NULL Validation,Missing job statuses,0,0,PASS,
+NULL Validation,Missing application candidate IDs,0,0,PASS,
+NULL Validation,Missing application job IDs,0,0,PASS,
+NULL Validation,Missing application recruiter IDs,0,0,PASS,
+NULL Validation,Missing application dates,0,0,PASS,
+NULL Validation,Missing application stages,0,0,PASS,
+NULL Validation,Missing application statuses,0,0,PASS,
+NULL Validation,Missing offer application IDs,0,0,PASS,
+NULL Validation,Missing offer dates,0,0,PASS,
+NULL Validation,Missing offered salaries,0,0,PASS,
+NULL Validation,Missing offer statuses,0,0,PASS,
+NULL Validation,Missing placement candidate IDs,0,0,PASS,
+NULL Validation,Missing placement job IDs,0,0,PASS,
+NULL Validation,Missing placement dates,0,0,PASS,
+NULL Validation,Missing placement statuses,0,0,PASS,
+Foreign Key,Applications → Candidates,0,0,PASS,Orphan record count
+Foreign Key,Applications → Jobs,0,0,PASS,Orphan record count
+Foreign Key,Applications → Recruiters,0,0,PASS,Orphan record count
+Foreign Key,Interviews → Applications,0,0,PASS,Orphan record count
+Foreign Key,Offers → Applications,0,0,PASS,Orphan record count
+Foreign Key,Placements → Offers,0,0,PASS,Orphan record count
+Foreign Key,Placements → Candidates,0,0,PASS,Orphan record count
+Foreign Key,Placements → Jobs,0,0,PASS,Orphan record count
+Foreign Key,Candidate Skills → Candidates,0,0,PASS,Orphan record count
+Foreign Key,Candidate Skills → Skills,0,0,PASS,Orphan record count
+Foreign Key,Job Skills → Jobs,0,0,PASS,Orphan record count
+Foreign Key,Job Skills → Skills,0,0,PASS,Orphan record count
+Foreign Key,Jobs → Departments,0,0,PASS,Orphan record count
+Foreign Key,Jobs → Locations,0,0,PASS,Orphan record count
+Foreign Key,Jobs → Recruiters,0,0,PASS,Orphan record count
+Foreign Key,Candidates → Locations,0,0,PASS,Orphan record count
+Foreign Key,Candidates → Sources,0,0,PASS,Orphan record count
+Foreign Key,Candidates → Work Authorizations,0,0,PASS,Orphan record count
+Date Integrity,Jobs closed before opened,0,0,PASS,
+Date Integrity,Applications before job opened,0,0,PASS,
+Date Integrity,Interviews before application,0,0,PASS,
+Date Integrity,Offers before application,0,0,PASS,
+Date Integrity,Placements before offer,0,0,PASS,
+Date Integrity,Joining before placement,0,0,PASS,
+Salary,Negative offered salaries,0,0,PASS,
+Salary,Jobs with negative minimum salary,0,0,PASS,
+Salary,Jobs with negative maximum salary,0,0,PASS,
+Salary,Jobs where minimum salary exceeds maximum,0,0,PASS,
+Placement Integrity,Placement candidate mismatch,0,0,PASS,Placement candidate should match the candidate from the linked application
+Placement Integrity,Placement job mismatch,0,0,PASS,Placement job should match the job from the linked application
+Placement Integrity,Placement linked to non-accepted offer,0,0,PASS,Placements should normally originate from accepted offers
+Dashboard Views,vw_dashboard_executive_kpis row count,1,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_recruitment_funnel row count,8,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_application_status row count,4,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_job_performance row count,1000,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_job_aging row count,1000,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_recruiter_performance row count,8,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_time_trends row count,20,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_salary_analysis row count,568,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_placement_analysis row count,286,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_candidate_analysis row count,10000,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_client_analysis row count,13,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_executive_job_summary row count,1000,> 0,PASS,Dashboard view should return data
+Dashboard Views,vw_dashboard_master row count,1000,> 0,PASS,Dashboard view should return data
+Dashboard Views,Negative job ages,0,0,PASS,Job age uses synthetic snapshot date 2026-12-31
+Dashboard Views,Negative candidate ages,0,0,PASS,Candidate age uses synthetic snapshot date 2026-12-31
+Dashboard Views,Invalid funnel percentages,0,0,PASS,
+Dashboard Views,Invalid recruiter hire rates,0,0,PASS,
+Dashboard Views,Invalid recruiter placement rates,0,0,PASS,
