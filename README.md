@@ -130,9 +130,10 @@ flowchart TD
 
     U --> V[Recruiter or Hiring Manager]
     E --> V
-    
+
+```  
 The platform supports both structured recruitment analytics and unstructured resume intelligence.
-```
+
 ---
 
 # Core Features
