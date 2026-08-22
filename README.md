@@ -92,8 +92,9 @@ flowchart TD
 
     B --> C[SQL Analytics Layer]
     C --> D[Dashboard Views]
+
     D --> E[Tableau Dashboards]
-    D --> F[Streamlit Recruitment Analytics]
+    D --> F[Streamlit Analytics]
 
     B --> G[Python Analytics]
     G --> H[Data Quality Validation]
@@ -103,12 +104,12 @@ flowchart TD
     I --> J
 
     J --> K[Semantic Candidate Matcher]
-    L[Sentence Transformers<br/>all-MiniLM-L6-v2] --> K
+    L[Sentence Transformers] --> K
 
-    M[Resume PDF / TXT] --> N[Resume Analyzer]
-    N --> O[Resume Profile + Extracted Skills]
+    M[Resume PDF or TXT] --> N[Resume Analyzer]
+    N --> O[Resume Profile and Skills]
 
-    O --> P[Resume → Job Matcher]
+    O --> P[Resume to Job Matcher]
     B --> P
     L --> P
 
@@ -127,9 +128,9 @@ flowchart TD
     P --> U
     T --> U
 
-    U --> V[Recruiter / Hiring Manager]
+    U --> V[Recruiter or Hiring Manager]
     E --> V
-
+    
 The platform supports both structured recruitment analytics and unstructured resume intelligence.
 
 ---
