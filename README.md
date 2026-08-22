@@ -132,7 +132,7 @@ flowchart TD
     E --> V
     
 The platform supports both structured recruitment analytics and unstructured resume intelligence.
-
+```
 ---
 
 # Core Features
