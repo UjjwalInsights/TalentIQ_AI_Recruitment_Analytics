@@ -1,10 +1,20 @@
-# TalentIQ — AI Recruitment Analytics & Intelligent Hiring Platform
+# Talent IQ — AI Recruitment Intelligence Platform
 
-**TalentIQ** is an end-to-end recruitment analytics and AI hiring platform built with **PostgreSQL, Python, Streamlit, Tableau, Sentence Transformers, and a local Llama 3.2 model through Ollama**.
+**Talent IQ** is an end-to-end recruitment intelligence platform that combines **analytics, business intelligence, candidate matching, resume intelligence, semantic search, and Retrieval-Augmented Generation (RAG)** in one hiring workspace.
 
-The project combines traditional recruitment analytics with AI-powered candidate matching, semantic search, resume intelligence, and Retrieval-Augmented Generation (RAG).
+Built with **PostgreSQL, SQL, Python, Tableau, Streamlit, Sentence Transformers, Llama 3.2, and Ollama**.
 
-It is designed to demonstrate how recruitment teams can transform raw hiring data into actionable insights while using AI to improve candidate discovery and job matching.
+The platform covers the complete recruitment lifecycle:
+
+**Jobs → Candidates → Applications → Interviews → Offers → Placements**
+
+### 🔗 Project Links
+
+📊 **[View Live Tableau Dashboards]([YOUR_TABLEAU_PUBLIC_LINK](https://public.tableau.com/views/TalentIQ_Recruitment_Analytics/01ExecutiveRecruitmentOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**  
+💻 **GitHub Repository:** This repository  
+🧠 **AI Application:** Streamlit application runs locally with Ollama
+
+> **Note:** The project uses synthetic recruitment data created specifically for portfolio, analytics, and AI experimentation. No real candidate or client information is used.
 
 ---
 
