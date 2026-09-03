@@ -10,7 +10,7 @@ The platform covers the complete recruitment lifecycle:
 
 ### 🔗 Project Links
 
-📊 **[View Live Tableau Dashboards]([YOUR_TABLEAU_PUBLIC_LINK](https://public.tableau.com/views/TalentIQ_Recruitment_Analytics/01ExecutiveRecruitmentOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**  
+📊 **[View Live Tableau Dashboards](https://public.tableau.com/views/TalentIQ_Recruitment_Analytics/01ExecutiveRecruitmentOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 💻 **GitHub Repository:** This repository  
 🧠 **AI Application:** Streamlit application runs locally with Ollama
 
@@ -79,13 +79,13 @@ This makes it difficult to answer important business questions such as:
 * What skills and experience does a candidate have?
 * Can recruiters ask recruitment questions using natural language?
 
-TalentIQ brings these workflows together into a single analytical and AI-powered platform.
+Talent IQ brings these workflows together into a single analytical and AI-powered platform.
 
 ---
 
 # Solution Overview
 
-TalentIQ contains five major layers:
+Talent IQ contains five major layers:
 
 1. **PostgreSQL Recruitment Database**
 2. **SQL & Python Recruitment Analytics**
@@ -206,7 +206,7 @@ Recruiter performance is evaluated using:
 * Performance score
 * Application aging
 
-TalentIQ currently contains **8 recruiters** distributed across the recruitment dataset.
+Talent IQ currently contains **8 recruiters** distributed across the recruitment dataset.
 
 ---
 
@@ -232,7 +232,7 @@ This allows recruitment managers to quickly identify:
 
 ## 5. Client Performance Analytics
 
-TalentIQ analyzes hiring performance by client using metrics such as:
+Talent IQ analyzes hiring performance by client using metrics such as:
 
 * Total Jobs
 * Open Jobs
@@ -247,7 +247,7 @@ TalentIQ analyzes hiring performance by client using metrics such as:
 
 # AI Candidate Matching Engine
 
-TalentIQ includes a structured candidate matching engine that evaluates candidates against job requirements.
+Talent IQ includes a structured candidate matching engine that evaluates candidates against job requirements.
 
 The scoring system evaluates:
 
@@ -283,7 +283,7 @@ REVIEW
 
 # Semantic + Hybrid Candidate Matching
 
-TalentIQ goes beyond keyword matching by using:
+Talent IQ goes beyond keyword matching by using:
 
 **Sentence Transformers**
 
@@ -303,13 +303,13 @@ Semantic Similarity Score
 Hybrid Candidate Match Score
 ```
 
-This allows TalentIQ to identify candidates who may be relevant even when their resume wording differs from the job description.
+This allows Talent IQ to identify candidates who may be relevant even when their resume wording differs from the job description.
 
 ---
 
 # Resume Analyzer
 
-TalentIQ can analyze PDF and text resumes.
+Talent IQ can analyze PDF and text resumes.
 
 The resume engine extracts:
 
@@ -338,7 +338,7 @@ A fictional resume is included in the repository for safe demonstration.
 
 # Resume → Job Matching Engine
 
-TalentIQ can rank open jobs against an uploaded candidate resume.
+Talent IQ can rank open jobs against an uploaded candidate resume.
 
 The engine combines:
 
@@ -373,7 +373,7 @@ Status              : PASS
 
 # AI Hiring Assistant — Hybrid RAG
 
-TalentIQ includes a natural-language hiring assistant.
+Talent IQ includes a natural-language hiring assistant.
 
 The assistant can answer questions related to:
 
@@ -394,7 +394,7 @@ What are the skills of Priya Sharma?
 Detected Intent:
 resume
 
-TalentIQ:
+Talent IQ:
 Generates a grounded response using retrieved resume context.
 ```
 
@@ -420,7 +420,7 @@ Grounded Answer
 
 # Local AI Architecture
 
-TalentIQ does **not require a paid LLM API**.
+Talent IQ does **not require a paid LLM API**.
 
 The current AI stack uses:
 
@@ -443,7 +443,7 @@ This keeps the AI workflow local and makes the project inexpensive to run.
 
 # Streamlit Application
 
-TalentIQ provides an interactive Streamlit application with six modules:
+Talent IQ provides an interactive Streamlit application with six modules:
 
 ```text
 1. Executive Overview
@@ -469,6 +469,8 @@ Trends
 # Tableau Dashboards
 
 The analytics layer also feeds four Tableau dashboards.
+
+👉 **[View the live Tableau Public dashboards](https://public.tableau.com/views/TalentIQ_Recruitment_Analytics/01ExecutiveRecruitmentOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ### 01 — Executive Recruitment Overview
 
@@ -535,7 +537,7 @@ Focus:
 
 # Database Design
 
-TalentIQ uses a normalized PostgreSQL recruitment schema containing **15 primary tables**.
+Talent IQ uses a normalized PostgreSQL recruitment schema containing **15 primary tables**.
 
 Key tables include:
 
@@ -609,7 +611,7 @@ vw_dashboard_master
 
 # Data Quality & Validation
 
-TalentIQ includes an automated Python data-quality framework.
+Talent IQ includes an automated Python data-quality framework.
 
 Validation covers:
 
@@ -766,7 +768,7 @@ Never commit the real `.env` file.
 
 # PostgreSQL Setup
 
-Create the TalentIQ database and execute the SQL files in the `database/` directory.
+Create the Talent IQ database and execute the SQL files in the `database/` directory.
 
 The main database is:
 
@@ -903,7 +905,7 @@ The following components have been manually tested successfully:
 Python Syntax                     PASS
 Python Dependencies               PASS
 PostgreSQL Connection             PASS
-TalentIQ Database Module          PASS
+Talent IQ Database Module          PASS
 Data Quality Framework            PASS
 Recruitment Analytics             PASS
 Feature Engineering               PASS
@@ -938,7 +940,7 @@ Potential future enhancements include:
 
 # Purpose
 
-TalentIQ was built as a portfolio project demonstrating practical skills across:
+Talent IQ was built as a portfolio project demonstrating practical skills across:
 
 **Data Analytics + SQL + PostgreSQL + Python + Business Intelligence + Machine Learning concepts + NLP + Semantic Search + RAG + Local LLMs + Application Development**
 
